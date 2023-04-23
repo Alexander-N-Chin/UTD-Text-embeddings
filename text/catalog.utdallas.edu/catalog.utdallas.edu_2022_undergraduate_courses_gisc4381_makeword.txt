@@ -1,0 +1,18 @@
+
+
+
+Spatial Data Science (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogGISC4381 - Spatial Data ScienceGISC 4381 Spatial Data Science (3 semester credit hours) Data science has emerged as one of the key drivers of societal transformation. Many data have intrinsic spatial properties (e.g., locations, geometry, and boundary) and subsequent relationships and interactions in space and time. Such spatial data are critical to find solutions or develop applications for emergency management, environmental sustainability, public health, smart city, public safety, business logistics, driverless cars, ecological conservation, and many other problem domains. This course aims to help students develop knowledge and skills to ask spatial questions, find, process and analyze spatial data, solve spatial problems, and communicate their findings. Specifically, the course will introduce spatial data analytics and machine learning methods. Central to the course is learning how to think through spatial problems and formulate solutions in spatial data science frameworks. How can we leverage spatial properties of data to advance our understanding of the roles, functions, and processes of location, space, and place on the society, environment, and their interactions? How does spatiality provide efficient frameworks to organize information, conceptualize real-world problems, and innovate solutions? Technically, we will explore machine learning with ArcGIS and proceed with open-source Python libraries (e.g., pandas, geopandas, scipy, stats, scikitlearn, and if time permits, keras and tensorflow) with cloud technologies, for example, AWS, Microsoft Azure, and Google Cloud Platform. (3-0) Y
+
+
+
+

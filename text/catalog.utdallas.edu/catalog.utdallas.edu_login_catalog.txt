@@ -1,0 +1,50 @@
+ 
+
+COMET AUTH - University of Texas at Dallas - Web Authentication
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Comet Auth
+    
+
+
+
+
+NetID
+        
+
+Password
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+Forgot your password? Need a NetID?
+
+
+Use of UTD Information Systems is subject to the UTD Information Security and Acceptable Use Policy. Pursuant to Texas Administrative Code 202: (1) Unauthorized use is prohibited; (2) Usage may be subject to security testing and monitoring; (3) Misuse is subject to criminal prosecution; and (4) Users have no expectation of privacy except as otherwise provided by applicable privacy laws.
+Copyright © 2006-2023, The University of Texas at Dallas
+
+
+
+

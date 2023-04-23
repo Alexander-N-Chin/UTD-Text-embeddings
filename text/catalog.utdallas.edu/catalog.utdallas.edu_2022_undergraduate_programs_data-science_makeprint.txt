@@ -1,0 +1,108 @@
+
+
+
+Data Science (BS) (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate Catalog
+Data Science (BS)
+The Data Science BS is jointly offered by the Department of Mathematical Sciences in the School of Natural Sciences and Mathematics and the Department of Computer Science in the Erik Jonsson School of Engineering and Computer Science. Data Science is an emerging discipline that lies at the intersection of Computer Science, Mathematics, and Statistics. The curriculum for the program provides a solid foundation in all the three disciplines. It prepares students for Data Scientist or related positions in industry, business, and government that are currently in high demand and also for graduate study in either of the three disciplines. The curriculum also includes a capstone project course.
+ 
+Bachelor of Science in Data Science
+Degree Requirements (120 semester credit hours)1
+View an Example of Degree Requirements by Semester
+NSM Faculty
+FACG> nsm-data-science-cert
+ECS Faculty
+FACG> ecs-data-science-cert
+I. Core Curriculum Requirements: 42 semester credit hours2
+Communication: 6 semester credit hours
+RHET 1302 Rhetoric
+Select any 3 semester credit hours from Communication Core courses (see advisor)
+Mathematics: 3 semester credit hours
+MATH 2417 Calculus I3, 4
+Or select any 3 semester credit hours from Mathematics Core courses (see advisor)
+Life and Physical Sciences: 6 semester credit hours3, 5
+PHYS 2325 Mechanics
+or PHYS 2421 Honors Physics I - Mechanics and Heat
+PHYS 2326 Electromagnetism and Waves
+or PHYS 2422 Honors Physics II - Electromagnetism and Waves
+Or select any 6 semester credit hours from Life and Physical Sciences Core courses (see advisor)
+Language, Philosophy and Culture: 3 semester credit hours
+Select any 3 semester credit hours from Language, Philosophy and Culture Core courses (see advisor)
+Creative Arts: 3 semester credit hours
+Select any 3 semester credit hours from Creative Arts Core courses (see advisor)
+American History: 6 semester credit hours
+Select any 6 semester credit hours from American History Core courses (see advisor)
+Government/Political Science: 6 semester credit hours
+GOVT 2305 American National Government
+GOVT 2306 State and Local Government
+Or select any 6 semester credit hours from Government/Political Science Core courses (see advisor)
+Social and Behavioral Sciences: 3 semester credit hours
+Select any 3 semester credit hours from Social and Behavioral Sciences Core courses(see advisor)
+Component Area Option: 6 semester credit hours
+MATH 2417 Calculus I3, 4
+MATH 2419 Calculus II3, 4
+PHYS 2125 Physics Laboratory I3, 5
+or PHYS 2421 Honors Physics I - Mechanics and Heat6, 7
+Or select any 6 semester credit hours from Component Area Option courses (see advisor)
+II. Major Requirements: 64-65 semester credit hours
+Major Preparatory Courses: 18-19 semester credit hours beyond Core Curriculum
+CS 1136 Computer Science Laboratory
+CS 1336 Programming Fundamentals
+CS 1337 Computer Science I
+CS 2336 Computer Science II
+MATH 3315 Discrete Mathematics and Combinatorics
+or CS 2305 Discrete Mathematics for Computing I8
+MATH 2417 Calculus I3, 4, 9
+MATH 2418 Linear Algebra
+MATH 2419 Calculus II3, 4, 9
+PHYS 2325 Mechanics3, 5 and PHYS 2125 Physics Laboratory I3, 5
+or PHYS 2421 Honors Physics I - Mechanics and Heat3, 5, 10
+PHYS 2326 Electromagnetism and Waves3, 5
+or PHYS 2422 Honors Physics II - Electromagnetism and Waves3, 5
+PHYS 2126 Physics Laboratory II
+Major Core Courses: 46 semester credit hours
+CS 3345 Data Structures and Introduction to Algorithmic Analysis
+CS 4347 Database Systems
+CS 4371 Introduction to Big Data Management and Analytics
+CS 4372 Computational Methods for Data Scientists
+CS 4375 Introduction to Machine Learning
+MATH 3310 Theoretical Concepts of Calculus
+MATH 3351 Advanced Calculus
+MATH 4301 Mathematical Analysis I
+STAT 3355 Data Analysis for Statisticians and Actuaries
+STAT 4351 Probability
+STAT 4352 Mathematical Statistics
+STAT 4354 Numerical and Statistical Computing
+STAT 4355 Applied Linear Models
+STAT 4360 Introduction to Statistical Learning
+STAT 4475 Capstone Project
+or CS 4475 Capstone Project
+or MATH 4475 Capstone Project
+III. Elective Requirements: 13-14 semester credit hours
+Guided Electives: 13-14 semester credit hours
+Although both lower- and upper-division courses may count as guided electives, they must be approved by the advisor and the student must complete at least 51 semester credit hours of upper-division courses to qualify for graduation.
+NOTE: Students transferring into this program at the upper-division level are expected to have completed all of the 1000- and 2000- level Mathematics and Computer Science core course requirements.
+1. Incoming freshmen must enroll and complete requirements of UNIV 1010 and the corresponding school-related freshman seminar course. Students, including transfer students, who complete their core curriculum at UT Dallas must take UNIV 2020.
+2. Curriculum Requirements can be fulfilled by other approved courses from institutions of higher education. The courses listed are recommended as the most efficient way to satisfy both Core Curriculum and Major Requirements at UT Dallas.
+3. A required Major course that also fulfills Core Curriculum requirements. If semester credit hours are counted in the Core Curriculum, students must complete additional coursework to meet the minimum requirement for graduation. Course selection assistance is available from the undergraduate advisor.
+4. Three semester credit hours of Calculus are counted to fulfill the Mathematics Core Requirement with the remaining one semester credit hour to be counted under Component Area Option Core.
+5. Six semester credit hours of Physics are counted under Science core, and one semester credit hour of Physics (PHYS 2125) is counted under Component Area Core.
+6. Please consult your advisor if selecting Honors Physics.
+7. Students may use three semester credit hours of PHYS 2421 to count under Science core, and one semester credit hour of PHYS 2421 under Component Area Option core.
+8. BS in Data Science students can substitute MATH 2312 with MATH 2413.
+9. MATH 2417 and MATH 2419 requirements can be fulfilled by completing MATH 2413, MATH 2414, and MATH 2415.
+10. Students who complete PHYS 2421 do not need to complete PHYS 2125.
+Updated: 2021-08-12 11:44:17 v4.f974b6
+
+
+
+

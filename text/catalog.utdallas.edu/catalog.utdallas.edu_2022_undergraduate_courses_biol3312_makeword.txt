@@ -1,0 +1,18 @@
+
+
+
+Introduction to Programming for Biological Sciences (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogBIOL3312 - Introduction to Programming for Biological SciencesBIOL 3312 Introduction to Programming for Biological Sciences (3 semester credit hours) This course is an introduction to programming practices using C++ designed specifically for students in the biological sciences. Special emphasis will be put in particular features of C++ like object oriented programming, some data structures as well as applications to process, model and analyze biological data. One goal of this course is to provide a strong background on programming skills on a basic level while leaving more advanced techniques of software development and algorithms for other advanced courses. This course also covers an introduction to data analysis with R, a statistical platform used widely in the biological sciences community. Prerequisites: (BIOL 2281 or equivalent) and BIOL 2311 and BIOL 2312. (3-0) Y
+
+
+
+

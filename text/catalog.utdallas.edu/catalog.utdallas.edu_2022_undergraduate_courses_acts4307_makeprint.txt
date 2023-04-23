@@ -1,0 +1,18 @@
+
+
+
+Statistics for Risk Modeling (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogACTS4307 - Statistics for Risk ModelingACTS 4307 Statistics for Risk Modeling (3 semester credit hours) The purpose of this class is to provide an understanding of the basics of several important analytic methods such as linear models, time series models, principal components and cluster analysis, and decision trees. This class covers parts of the SOA Exam SRM and leads the student to the deeper preparation for the SOA Exam PA - Predictive Analytics. May be repeated for credit (6 semester credit hours maximum). Prerequisites: STAT 3355 and STAT 4352. (3-0) Y
+
+
+
+

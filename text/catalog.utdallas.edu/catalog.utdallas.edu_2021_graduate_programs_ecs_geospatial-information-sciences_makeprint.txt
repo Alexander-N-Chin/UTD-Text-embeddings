@@ -1,0 +1,148 @@
+
+
+
+Geospatial Information Sciences Program (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2021 Graduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Doctor of Philosophy in Geospatial Information Sciences
+75 hours minimum beyond the baccalaureate degree
+ECS Faculty
+FACG> ecs-geospatial-information-sciences-phdProfessors: Xiaohu Guo @xxg061000, Latifur Khan @lkhan, Weili Wu @wxw020100Professor Emeritus: Kang Zhang @kzhang
+EPPS Faculty
+FACG> epps-geospatial-information-sciences-phdProfessors: Brian J. L. Berry @bjb012800, Yongwan Chun @yxc070300, Denis J. Dean @djd081000, Daniel A. Griffith @dag054000, Dohyeong Kim @dxk132530, Fang Qiu @ffqiu, May Yuan @mxy141230Associate Professors: Anthony R. Cummings @arc131030, Michael Tiefelsdorf @mrt052000
+NSM Faculty
+FACG> nsm-geospatial-information-sciences-phdProfessors: David J. Lary @djl101000, David Lumley @del170130Associate Professors: Thomas H. Brikowski @brikowi, Hejun Zhu @hxz154830Research Professor: John W. Geissman @jwg102020
+Mission
+The mission of the Doctor of Philosophy in Geographic Information Sciences program is to cultivate innovative researchers capable of advancing the frontiers of knowledge in the geospatial information sciences through improved theories, new technologies, innovative methodologies, sophisticated quantitative analyses, and integrative applications. Specifically, program graduates will:
+
+Demonstrate their knowledge of the fundamental theories and concepts underlying the geospatial sciences.
+Master the advanced methodologies and/or quantitative analyses used in at least one of three geospatial specialization areas: (a) computing and information management, (b) spatial analysis and modeling, or (c) remote sensing and satellite technologies.
+Produce innovative research that advances theory or methodology in the geospatial sciences.
+Participate at academic conferences, publish in peer-reviewed journals, and find employment in research departments of public and private organizations and in major academic institutions.
+
+Objectives
+This degree program is multidisciplinary with courses from the School of Economic, Political and Policy Sciences, the School of Natural Sciences and Mathematics (specifically in the Department of Geosciences) and the Erik Jonsson School of Engineering and Computer Science, and is administered by the School of Economic, Political and Policy Sciences. This unique structure reflects geospatial information science's origins as the confluence of multiple disciplines including geography, computer science, engineering, geology, and various social, policy and applied sciences. It is anticipated that many students will enter the program with a bachelor's or master's degree (and/or work experience) in an application area (such as public administration, geology, or economics) or in a technical specialization (such as engineering, computer science, or statistics). These students may choose to pursue research projects that advance existing geospatial information sciences practices within that application area. Alternatively, students may opt to pursue research that expands the technological or theoretical base of all the geospatial information sciences.
+Powerful technologies have emerged in recent years to collect, store, manage, analyze, and communicate information regarding the features of the Earth's surface and to combine these with other types of environmental, social, and economic information. These technologies, which include geographic information systems (GIS), the global positioning system (GPS), and remote sensing, are used in many ways, including the production of digital maps in vehicles, the management and maintenance of city infrastructure, agriculture and forestry, the policing of communities, and the conduct of modern warfare. The PhD in Geospatial Information Sciences aims to develop individuals capable of advancing this field by developing new knowledge or capabilities relevant to it.
+Facilities
+Students have access to state-of-the-art GIS computing facilities housed in the School of Economic, Political and Policy Sciences and at the NASA Center for Excellence in Remote Sensing in the Department of Geosciences. The University's extensive instructional computing facilities, including those in the Erik Jonsson School of Engineering and Computer Science, are also available. Facilities are open extended hours including evenings and weekends. Enrollment in hands-on courses is controlled to ensure that a computer workstation is available for every student. All major industry-standard GIS and remote sensing software is available. The University is a member of the University Consortium for Geographic Information Science (UCGIS).
+NOTE> Please be advised, the admissions section below feeds in from a separate page. Any changes made to the admissions section below will not be retained. Please contact catalog@utdallas.edu with any questions.
+Admission Requirements
+The University's general admission requirements are discussed on the Graduate Admission page.
+The PhD program in Geospatial Information Sciences seeks applications from students with a baccalaureate, Master of Arts, Master of Science, or professional master's level degree in any field relevant to geospatial information science including, but not limited to, computer science, economics, engineering, geography, geology, management information systems, marketing, natural resource management, public affairs and public administration, statistics, and urban and regional planning.
+Applicants will be judged and evaluated by the existing admission standards as set forth by the University in its Graduate Catalog and by the standards set forth here by the Geospatial Information Sciences program. A bachelor's degree from an institution of higher education or its equivalent and fluency in written and spoken English are required. A grade average of at least 3.25 in undergraduate and graduate course work, and a combined verbal and quantitative score of 300 on the GRE are desirable. An analytical writing score of at least 4.5 in the GRE is considered desirable.
+Applicants must submit transcripts from all higher education institutions attended, three letters of recommendation, and an essay outlining their background, education, and academic objectives as they specifically relate to a PhD in Geospatial Information Sciences.
+
+Prerequisites
+The following prerequisites/corequisites will also be required for admission to the PhD program: (i) competence in at least one modern programming language equivalent to GISC 6317 Social and Geospatial Science Programming Fundamentals, and (ii) at least one course in inferential statistics through to regression analysis equivalent to GISC 6301 GIS Data Analysis Fundamentals, EPPS 7313 Descriptive and Inferential Statistics, or GEOS 5306 Data Analysis for Geoscientists. Graduate courses taken at UT Dallas to meet these prerequisites may be counted as electives toward the 75 semester credit hours required of students, including students directly from a BA or BS degree.
+Advising
+Because of the cross-disciplinary nature of this doctoral program, to ensure adequate preparation and appropriate course sequencing, every doctoral student is required to consult with the student's designated advisor and/or the GIS Doctoral Program Director prior to registration in every semester. Students generally will not have a faculty advisor when they first enter the PhD program, but every student is required to select (with consent of the potential advisor) an advisor from the advising faculty by the end of his/her first academic year.
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+To receive the PhD in Geospatial Information Sciences, students must complete the Geospatial Science Core (15 semester credit hours) to achieve a mastery of appropriate Geospatial Information Science technologies and theory, have Prescribed Specialization Electives (15 semester credit hours), have a Specific Application area or Technical field (12 semester credit hours), evidence research skills through successful completion and defense of a PhD dissertation, and take related electives as necessary for a total of 75 semester credit hours. A maximum of 6 semester credit hours taken at UT Dallas can be at the 5000 level and the rest of them should be at the 6000 level or above. In addition, students must satisfy a set of exams and qualifiers. Other courses may be substituted for those listed below with the written permission in advance of the Director of the GIS Doctoral program.
+Geospatial Science Core: 15 semester credit hours
+Students must earn a minimum grade point average (GPA) of 3.0 across the following five courses:
+GISC 6381 (GEOS 6381) Geographic Information Systems Fundamentals1
+GISC 6325 (GEOS 5325) Remote Sensing Fundamentals
+GISC 6384 (GEOS 6384) Advanced Geographic Information Systems
+GISC 6385 (GEOS 6385) GIS Theories, Models and Issues
+GISC 7310 Advanced GIS Data Analysis
+Prescribed Specialization Electives: 15 semester credit hours
+Students must choose five courses from the following:
+GISC 5322 (GEOS 5322) GPS (Global Positioning System) Satellite Surveying Techniques
+GISC 5324 (GEOS 5324) 3D Data Capture and Ground Lidar
+GISC 5330 Geospatial Applications in Earth Science
+GISC 5395 Satellite Geophysics and Applications
+GISC 6311 Statistics for Geospatial Science
+GISC 6317 Social and Geospatial Science Programming Fundamentals
+GISC 6321 Spatial Data Science
+GISC 6323 Machine Learning for Socio-Economic and Geo-Referenced Data
+GISC 6331 (CRIM 6332) GIS Applications in Criminology
+GISC 6334 (PPPE 6334) Workshop in Environmental and Health GIS/Policy
+GISC 6363 Internet Mapping and Information Processing
+GISC 6375 Spatial Optimization
+GISC 6379 Special Topics in Geographic Information Sciences
+GISC 6382 (GEOS 6383) Applied Geographic Information Systems
+GISC 6388 Advanced GIS Programming
+GISC 7360 GIS Pattern Analysis
+GISC 7361 Spatial Statistics
+or ECON 6316 Spatial Econometrics
+GISC 7364 Demographic and Epidemiological Analysis and Modeling
+GISC 7365 (GEOS 5326) Advanced Remote Sensing
+GISC 7366 (GEOS 5329) Applied Remote Sensing
+GEOS 5306 Data Analysis for Geoscientists
+CS 5303 Computer Science I
+CS 5333 Discrete Structures
+CS 5343 Algorithm Analysis and Data Structures
+CS 6359 Object-Oriented Analysis and Design
+CS 6360 Database Design
+CS 6364 Artificial Intelligence
+CS 6366 Computer Graphics
+CS 6375 Machine Learning
+CS 6384 Computer Vision
+EESC 6360 Digital Signal Processing I
+EESC 6363 Digital Image Processing
+MIS 6320 Database Foundations
+MIS 6324 Business Analytics With SAS
+MIS 6360 Agile Project Management
+PHYS 5315 Scientific Computing
+PHYS 5336 Big Data and Machine Learning for Scientific Discovery
+ECON 6309 Econometrics I
+ECON 7309 Econometrics II
+EPPS 6323 Knowledge Mining
+EPPS 6324 Data Management for Social Science Research
+EPPS 6352 Evaluation Research Methods in the Economic, Political and Policy Sciences
+EPPS 6354 Information Management
+EPPS 6356 Data Visualization
+EPPS 7304 Cost-Benefit Analysis
+EPPS 7313 Descriptive and Inferential Statistics
+EPPS 7316 Regression and Multivariate Analysis
+EPPS 7318 Structural Equation and Multilevel (Hierarchical) Modeling
+EPPS 7370 Time Series Analysis I
+EPPS 7390 Bayesian Analysis for Social and Behavioral Sciences
+Application Area or Technical Field (12 semester credit hours)
+Twelve semester credit hours of specialized course work in an application area or technical field relevant to GIScience. Normally, these will derive from the student's master's degree. These semester credit hours may be transferred from another institution, or taken at UT Dallas in an existing master's program area and may be applied toward a master's degree in that area.
+Application area examples: planning, public affairs, criminal justice, health and epidemiology, geoscience, forestry, hydrology, marketing, real estate, economics, civil engineering, etc.
+Technical field examples: statistics, computer science, software engineering, management information systems, image analysis, operations research/location science, instrumentation.
+Research and Dissertation (variable semester credit hours)
+All students must complete the following class as part of the research and dissertation requirement:
+GISC 7387 GIS Research Design (before proposal defense)
+and GISC 8V99 or CS 8V99 Dissertation (after proposal defense)
+In addition, students must complete sufficient additional research and dissertation semester credit hours to bring the total number of semester credit hours they have earned within the UT Dallas doctoral program (or transferred into the UT Dallas doctoral program) to 75 semester credit hours, the minimum required to earn a doctoral degree. Additional research and dissertation semester credit hours above and beyond those required to reach the 75 semester credit hours minimum may be required at the discretion of the student's PhD advisor. Additional research and dissertation semester credit hours can be earned through any course from the following list: 
+GISC 6387 Geospatial Sciences Workshop
+GISC 6389 Geospatial Information Sciences Master's Research
+GISC 6V01 Independent Study in GIS
+GISC 8320 Geospatial Sciences Seminar
+GISC 8V29 Research in GIS
+Other Related Electives (0 to 24 semester credit hours)
+Students may choose up to 24 semester credit hours in related electives (from CS, GEOS, GISC, etc.) with consent of their advisor or the GIS Doctoral Program Director.
+Exams and Qualifiers
+Qualifying Examination
+The GISC PhD Qualifier Examination is administered in May of a full-time doctoral student's first year, following the completion of the first academic year (i.e. fall and spring semester) by the student. This exam comprises of four parts, each based upon one of the following core courses:
+GISC 6325 Remote Sensing Fundamentals
+GISC 6384 Advanced Geographic Information Systems
+GISC 6385 GIS Theories, Models and Issues
+GISC 7310 Advanced GIS Data Analysis
+A student must pass three of the four parts to pass the exam. If a student fails his/her exam, s/he may retake only the parts they failed in the subsequent August at the discretion of faculty. If s/he does not pass a cumulative total of three parts after the August exam date, then s/he fails the Qualifier Examination, and is withdrawn from the GIS doctoral program.
+Defense of Proposal
+After completing the GISC 7387 GIS Research Design class, doctoral students must successfully present and defend a dissertation proposal through an oral examination, according to uniform guidelines established by the GIS program.
+Grade Point Qualifier
+Doctoral students must have GPAs of at least 3.25, and preferably 3.5, in courses taken at UT Dallas at the time they register for GISC 7387 GIS Research Design, or they must petition the GIS faculty for an exemption for extenuating circumstances beyond the student's control.
+Defense of Dissertation
+A dissertation must be prepared and defended successfully following the procedures established by the Dean of Graduate Education.
+Note: Individuals experienced with GIS may have the introductory course (GISC 6381) waived at the discretion of the Geospatial Information Sciences Program Head, but must take an additional course from the prescribed specialization elective courses listed above.
+1. Individuals experienced with GIS may have the introductory course (GISC 6381) waived at the discretion of the Geospatial Information Sciences Program Head, but must take an additional course from the prescribed specialization elective courses listed above.
+
+Updated: 2021-01-11 13:07:09 v3.02238c
+
+
+
+

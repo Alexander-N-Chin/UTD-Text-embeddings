@@ -1,0 +1,18 @@
+
+
+
+Computational Methods for Data Scientists (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS4372 - Computational Methods for Data ScientistsCS 4372 Computational Methods for Data Scientists (3 semester credit hours) This course will focus on the application of computational tools to solve machine learning problems. Applicable languages may include Python, 'R', Weka, or others at the discretion of the instructor. Students will use these languages to apply machine learning concepts to problem data sets. Corequisite: CS 4375. (3-0) Y
+
+
+
+

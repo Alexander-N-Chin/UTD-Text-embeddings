@@ -1,0 +1,18 @@
+
+
+
+Introduction to Computer Science and Software Engineering (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS1200 - Introduction to Computer Science and Software EngineeringCS 1200 Introduction to Computer Science and Software Engineering (2 semester credit hours) Introduction to the computing professions; overview of Computer Science (CS) and Software Engineering (SE) curricula, connections with Computer Engineering, other Engineering and Computer Science fields, and Arts and Technology programs; problem solving and other skills needed to succeed as a CS or SE major. Introduction to quantitative methods; team projects designed to replicate decision processes and problem solving in real-world situations; additional preparatory topics for CS and SE majors. BMEN 1100 or CE 1100 or EE 1100 or MECH 1100 can substitute for this course (together with 1 hour of CS elective). Credit cannot be received for more than one of the following: BMEN 1100 or CE 1100 or CS 1200 or EE 1100 or MECH 1100. (2-0) Y
+
+
+
+

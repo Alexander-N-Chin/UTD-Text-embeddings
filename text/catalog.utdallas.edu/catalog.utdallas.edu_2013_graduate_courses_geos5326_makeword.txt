@@ -1,0 +1,18 @@
+
+
+
+Remote Sensing Digital Image Processing (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Graduate CatalogGEOS5326 - Remote Sensing Digital Image ProcessingGEOS 5326 (GISC 7365) Remote Sensing Digital Image Processing (3 semester hours) Introduction to remote sensing digital image processing techniques. Topics covered include principles of remote sensing and remote sensors, image visualization and statistics extraction, radiometric and geometric correction, image enhancement, image classification and change detection. Innovative image processing approaches will also be introduced. State-of-the-art commercial image processing software is used for labs and applications development. (3-0) Y
+
+
+
+

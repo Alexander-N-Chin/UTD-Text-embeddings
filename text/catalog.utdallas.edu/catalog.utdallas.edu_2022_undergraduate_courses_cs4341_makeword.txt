@@ -1,0 +1,18 @@
+
+
+
+Digital Logic and Computer Design (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS4341 - Digital Logic and Computer DesignCS 4341 Digital Logic and Computer Design (3 semester credit hours) Boolean algebra and logic circuits; synchronous sequential circuits; gate level design of ALSU, registers, and memory unit; register transfer operations; design of data path and control unit for a small computer; Input-Output interface. Credit cannot be received for both courses, CS 4341 and (CE 3320 or EE 3320). Prerequisites: (CE 2310 or EE 2310) or (CS 2340 or SE 2340) and PHYS 2326. Corequisite: CS 4141. (3-0) S
+
+
+
+

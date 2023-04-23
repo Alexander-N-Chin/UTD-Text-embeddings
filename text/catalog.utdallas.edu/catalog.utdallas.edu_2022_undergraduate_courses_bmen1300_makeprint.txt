@@ -1,0 +1,18 @@
+
+
+
+Introduction to Biomedical Engineering Computing (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogBMEN1300 - Introduction to Biomedical Engineering ComputingBMEN 1300 Introduction to Biomedical Engineering Computing (3 semester credit hours) Computer programming in a high-level, block structured language with a focus on bioengineering applications. Basic data types, memory usage, control structures, input/output, functions and parameter passing. Program design and software development methodology. Mechanics of running, testing, and debugging. Pseudo-codes, flowcharts and code efficiency. Programming languages of choice are C++ and Matlab. Programming projects related to biomedical engineering applications. (3-0) S
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+
+Automata Theory (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS4384 - Automata TheoryCS 4384 Automata Theory (3 semester credit hours) A review of the abstract notions encountered in machine computation. Deterministic and nondeterministic finite automata; regular expressions, regular sets, context-free grammars, pushdown automata, context-free languages. Selected topics from Turing Machines and undecidability. Prerequisite: CS 3305 with a grade of C or better. (3-0) S
+
+
+
+

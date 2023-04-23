@@ -1,0 +1,18 @@
+
+
+
+Introduction to Programming for Biomedical Engineers (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS1324 - Introduction to Programming for Biomedical EngineersCS 1324 Introduction to Programming for Biomedical Engineers (3 semester credit hours) Computer programming in a high-level, block structured language with a focus on engineering applications in medicine. Basic data types and variables, memory usage, control structures, functions/procedures and parameter passing, recursion, input/output. Programming projects related to biomedical engineering applications. May not be used to satisfy degree requirements for majors in Computer Engineering, Computer Science, and Software Engineering. Prerequisite: CS 1336 or equivalent. (3-0) S
+
+
+
+

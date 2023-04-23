@@ -1,0 +1,126 @@
+
+
+
+Geospatial Information Sciences (BS) (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate Catalog
+School of Economic, Political and Policy Sciences
+Geospatial Information Sciences (BS)
+Geospatial Information Science (or GIScience) is the study of relationships between phenomena in space and time. In recent years, powerful new technologies and techniques have emerged that greatly improve our ability to acquire, archive, analyze, and communicate information regarding people, places, and other things on or near the Earth's surface. These same technologies and techniques allow us to combine this information into multi-tiered databases describing the physical, social, and other aspects of all or portions of the Earth. Such databases can then be analyzed in novel ways that take the data's explicit spatial (or locational) nature into account. The insights produced by analyzing these types of databases are revolutionizing many fields of science, government, and business. Currently, commonplace consumer products such as web-based mapping systems and GPS units that incorporate locational information are directly impacting the everyday lives of ordinary individuals.
+Graduates of the Bachelors of Science in Geospatial Information Science program will understand the logical, mathematical, and technological foundations for compiling and analyzing spatial data. They will be skilled in solving geospatial problems, enabling them to move into professional roles handling the geospatial needs of typical corporate, government, and nonprofit organizations. The graduates will not only be skilled in the use of common GIScience software systems, but also will understand the underlying principles upon which software systems are based. This will allow them to transfer their knowledge from one software system to another, to expand the capabilities of these systems, and most importantly, to view geospatial problems as issues that can be solved by applying basic theories, techniques and methodologies.
+Mission and Objectives
+The mission of the Bachelor of Science in Geospatial Information Sciences program is to provide students with a rigorous understanding of the fundamental theories and concepts underlying GIScience, as well as to provide them with extensive hands-on experience with contemporary GIScience hardware and software. The goal of the program is to give students a firm grasp of the theories, ideas, and techniques that underlay software and hardware systems for the compilation and analysis of spatially referenced data, and thus provide them with a foundation of knowledge and skill that transcends any individual piece of software or hardware. Graduates of this program will be able to successfully compete for professional positions within GIScience and related fields, and be admitted into the best graduate schools globally.
+Students within the program will:
+
+Demonstrate their understanding of the underlying theories, ideas, concepts and techniques of GIScience.
+Master contemporary computer hardware and software systems commonly employed in GIScience.
+Demonstrate problem solving skills that employ their understanding of theories, ideas and concepts as well as their mastery of GIScience software and hardware.
+
+ 
+Bachelor of Science in Geospatial Information Sciences
+Degree Requirements (120 semester credit hours)1
+View an Example of Degree Requirements by Semester
+Faculty
+FACG> epps-geospatial-information-sciences-bsProfessors: Yongwan Chun @yxc070300, Daniel A. Griffith @dag054000, Dohyeong Kim @dxk132530, Fang Qiu @ffqiu, May Yuan @mxy141230Associate Professors: Anthony R. Cummings @arc131030, Michael Tiefelsdorf @mrt052000Professors Emeriti: Brian J. L. Berry @bjb012800, Ronald Briggs @briggsVisiting Assistant Professor: Amanda Kreuze @axk210112
+I. Core Curriculum Requirements: 42 semester credit hours2
+Communication: 6 semester credit hours
+COMM 1311 Survey of Oral and Technology-based Communication
+RHET 1302 Rhetoric
+Or select any 6 semester credit hours from Communication Core courses (see advisor)
+Mathematics: 3 semester credit hours
+MATH 1325 Applied Calculus I
+Or select any 3 semester credit hours from Mathematics Core courses (see advisor)
+Life and Physical Sciences: 6 semester credit hours
+Choose two courses from the following:
+ENVR 2302 or GEOG 2302 or GEOS 2302 The Global Environment3
+GEOS 1303 Physical Geology
+NATS 1311 The Universe, and Everything Else
+NATS 2333 Energy, Water, and the Environment
+PHYS 1301 College Physics I
+Or select any 6 semester credit hours from Life and Physical Sciences Core courses (see advisor)
+Language, Philosophy and Culture: 3 semester credit hours
+Select any 3 semester credit hours from Language, Philosophy and Culture Core courses (see advisor)
+Creative Arts: 3 semester credit hours
+Select any 3 semester credit hours from Creative Arts Core courses (see advisor)
+American History: 6 semester credit hours
+Select any 6 semester credit hours from American History Core courses (see advisor).
+Government/Political Science: 6 semester credit hours
+GOVT 2305 American National Government
+GOVT 2306 State and Local Government
+Or select any 6 semester credit hours from Government/Political Science Core courses (see advisor)
+Social and Behavioral Sciences: 3 semester credit hours
+Choose one course from the following:
+CRIM 1301 Introduction to Criminal Justice
+CRIM 1307 Introduction to Crime and Criminology
+ECON 2301 Principles of Macroeconomics
+ECON 2302 Principles of Microeconomics
+GEOG 2303 People and Place: An Introduction to World Geographic Regions3
+SOC 1301 Introduction to Sociology
+Or select any 3 semester credit hours from Social and Behavioral Sciences Core courses (see advisor)
+Component Area Option: 6 semester credit hours
+EPPS 2301 Research Design in the Social and Policy Sciences
+EPPS 2302 Methods of Quantitative Analysis in the Social and Policy Sciences3
+Or select any 6 semester credit hours from Component Area Core courses (see advisor)
+II. Major Requirements: 39 semester credit hours
+Major Preparatory Courses: 6 semester credit hours beyond Core Curriculum
+ENVR 2302 or GEOG 2302 or GEOS 2302 The Global Environment3
+EPPS 2302 Methods of Quantitative Analysis in the Social and Policy Sciences3
+GEOG 2303 People and Place: An Introduction to World Geographic Regions3
+GEOG 3377 or PA 3377 Urban Planning and Policy
+GISC 2305 or GEOS 2305 Spatial Thinking and Data Analytics
+Major Core Courses: 18 semester credit hours
+GISC 3304 or GEOG 3304 or GEOS 3304 Principles of Geospatial Information Sciences
+GISC 4381 Spatial Data Science
+GISC 4325 or GEOS 4325 Introduction to Remote Sensing
+GISC 4326 Cartography and GeoVisualization
+GISC 4382 Applied Geographic Information Systems
+GISC 4386 Global Change and Its Challenges
+Major Related Course: 15 semester credit hours from the following
+GISC 4317 Introductory Programming for Social and Geospatial Science
+GISC 4363 Internet Mapping and Information Processing
+GISC 4384 Health and Environmental GIS: A Global Perspective
+GISC 4385 Advanced Applications in GIS
+GEOG 3331 Urban Growth and Structure
+GEOG 3357 Spatial Dimensions of Health and Disease
+GEOG 3359 Human Migration and Mobility: Global Patterns
+GEOG 3370 The Global Economy
+GEOG 3372 Population and Development
+MATH 2413 Differential Calculus
+III. Elective Requirements: 39 semester credit hours
+Prescribed Electives: 15 semester credit hours
+All students are required to take at least fifteen semester credit hours of prescribed upper-division elective courses.
+Free Electives: 24 semester credit hours
+This requirement may be satisfied with lower- and upper-division courses from any field of study. Students must complete at least 51 semester credit hours of upper-division courses to qualify for graduation.
+ 
+Minor in Geography: 18 semester credit hours
+Required Courses: 9 semester credit hours
+GEOG 2302 The Global Environment
+GEOG 2303 People and Place: An Introduction to World Geographic Regions
+GEOG 3304 Principles of Geospatial Information Sciences
+Upper-Division Courses: 9 semester credit hours
+Any upper-division Geography (GEOG) or Geographic Information Sciences (GISC) courses, excluding GEOG 4V97.
+ 
+Minor in Geospatial Information Sciences (GIS): 18 semester credit hours
+Required Courses: 9 semester credit hours
+GISC 2305 Spatial Thinking and Data Analytics
+GISC 3304 or GEOG 3304 Principles of Geospatial Information Sciences
+GISC 4325 Introduction to Remote Sensing
+Upper-Division Courses: 9 semester credit hours
+Any upper-division Geography (GEOG) or Geographic Information Sciences (GISC) courses, excluding GEOG 4V97.
+ 
+1. Incoming freshmen must enroll and complete requirements of UNIV 1010 and the corresponding school-related freshman seminar course. Students, including transfer students, who complete their core curriculum at UT Dallas must take UNIV 2020.
+2. Curriculum Requirements can be fulfilled by other approved courses from institutions of higher education. The courses listed are recommended as the most efficient way to satisfy both Core Curriculum and Major Requirements at UT Dallas.
+3. A Major requirement that also fulfills a Core Curriculum requirement. Semester credit hours are counted in Core Curriculum.
+Updated: 2022-01-14 11:49:49 v6.c57d02
+
+
+
+

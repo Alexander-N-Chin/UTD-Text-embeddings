@@ -1,0 +1,132 @@
+
+
+
+Minors - Erik Jonsson School of Engineering and Computer Science (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Minors
+Students must take a minimum of 18 semester credit hours for the minor, 12 of which must be upper-division semester credit hours. Students who take a minor will be expected to meet the normal prerequisites in courses making up the minor, and should maintain a minimum GPA of 2.000 on a 4.00 scale (C average). Semester credit hours may not be used to satisfy both the major and minor requirements; however, free elective semester credit hours or major preparatory classes may be used to satisfy the minor. Core courses offered by the school may count as lower-division semester credit hours toward the minor. Topics courses must be approved by the school.
+The undergraduate minors in the Erik Jonsson School of Engineering and Computer Science are the following:
+Department of Computer Science
+
+Computer Science
+Information Assurance
+Software Engineering
+
+Department of Materials Science and Engineering
+
+Nanoscience and Technology
+
+ 
+Department of Computer Science
+Faculty
+FACG> ecs-computer-science-bsProfessors: Farokh B. Bastani @bastani, Sergey Bereg @sxb027100, Ovidiu Daescu @daescu, Yvo G. Desmedt @ygd120030, Ding-Zhu Du @dxd056000, András Faragó @farago, Paul Fishwick @pxf130430, Xiaohu Guo @xxg061000, Gopal Gupta @gupta, Zygmunt Haas @zjh130030, Kevin Hamlen @kxh060100, Sanda M. Harabagiu @sanda, Dung T. Huynh @huynh, Jason Jue @jjue, Murat Kantarcioglu @mxk055100, Latifur Khan @lkhan, Andrian Marcus @axm141731, Neeraj Mittal @nxm020100, Dan I. Moldovan @moldovan, Sriraam Natarajan @sxn177430, Yu-Chung (Vincent) Ng @ycn041000, Tien Nguyen @tnn160630, Simeon C. Ntafos @ntafos, Balakrishnan Prabhakaran @praba, Ravi Prakash @ravip, Kamil Sarac @kxs028100, Haim Schweitzer @haim, Bhavani Thuraisingham @bxt043000, Subbarayan Venkatesan @venky, W. Eric Wong @wew021000, Weili Wu @wxw020100, I-Ling Yen @ilyenAssociate Professors: Feng Chen @fxc190007, Lawrence Chung @chung, Jorge A. Cobb @jcobb, Vibhav Gogate @vxg112130, Benjamin Raichel @bar150630, Nicholas Ruozzi @nrr150130, Rym Zalila-Wenkstern @rmiliAssistant Professors: Kyle Fox @kjf170230, Shuang Hao @sxh178730, Rishabh Iyer @rki190000, Kangkook Jee @kxj190011, Chung Hwan Kim @cxk200010, Jin Kim @jrk200002, Jessica Ouyang @jjo190001, Shiyi Wei @sxw174630, Yu Xiang @yxx210005, Wei Yang @wxy180002Professors Emeriti: R. Chandrasekaran @chandra, Ivor P. Page @ivor, William J. Pervin @pervin, Balaji Raghavachari @rbk, Ivan Hal Sudborough @hal, Klaus Truemper @klaus, Kang Zhang @kzhangProfessors of Instruction: Ebru Cankaya @exc067000, John Cole @jxc064000, Doug DeGroot @dxd180020, Timothy (Tim) Farage @tfarage, Shyam Karrah @skarrah, Pushpa Kumar @pkumar, Nhut Nguyen @nhutnn, Greg Ozbirn @ozbirn, Miguel Razo-Razo @mrazoraAssociate Professors of Instruction: Sridhar Alagar @sxa173731, Gordon Arnold @gxa120930, Anjum Chida @axc157030, Wei Pang Chin @wxc180013, Bhadrachalam Chitturi @chalam, Michael Christiansen @mgc013000, Chris I. Davis @cid021000, Karen Doore @kld054000, Neeraj Gupta @nkg140130, Khiem Le @kvl140030, Mehra Nouroz Borazjany @mxn143230, Jalal Omer @jso016000, Mark Paulk @mcp130030, Jason W. Smith @jws130830, Laurie Thompson @lthomp, Jeyakesavan (Jey) Veerasamy @veerasam, James Willson @jkw053000, Nurcan Yuruk @nxy140530Assistant Professors of Instruction: Eric Becker @ewb160130, Scott Dollinger @smd013000, Serdar Erbatur @sxe190003, Ranran Feng @rxf090020, Omar Hamdy @oxh210004, Gity Karami @gxk180009, Kamran Khan @kkhan, Karen Mazidi @kjm160430, Richard K. Min @rkm010300, Anarag Nagar @axn112530, Priya Narayanasami @pxn173330, Elmer Salazar @ees101020, Meghana Satpute @mns086000, Klyne Smith @kxs180052, Nidhiben Solanki @nxs121130, Srimathi Srinivasan @sxs180206, Yi Zhao @zhao
+ 
+Minor in Computer Science
+21 semester credit hours
+Students majoring in Computer Engineering, Computer Science or Software Engineering cannot add a minor in Computer Science.
+A minor in Computer Science requires 21 semester credit hours earned through the following courses:
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+CS 3305 Discrete Mathematics for Computing II
+CS 3345 Data Structures and Introduction to Algorithmic Analysis
+CS 3354 Software Engineering
+CS Elective (any 4000-level organized CS class or CS 4390)
+
+ 
+Minor in Information Assurance
+30 semester credit hours
+A minor in Information Assurance requires 30 semester credit hours earned through the following courses:
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+CS 3305 Discrete Mathematics for Computing II
+CS 3345 Data Structures and Introduction to Algorithmic Analysis
+CS 4347 Database Systems
+CS 4348 Operating Systems Concepts
+CS 4389 Data and Applications Security
+CS 4393 Computer and Network Security
+CS 4398 Digital Forensics
+
+ 
+Minor in Software Engineering
+21 semester credit hours
+Students majoring in Computer Engineering, Computer Science or Software Engineering cannot add a minor in Software Engineering.
+A minor in Software Engineering requires 21 semester credit hours earned through the following courses:
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+SE 3306 Mathematical Foundations of Software Engineering
+SE 3345 Data Structures and Introduction to Algorithmic Analysis
+SE 3354 Software Engineering
+SE Elective (any 4000-level organized SE class)
+
+ 
+Department of Materials Science and Engineering
+Faculty
+FACG> ecs-materials-science-and-engineering-msProfessors: Orlando Auciello @oha120030, Kyeongjae (KJ) Cho @kxc067000, Massimo V. Fischetti @mvf100020, Larry Hornbeck @ljh160330, Julia W. P. Hsu @jxh101000, Jiyoung Kim @jxk041000, Moon J. Kim @mjk034000, Manuel Quevedo-Lopez @mxq071000, Amy V. Walker @axw092000, Robert M. Wallace @rmw031000Associate Professors: Lev D. Gelb @ldg102020, William Vandenberghe @wxv101020, Walter E. Voit @wev012000, Chadwin D. Young @cdy120030Assistant Professors: Kyle McCall @kxm210050, Cormac Toher @cxt210037Professors Emeriti: Yves J. Chabal @yjc072000, Bruce E. Gnade @beg031000, Don Shaw @dshawAssistant Professor of Instruction: Rebecca McClain @rxm220007UT Dallas Affiliated Faculty: Kenneth J. Balkus Jr. @balkus, Ray H. Baughman @rbaughmn, Stuart Cogan @sxc149830, John P. Ferraris @ferraris, Matthew J. Goeckner @goeckner, Fatemeh Hassanipour @fxh091000, Mark Lee @mxl101000, Hongbing Lu @hxl101000, Bing Lv @bxl152230, Anton V. Malko @avm074000, Kenneth K. O @kxo091000, Lawrence J. Overzet @overzet, Shalini Prasad @sxp118230, Jason D. Slinker @jds107020, Mihaela C. Stefan @mci071000, Anvar A. Zakhidov @zakhidov
+Minor in Nanoscience and Technology
+18 semester credit hours
+Goals for the Minor in Nanoscience and Technology
+As the field of nanotechnology develops further, particularly in the north Texas region, The University of Texas at Dallas has an important role to play in the education of knowledge workers for the industry. The Minor in Nanoscience and Technology offered by the Department of Materials Science and Technology provides a means for undergraduate students to familiarize themselves with the concepts and principles of nanotechnology.
+This minor has been designed around three core MSEN designated courses, the content of which is exclusively related to Nanoscience and Nanotechnology. The remaining nine semester credit hours of courses may be chosen from the list of courses below.
+The contents of the courses BIOL 4461, CHEM 3322, and PHYS 4301 are similar enough that only one of these three courses may count toward the minor. In addition, several lower-division electives have been included to provide streamlined access to the available upper-division electives.
+Since the three core courses are all upper-division electives, only one of the remaining nine semester credit hours must be an upper-division course, although students may choose to challenge themselves by pursuing all nine semester credit hours as upper-division electives.
+Educational Objectives for the Minor in Nanoscience and Technology On completion of the Minor program, students will:
+
+Have a comprehensive general education background
+Have a working knowledge of nanotechnology and nanoscience principles and industry applications
+Be able to apply key concepts in materials science, chemistry, physics, biology, and engineering to the field of nanotechnology
+Understand the societal and technology issues that may impede the adoption of nanotechnology
+Have the ability to communicate effectively and work collaboratively
+Be able to become successful professionals and, if they desire, be able to pursue graduate study
+Be able to identify career paths and requisite knowledge and skills for career change towards nanotechnology
+
+Requirements for the Minor in Nanoscience and Technology
+A total of 18 semester credit hours are required, consisting of three core classes (9 semester credit hours) and 9 additional semester credit hours of electives.
+I. Core Requirements: 9 semester credit hours
+MSEN 3301 Introduction to Nanoscience and Nanotechnology
+MSEN 3302 Microscopy, Spectroscopy, and Nanotech Instrumentation
+MSEN 4V95 Undergraduate Research (in Nanotechnology)
+II. Elective Requirements: 9 semester credit hours
+Students must complete at least nine semester credit hours chosen from the following courses. At least one of the courses must be upper-division (3000 or 4000):
+MSEN-designated courses:
+MSEN 3310 Introduction to Materials Science
+MSEN 4391 or EE 4391 Technology of Plasma
+MSEN 4V95 Undergraduate Research (in Nanotechnology)
+Lower-division courses:
+CHEM 2323 Introductory Organic Chemistry I
+CHEM 2325 Introductory Organic Chemistry II
+PHYS 2303 Contemporary Physics
+MECH 2320 Mechanics of Materials
+Upper-division courses:
+PHYS 4352 Concepts of Modern Physics
+MECH 4360 Introduction to Nanostructured Materials
+MECH 4370 Introduction to MEMS
+EE 3310 Electronic Devices
+EE 3311 Electronic Circuits
+CHEM 4335 Polymer Chemistry
+CHEM 3472 Instrumental Analysis
+CHEM 4473 Physical Measurements Laboratory
+CHEM 3321 Physical Chemistry I
+CHEM 4355 Computational Modeling
+Only one of the following courses may be used to count toward the Minor:
+BIOL 4461 Biophysical Chemistry
+CHEM 3322 Physical Chemistry II
+PHYS 4301 Quantum Mechanics I
+
+Updated: 2022-02-11 11:04:34 v3.65d9fc
+
+
+
+

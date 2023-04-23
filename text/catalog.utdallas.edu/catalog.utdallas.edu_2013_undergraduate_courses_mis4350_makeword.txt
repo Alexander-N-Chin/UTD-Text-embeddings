@@ -1,0 +1,18 @@
+
+
+
+Introduction to Business Intelligence and Data Mining (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogMIS4350 - Introduction to Business Intelligence and Data MiningMIS 4350 Introduction to Business Intelligence and Data Mining (3 semester hours) This course will introduce various data mining techniques to extract business intelligence from firms' business data for various applications, including association, customer segmentation, classification, customer relationship management (CRM), personalization, online recommendation systems and web mining. Students will also be exposed to various business intelligence software such as XLMiner, SAS EnterpriseMiner or SQL Server 2008 (depending on availability). Prerequisites: (MIS 4300 and MATH 1326) and (MATH 2333 or OPRE 3333 or MATH 2418 or MATH 2415 or CS 2305). (3-0) T
+
+
+
+

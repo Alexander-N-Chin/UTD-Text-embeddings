@@ -1,0 +1,378 @@
+
+
+
+
+
+
+Transcript: Device-Free World | UT Dallas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+
+ Info For                  
+
+
+
+Students
+Faculty & Staff
+Alumni
+Family & Visitors
+DFW Community
+ 
+
+ Resources                  
+
+
+
+Galaxy Login
+eLearning
+CourseBook
+Email
+Map
+Events
+Academic Calendar
+News
+Directory
+Library
+EZPay
+Help Desk
+Human Resources
+Accessibility
+ 
+ Make a Gift 
+Search
+
+ 
+
+MENU
+
+
+
+
+
+About Us
+Academics
+Admissions
+Costs, Scholarships & Aid
+Campus Life
+Research
+ 
+
+Info For
+Students
+Faculty & Staff
+Alumni
+Family & Visitors
+DFW Community
+ 
+
+Resources
+Galaxy Login
+eLearning
+CourseBook
+Email
+Map
+Events
+Academic Calendar
+News
+Directory
+Library
+EZPay
+Help Desk
+Human Resources
+Accessibility
+ 
+ Make a Gift 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+About Us
+Academics
+Admissions
+Costs, Scholarships & Aid
+Campus Life
+Research
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  Back to Could We Ever…?
+Could We Ever Live in a Device-Free World?
+
+
+HostsRicardo Castrillón BA’17Danyelle Jordan Gates BA’17
+Audio EditorSarah Wall BA’19
+ProducersPaul BottoniBrittany MagelssenKatherine MoralesPhil Roth
+Music by Roxanne Minnish MFA’11, senior lecturer in the UT Dallas School of Arts, Technology, and Emerging Communication
+Artwork by Rachael Drury BA’19
+The views expressed on this podcast by the hosts and guests do not reflect the views of The University of Texas at Dallas.
+
+
+
+
+
+Show Transcript
+
+[Ricardo] We’re recording? Okay. Welcome to Could We Ever, part of the [mumbles] okay.
+[Danyelle] Welcome to Could We Ever, part of the UT Dallas CometCast Network.
+[Ricardo] Could We Ever shines a light on our experts and ask them to tackle questions you never knew you needed answered.
+[Danyelle] From science to art and more.
+[Joaquin Phoenix] So do you know what I’m thinking right now?
+[Scarlett Johansson] Well I take it from your tone that you’re challenging me, maybe because you’re curious how I work. Do you want to know how I work?
+[Joaquin Phoenix] Yeah, actually, how do you work?
+[Scarlett Johansson] Well basically I have intuition. I mean the DNA of who I am is based on the millions of personalities of all the programmers who wrote me but what makes me is my ability to grow through my experiences. So basically in every moment I’m evolving just like you.
+[Joaquin Phoenix] Wow. That’s really weird.
+[Ricardo] That clip was from ‘Her’ starring Joaquin Phoenix and Scarlett Johansson. The 2013 film tells the story of a lonely writer in the near future who develops an unlikely relationship with an operating system designed to meet his every need. Today our question is, could we ever live in a device-free world?
+[Danyelle] Our guest today is Alex Edsel, director of the MS and marketing program in the Naveen Jindal School of Management here at UT Dallas. Before we get started we’ve got one note — we recorded and produced this episode remotely because of the COVID-19 pandemic, so excuse any hiccups. Hi, Alex. Thanks for joining us today. Can you tell us a little bit more about your background and why this topic is interesting to you?
+[Alex] Sure, Danyelle. Thanks for having me. So you know, I don’t want to date myself too much, but around the early 1990s, you know, the consumer internet with AOL way back when kind of started, so that always fascinated me and I at the time was working at Bayer as a product manager. So, um, we leveraged a lot of databases which at the end of the day is really what the internet is about — you just don’t see them, but it’s all about connecting to databases which the front end is the website. So long story short I moved into a role with Compaq Computer in the late 1990s in their e-commerce group and that’s really where I began to be immersed in the whole internet, e-commerce mainly from a business side of point of view, not specifically like the technology in IT. So from then on any role that I had later with healthcare companies, etc, it was always in these e-commerce and the later the mobile started to emerge — obviously social media, all these different technologies that evolved, uh, were really great interest to me. Some more than others — uh, mobile more than social media — and my emphasis has always been more on the business side of it and especially the, uh, the, the changes in consumer behavior that the internet brought about and how that’s progressed to mobile and the tracking capabilities that it gives businesses. So good or bad there’s just a lot of tracking that we can do now that wasn’t even possible even five, six years. But that’s kind of my background. I’ve been teaching at UTD — first as an adjunct since 2003 or so and then full time 2009 at the Jindal School of Management and I head up the masters in marketing programs but I also teach courses in the undergrad and graduate level that have to do with digital marketing, a little bit of IOT and a lot of the platforms that are used, uh, in the digital space.
+[Danyelle] And can you tell us what IOT means for anybody who doesn’t know that term? 
+[Alex] IOT is the internet of things and that’s kind of what some are calling kind of a fourth wave of the internet. So we kind of migrated from desktops, laptops, mobile and the IOT is smart devices. So these are sensors in refrigerators, in the car, your Echo device which you can talk to. That’s the IOT. Big in B2B, in industry, but very big now with the smart home, the smart car, etc.
+[Danyelle] Thanks for that quick explanation. I feel like that will help a lot of people grasp what, what we’re talking about when we, when we’re talking about the types of devices that we’ll be chatting about. So what does device-free mean?
+[Alex] So yeah I want to put it in the context of kind of this uh discussion we’re having. So it can mean many different things to many people and the way I am approaching it is device-free in terms of there’s a lot of things that we can now start to do without having to have a device on us or go to a device like a computer and physically interact with it. So right now, you know, there’s a lot of freedom with a mobile smartphone — we don’t have to be tethered to a laptop. But what we’re talking about is can we do away basically with devices that are on us like the phone. Mainly the phone. You know, smart watches could be another device that’s on you but mainly I’m talking about the phone. How can we interact uh with other devices — because you still have to interact with some device somewhere — but not on us. So that’s the context and we’re seeing this now. It depends on the setting. We see it more in the home and to some extent in the car where we, through voice and to a secondary extent through facial recognition, can start to interact without us having to have a device on us. I can go and say, “Alexa, what’s the weather? Order me this, reorder me that.” So that’s a device-free interaction in the sense that the device is not on you. Device is there just not on you. So let’s expand that now. Can we see that device-free in terms of not honest interaction when we go outside and we leave our phones. So the technology is there where we can, for example, in a more public setting, let’s say that you’re on the street and there’s something that’s happened to you. When cameras for surveillance purposes that belong to, say, the government, the city, state government, city are interconnected. It is possible that you can now, where — and you know some cities have cameras everywhere — London, China — cameras are absolutely everywhere. You can request help by just interacting with the camera. So that’s a form of device-free. You don’t have to have your device. On a broader scale what I think will start to happen as potentially consumers start getting used to interacting uh without having a device is I might go to a Home Depot store, uh and I might not have my phone but I need to look something up. Potentially if Home Depot wants to they can have kiosks where I can go and interact with voice or right there on the shelves it has little Echo-type devices throughout and I can say “Where’s such and such hardware piece?” So potentially stores can start to have that which is to their advantage because it’s kind of their own system and they can pick up a lot of things that they wouldn’t otherwise. And the other thing that can happen in a public setting is the AT&T’s, the carriers of the world might start to implement these kind of kiosks or devices that are on poles with cameras where you can go and perhaps initiate a, a conversation with somebody. You can, you know, they’ll recognize you but I can go to a camera and say please call me an Uber and you know it’s not going to be the city police camera but it can be one sponsored by the AT&T’s because it recognizes is that I’m a subscriber, I opted in, gave them my face, could be voice recognition also and it says okay go ahead and you know conduct your business. So then it’s kind of like an app that’s being, instead of on our phone, that we’re conducting some kind of activity through the camera.
+[Danyelle] What type of device would we replace a phone? So like the example you gave was like if you’re hailing a cab but like what if you were out and about and you needed to call your spouse, your roommate and say do we have milk or do I need to pick up milk from the store. So like what kind of device would replace your phone in that instance?
+[Alex] So it would be either some kind of voice-activated device, like an Echo, that the stores provide throughout the store uh and again maybe it’s the AT&T’s that provide either a camera that also has voice interaction capabilities, a combination of camera and voice conversational interactivity. So that’s more futuristic obviously. Some things are here now. Like right now at home if you wanted to you don’t have to pick up your phone ever, right? You can conduct everything mainly through voice. In countries like China with so many hundreds of millions of cameras that is more possible now. Here in the United States we’re far away uh from that. But in the home environment, in the car environment we’re there right now. Maybe the next three, four, five years it’ll be more widely adopted than it is now but the penetration rate for these voice devices is, you know, 40 percent market share of adults in the United States. So we’re there I would say. The extent of what some people use it or don’t, some people may only use it for a certain thing but i think as more and more devices and the price goes down for smart refrigerators that now cost like 70 percent more than a non-smart refrigerator, but once that starts to drop I think we’ll start to, you know, kind of crazy as it sounds, start to talk to appliances, things of that nature.
+[Ricardo] So what is needed right now by the United States, for example?
+[Alex] Yeah so to kind of accelerate the penetration and adoption a couple of things have to come together. It’s not just one but several. So one of them I think that’s key — and not in any particular order, they’re all important — is biometrics. So by biometrics I’m talking about facial recognition, your iris recognition, you know like to open your phone. Voice recognition — those technologies are already there. More people have to opt in for facial, iris or voice recognition. There’s a lot of this really for it to be interesting for stores and to people leave their device at home need to have that personal history that comes up. Like we were talking about hailing that cab, let’s say, with me talking to a camera on the street. It initially has to see who I am so that it can also charge me for that Uber ride. Okay so biometrics is a big one. The other one has to do with privacy laws. You know, can retailers start to deploy these facial recognition laws? Right now the landscape for these privacy laws is very scattered. There are some states at this time — like Texas, Illinois and Washington — that have very strict facial recognition opt-in, you know, programs. Other states more ambiguous. Uh, California has a very strict privacy so that’s gonna have to be navigated and there’s several federal laws that are being proposed in Congress at this time to try to provide uniformity because one thing companies don’t like is one state doesn’t allow you to do it, another state does. So you know the scale is not there and usually the big one like California is less likely to allow you that kind of privacy invasion. So that’s such a huge driver of what they do everywhere else, right? So maybe Delaware will allow you but is it that interesting for a big company? No. So then the other thing is artificial intelligence. You know, there can’t be a human being there saying, okay, hail a cab or an Uber for such and such. So all of these commands, the voice recognition matching to you, taking action, making suggestions like perhaps instead of an Uber right now there’s none available, how about a Lyft. That intelligence is going to be driven by algorithms, which, you know, is widely called artificial intelligence. So that component allows a lot of this instantaneous personalized uh responses and response to commands — hail me an Uber, go ahead and charge me, add a five dollar tip, things of that nature. And then the last one has to do with the technologies. And with the technologies really we’re talking with facial recognition, uh, especially involved in many of these things, uh, and even voice to a lesser extent. It uses up a huge amount of data you know. Now we’re not texting or typing something in which is almost no file, very small file size. Now every interaction might be several gigabytes, right? Uh as we just hail an Uber and it recognizes and it transmits that. So what’s going to have to happen is there has to be at a minimum something like 5G to be fully rolled out so that it can start to transmit this data from your car, from the street, from stores, uh, you know, without any kind of like huge lag times. So 5G is being deployed in the United States. Mass deployment, where it reaches like 80 percent probably won’t happen until 2025. Always subject to delays and things. In China this year they’re expecting to be at that, you know, 80 plus if not higher penetration rate. So there’s going to have to be a move over time of people replacing their devices so that it can start, you know, taking advantage of the 5G. So all these factors mean, you know, some major delays uh into the future. China much faster for many reasons. The US, you know, also I don’t see it for maybe eight, ten years.
+[Ricardo] Yeah I think uh in the US a lot of, a lot of it has to do with the whole privacy issue and people feeling like their privacy is being invaded on. Do you think there will be some kind of like an airplane mode or something that will stop you from opting into this? Or like if you opted into this that you can opt out? Do you think companies will respect that?
+[Alex] So that goes back to the fact that right now there’s too many gaps and voids in legislation. So the short answer is right now, no. There’s just nothing that — and you know you’ve even probably seen the following happening. Uh companies like Amazon, even Apple, uh, Google tell us, “No, we’re not tracking.” Later on somebody discovers that well, yeah, you actually are reading. “Oh yeah, we’re doing that for quality control.” A lot of these devices are running in the background like, yes, there’s now a command where you can turn it off but, you know, you forget to turn it off. Well that, that’ll happen a lot, right? And you’re having this conversation that’s private and all of a sudden you’re being, uh, certain products that came from that conversation are all of a sudden appearing in your ad. So, uh, yeah unfortunately, Ricardo, at this point I say no and there really have to be very strong penalties going forward for companies to behave.
+[Danyelle] Aside from the privacy issues, you discussed that it would take a lot to get our current technology up to par with at least 5G. So what does it take for manufacturers of this technology to make society want to upgrade their technology to being compatible with 5G and make them want to purchase the types of devices or buy into the idea that we need a device-free future?
+[Alex] Well some of that might be driven by things like a crisis, be it another terrorist incident where, you know, the government really wants to expand the number of cameras out on the street, uh, install certain apps on you, things of that nature. More banks, etc, want to use facial recognition, force you to use it. Right now you’re obviously, you’re not forced to do voice or face but they may pass a wall. So a crisis — pandemic, terrorism — could be drivers. But a lot of it’s going to be marketing, you know, so I’ll keep my job teaching this for a little bit because of that. So a lot of it will be trying to convince the consumers and the way we do it is to try to do a couple of things. One of them is to find which, uh, segment — market segment — is more likely to adopt this technology because of what we call use cases. So usually for this type of thing we know young people, privacy-wise they’re not as conscientious as older, you know, demographic groups — over 50, you know, over 50, over 40, we’re still used to how it used to be — but young kids with their apps and, you know, TikTok and they’re, you know, they’re just used to opening their phones with their iris, without giving it a second thought. So that’s one thing. Companies are going to find the target markets that are more susceptible and they’ll do tests and things uh and then they’re going to also use things like influencers, like maybe people like Elon Musk. For some people, you know, he’s kind of a trendsetter from space, to the electric car, to tunnels. You know so people that are kind of innovators, early adopters might kind of see what somebody like that is saying and doing. So they’re going to look for folks like that to kind of promote this — they’re using it, it’s really cool, celebrities, they start including it in television shows as the normal. So all these reference points depending on what that target segment uses be it a Kylie Jenner or Elon Musk, another segment, you know, those are going to be key things to try to start moving people. But I think more than those influencers I think people underestimate still the power of movies and TVs for certain groups to convince them and start to change their perceptions of what they should do. So consumer behavior is a big one and it’s somewhat of a science today. They can do tests, they can try different messages and see the results. You know, I show this episode where people are using a little bit more of facial recognition instead of voice and then I can measure how many Google searches uh people are doing about that topic and see if that resonated. So there’s a lot of that thing behind the scenes marketers can do.
+[Danyelle] That is so interesting. I would have assumed the push for this type of technology would come more on the tech side but you made me realize that marketing does play a huge role in the types of things that we adopt. Let’s talk a little bit more about the actual technologies themselves. I know that there’s been a lot of, like, uproar about some of the limitations of facial technology for non-white, non-male faces and I know personally I wear glasses and my iPhone does not know me if i don’t have my glasses on. So what would be some of the possible drawbacks of facial technology? You know, when it comes to payment — like you’re discussing — is it gonna take the money from the wrong account if it doesn’t recognize me appropriately? If police are using it to surveil after some sort of, you know, large-form event — like you were discussing with a, you know, an attack or some large-form crime — could it lead to false imprisonment for folks?
+[Alex] So one thing I want to do is just address this inaccuracy. So every company– So like artificial intelligence and the algorithms tend to be very– It’s not like a canned software. Every major company kind of develops its own. Apple’s at this time seems to be one of the less accurate ones. Amazon spatial recognition not as good as some of the other ones. So there’s– One has to understand, there’s different levels of sophistication of the algorithms that drive facial recognition and make that match. So for example NEC — which is a Japanese company and they have a huge office here in the Dallas area and we’ve done projects with them on other topics here at UTD — they come quote-unquote kind of competed with the government agency called the National Industry Standards Board and their facial recognition with many different ethnic types, genders, etc was like 99.4 percent accurate. Amazon’s recognition not as accurate. One of the famous instances with that uh case with Amazon where they misidentified congress people as criminals is that the settings can also vary. You can use an 80 per cent setting which is the default Amazon recognition had or a 95 per cent plus I think is your higher level not 99.9. The higher you go the more lag time there is in making that match because now it really has to go through a bigger database of pictures and images and make that match. So they use a lower accuracy threshold when it’s not as critical like for retail. Oh, I want to recognize that that person coming in as a favorite VIP customer. But for law enforcement they want to be using the 99.9.
+[Ricardo, aside] Quick interruption: if you’d like to know more about how Amazon’s facial recognition falsely matched 28 members of congress with mugshots see the ACLU link in our show notes.
+[Alex] So the technology is getting better — AI — The other problem that has happened in the past, you know, these technologies are new but as they look through not just a million pictures of let’s say um an ethnic minority group and certain gender but they start to look over tens of millions of pictures of that group the algorithm gets better. It self-corrects itself. It says, okay, why did I mismatch this particular demographic group? Instead of looking so much at the distance between the eyes that works well with this other group, let me start looking at other factors and combine them with the distance to the mouth. You know, things like that, or to the ear and that may improve. So it has this thing where it can just do like I just came up with two. You can test out 500 variations to say you know what this one here this combination of things gives me that accuracy rate with this group. So the technology is just going to get better and better. So to the other question about the misuse — well that’s the bigger one and as people start to opt in– Let’s say AT&T says, you know, what if you opt into this uh we will waive your monthly cellular bill. A lot of people will do it but when it starts to be used potentially for, by governments for, you know, control of speech, you know, now you’re in a demonstration and they can know who you are. Very little doubt about that. So that can be a very– even, you know, one thing is if you did an illegal act but perhaps now it’s just you were there and you were there and you were here. So I think as a society we really have to put a lot of things that protect things like free speech, right to assembly, things of that nature.
+[Danyelle] Alex, you’ve mentioned to us before that you think that companies are a bigger concern. Is that right?
+[Alex] So I think the United States the bigger problem will probably come from companies using this information to discriminate against consumers potentially. Because now they can start to– You leave your phone, you know we were talking about it, they can start seeing oh but he was here, he was there, you know, he went shopping, used his face here. So they can start to put together a big profile of us and through their algorithms not any human being consciously discriminating say you know what this person did a DNA test — well that’s interesting, well now let’s see what genetic predisposition they have to these diseases. So they can start to create things that know us more than we know ourselves, right? I may not know that I’m predisposed to this or that but they can know that and they can discriminate.
+[Ricardo] You talk about tracking habits and how they can determine a lot from just your habits. How could this play into the medical field? How can this improve our medical field right now?
+[Alex] Yeah so there are great opportunities and advancements for people. So one of the things that the United States has is it’s kind of an aging population. You know, we’ve had this big baby boomer group.
+[Danyelle, aside] Hey friends: A quick note on this. The 2020 census will provide the most up-to-date count of the baby boomer generation, which wasn’t complete at the time of this recording, but according to census.gov it’s currently estimated at about 73 million. Alex talked about how technology can be especially helpful for this group, many of who are quickly approaching 65 years of age. [Alex] So but these technologies can allow us to do in a combination of things everything from uh ordering online and having it delivered to the home, to all these smart sensors that you can have in your Fitbit, is monitor people to see if they’re okay, to see if a stroke or maybe they’re about to get a fever, you know, the degrees are rising, their heart rate’s rising. They can anticipate problems by knowing your history and tracking you and more and more people can stay at home even though they’re elderly, you know, because of this tracking, the convenience that telemedicine provides. They don’t need somebody to drive them to the doctor. They have all these sensors on them. So I think the advantages are tremendous. The elderly growing population this is going to be a big thing it’s kind of interesting from a business how they’re going to promote, market and price these products.
+[Ricardo] I mean, that sounds great for the elderly and I’m sure it has a lot of benefits for people even that are not elderly.
+[Danyelle, aside] Hey y’all. At this point we had so many questions for Alex we just started randomly firing them off one after another.
+[Ricardo] You mentioned some examples. What could be some other ways that people could make this technology into a weapon?
+[Alex] There’s a lot of unfortunate a lot of people reaching retirement age, their savings aren’t great, this COVID now with a stock for some of them has been catastrophic, loss of the job, you know, you’re 60, you lose your job, you’re not going to probably easily get another job by the time you retire. So all these things, these technologies can help a lot if they’re available at the right price point. Yeah so I mean there’s, there’s a couple of things. One: there’s always hacking possibilities, right? That one is decreasing. In theory the way this facial recognition, voice match recognition works is they convert your identification into a digital template. When you see what it looks like you can no way on earth know who it is and supposedly they’re encrypted and their algorithm is kind of like Google search — top, top, top secret — so you could not reverse engineer somebody’s face from looking at that template. So there’s hacking but supposedly there’s, the technologies are advancing to make that less disruptive. I think a bigger one is going to be things like deep fakes, which is a synthetic recreation of your voice, manipulation of a clip of your voice to say things you never said, or of your image you know doing things that you know you weren’t there, you weren’t at that robbing that bank but that could, you know, things of that nature which can lend itself to embarrassment, you know, extortion, you know, go prove that it’s not a deep fake. You know right now there are techniques to show that it’s a deep fake but it’s getting better and better.
+[Danyelle] How would it change the banking industry if we go device-free? Would it essentially be cashless?
+[Alex] Yes. So some of that those payment options that are device-free, you know, like uh Amazon right now is rolling out a hand patent, they have hand recognition in the palm of your hand that they’re using in their Go stores wherever they have those — mainly on the West Coast. So Amazon has that. In China paying with your face now is about 25 percent of transactions.
+[Danyelle] That’s so interesting.
+[Ricardo] What about an outage? What if, what if, like, this technology just stops working?
+[Alex] That’s right. So that’s the thing, you know, when we’re talking about the smart home, the smart car. A — They can be hacked into, you know, a home probably easier than try to hack into the data center for the Googles of the world, etc. So if there’s outages, power goes down, well you may not be able to buy anything. You may not be able to get into your own house if you rely on a smart lock that doesn’t have some bypass mechanism.
+[Danyelle] Yeah what if someone like held your house hostage?
+[Alex] It could happen. You know, there’s even, as you know, there’s websites where they steal your data and they lock it so you can’t have access to it. Yeah you know governments, especially small cities, have had to pay ransom. So these are things that the companies behind the smart homes — the Googles with their Nest system, things of that nature — they really have to come up with, I would say almost insurance policies to protect their users from any kind of repercussion like that.
+[Danyelle] So how would going device-free change the way that we produce and consume the media we’re accustomed to? Like TV and video and music videos were a huge thing when I was growing up but I imagine if we didn’t have laptops or cell phones, you know, it would vastly change the way we interact with pop culture.
+[Alex] So one of the things that I think this is going to bring about a change in how we produce media and consume it is there’s going to be a lot more personalization possible because now these devices, a lot of it, they have to be unlocked if they’re going to offer you a lot of these services that you do for your phone now it’s going to have a face match or a voice match because, okay it’s, uh, it’s Danyelle and she’s about to order something so let’s pull up her history, her payment information, etc. So a lot of this is going to enable a high degree of personalization. It may already know if you’re just standing there and just left the theater let’s go ahead, the theater’s going to end in 10 minutes that it’s raining, let’s make sure Danyelle doesn’t even wait, let’s order it while she’s still in the theater. This is going to end 10 minutes. So there’s going to be a lot of automated personalization things that are going to be available to us. The other thing that’s going to be available is conversation. So we’re going to be able to interact even with ads. So for example one of the new technologies that are being developed is audio ads. So there’s not a lot of them right now — in Spotify there are somewhere you hear a voice ad. So the technology is — be it a voice ad or one on TV — more interactivity. So I’m listening to this uh ad about a vacation, let’s say, wherever, the Caribbean or Florida, you know, off they go and they start talking about and I said but what is the price for two? And it’ll stop and it’ll respond. So these ads, the media will start to become more conversational. They’d already know a lot about me and my taste so it showed me this Caribbean versus say a vacation to Europe or whatever ad and then they’ll start to allow the interactivity and I can say, okay well, this price sounds good, how about these days? Are they open? They can check my calendar — not this day, but this day you’re open and it’ll start to make perhaps a recommendation and the booking there for you. So the ads now are going to be taken to the next level, hyper-personalization, customization and also conversational. That’s really neat and I’m not talking to a human being, I’m talking to a chatbot.
+[Ricardo] Do you think that, because right now we’re living in a time where algorithms and everything keeps us in a bubble, right, and we can’t really see content that doesn’t go outside of that bubble, do you think it will make us more divisive?
+[Alex] Well yeah. So the perfect example is I can, if I have certain political preferences, the personalization I get is only certain type of media and viewpoint and I might not see that actually XYZ happened, you know, I might just get the first minute of the episode and not the last minute and the other person may get the reverse, just the last minute. So yeah it can lend itself to a lot of manipulation of perceptions, of consumers, how you think, how you react politically, how you vote, because you can be manipulated without you knowing it. Because it knows so much about you and your trigger points and maybe the mood that you have that day, you know. I mean there’s just so many things that we can talk about, but with voice so there’s voice recognition and another aspect is emotion recognition from your voice or your face. So there’s algorithms that can start to see, look they’re kind of frowning versus being angry, etc, they’re in a good mood, when I see you at a store and I can start to target you or not target. I may not want to waste my ad that I have to pay for the person is very in a bad mood you know that’s not the moment to hit them.
+[Ricardo] It’s creepy.
+[Danyelle] That is so wild. As a consumer yourself, Alex, what concerns do you have about a device-free future?
+[Alex] Well the main one is a little bit touched on that, you know, as we move away from a device that I own and can carry with me, there’s some level of privacy there even though there isn’t [ultimately?]. Right, but I’m more vulnerable if I rely on other people’s devices for everything. You know if I rely on when I go to the store that I have to use only their devices because you know maybe smartphones have kind of fallen by the wayside and they’re, you know, almost people haven’t, they don’t make them almost anymore — you know we’re talking 20 years down the road or so. So that would be a concern. Now you’re at the mercy of whoever provides these devices and if they don’t want you to have access to them, you don’t have anything, you just can’t interact with the modern world so you know that would be my kind of dystopian type of fear of what can happen — that we start to rely on others for that. And the other one goes to this whole thing about the scoring where they can start to score you socially to see if you’re quote-unquote a good citizen, a good consumer, and you can start to pay more or as happens in some places, you know, like in China the social scoring prevents some people from getting on a plane. I mean they say, you know, you’re scoring, you’re not a good neighbor, you didn’t pay your bills on time and your score has dropped below a certain number — guess what? You can’t go to the best schools, your kids can’t go through. So all these scoring thing, it lends itself to that tremendously. [Ricardo] So we’ve discussed some possible downfalls but what other benefits do you think there are?
+[Alex] There’s great opportunities. So don’t want to end up on a downer note, right? There’s great opportunities for our health, uh for better products because companies will get smart about what we use and don’t use and what we really need because this data is there. Security-wise, you know, perhaps crime will get to the point where it’s very almost impossible to commit a crime because even with a mask you know they can have another capability to recognize you based on your gait, your height, your girth, how you walk and things like that. So yes there’s the creepy side but there are going to be definitely a lot of benefits here. It is yeah it really is incredible. So let me just throw another wild one out to you. There is an algorithm that MIT developed uh and what they did is they got all the videos from like famous movie actors like John Wayne, whatever the actor is that’s out there, and they looked at the voice and the face and they developed an algorithm that from the voice they can come up with a composite that looks very close to the person .Because certain ethnicities, gender, age have different things that we as human may not pick up on but those algorithms do pick it up and match. So that’s uh another form of where they can start to say, okay you called in a bomb threat you know, for good this is what that person probably looks like unless they altered their voice things like that. So yeah it’s just really– you dream it and it’s probably out.
+[Danyelle] That is so creepy.
+[Ricardo, aside] If you’d like to read more about the researchers from MITs computer science and artificial intelligence laboratory check out the link to a Fast Company article in our show notes. Now, back to the chat.
+[Ricardo] So Alex, I know the answer of ‘could we ever live in a device-free world?’ is a yes, but should we?
+[Alex] I think there’s a lot of ethical implications and so the answer is, probably not given human nature. I mean, you know, when there are groups of people, companies that have so much power over us it can be used for good but it can also be used for what they consider good but I don’t consider good. So I think it can become very problematic. So the short answer is, I think those who don’t want to fully participate should not have to and also equally I should be able to– like right now I can, you know, they they have these credit scores — just as an example we can all relate to. I have the right by law to go and ask every year for a free report so I can see what, why my score is not good and I can challenge that. I can say, well wait a minute this, I never did this transaction, it was a fraud, whatever. We don’t have that right now with the data that’s being captured. Who’s capturing what data and how are they using it. It’s very murky and it’s very, worse yet, fragmented. So there has to be like a universal dashboard so to speak that consumers have access to any company, in my opinion, that’s collecting our data — be it the router, be it the cable company, be it Apple, Amazon. I need to be able to go into one place like I can for my credit score, see what’s there and either opt out or challenge that. So there’s a lot of privacy laws but none require a universal one. That can only be from, in our case, from the federal government. But that I think will help keep people honest, keep companies honest.
+[Danyelle] You’ve given us a lot to think about, about what the realistic future might be. It’s not something that’s going to happen in 2230 it might happen in 2030. So thank you for all your insight.
+[Alex] You’re very welcome, Danyelle.
+[Ricardo] Thank you for coming on the show. This was very interesting — very creepy but very interesting. [laughter] All right. Hope, hope it is, yes.
+[Danyelle] Yes, thank you so much. Alex wanted to plug the book he published earlier this year. ‘Trackable: Business in an IoT & Biometrics World’ provides a comprehensive overview of the IOT and biometric market and the opportunities of leveraging these in consumer markets. Be sure to check out all of our show notes for more information on the topics we discussed today.
+[Ricardo] If you like what you hear please leave us a review.
+[Danyelle] And a five-star rating.
+[Ricardo] You can find Could We Ever on all major podcasting platforms.
+[Danyelle] Also check out our website: utdallas.edu/cometcast.
+[Ricardo] Until we talk next time, whoosh! The UT Dallas CometCast is a podcast network brought to you by the UTD Office of Communications.
+[Danyelle] A special thanks to senior lecturer Roxanne Minish for our music. Be sure to follow the university on social media and check out Could We Ever and our other shows at utdallas.edu/cometcast. So listen out for us next time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+800 W. Campbell RoadRichardson, Texas 75080-3021
+972-883-2111
+
+
+Copyright Information
+© The University of Texas at DallasQuestions or comments about this page?
+
+
+Stay Connected with UT Dallas
+Facebook
+Twitter
+YouTube
+LinkedIn
+Instagram
+
+
+
+Resources
+
+Emergency PreparednessFormsCampus CarryCampus PoliceRequired linksTobacco-Free CampusUT SystemTexas Veterans PortalWork at UT DallasParkingNondiscrimination & Title IXOrg. ChartA-Z IndexStudent AchievementsHEERF ReportingCounseling/Mental HealthSafetyHazing PreventionPublic Course and Syllabus InformationPrivacy PolicyLand Acknowledgement
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

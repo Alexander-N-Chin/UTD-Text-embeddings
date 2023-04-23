@@ -1,0 +1,18 @@
+
+
+
+Spatial Thinking and Data Analytics (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogEPPS2305 - Spatial Thinking and Data AnalyticsEPPS 2305 Spatial Thinking and Data Analytics (3 semester credit hours) This course explores the role that Spatial Thinking plays across a variety of subject areas in science, engineering, mathematics, arts and humanities. We will introduce rich resources of geospatial data from government agencies, social media, and semantic web. Students will be exposed to introductory methods in Spatial Data Analytics afforded by Global Positioning Systems (GPS), Remote Sensing (RS), Geographic Information Systems (GIS), Spatial Analysis, and Mapping technologies and learn how to bring spatial considerations into research and applications. The course is intended to empower students with spatial intelligence (one of the nine intelligences on Howard Gardner's Theory of Multiple Intelligences) and with experiences of applying spatial thinking and data analytics to problem solving. (Same as GEOS 2305 or GISC 2305) (3-0) Y
+
+
+
+

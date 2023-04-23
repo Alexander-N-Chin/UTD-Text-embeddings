@@ -1,0 +1,18 @@
+
+
+
+Database Systems (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogMIS4301 - Database SystemsMIS 4301 Database Systems (3 semester hours) Introduces the basic concepts of relational databases. The emphasis is on relational database structure and the use of relational databases for query retrievals and report generation. Structured Query Language (SQL) will be covered extensively. Applications of databases for accounting, finance, marketing, and other areas of business will be discussed. Cannot be used to satisfy the requirements of BS in MIS degree. Prerequisites: (ACCT 2301 and ACCT 2302 and MIS 3300) and (MATH 1325 or MATH 2413 or MATH 2417). (3-0) Y
+
+
+
+

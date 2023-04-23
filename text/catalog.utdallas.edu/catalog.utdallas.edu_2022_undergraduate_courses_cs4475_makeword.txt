@@ -1,0 +1,18 @@
+
+
+
+Capstone Project (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS4475 - Capstone ProjectCS 4475 Capstone Project (4 semester credit hours) This course is intended to provide hands-on experience in a data science project. Students will work in teams on projects and will be involved in formulating a relevant problem, collecting the requisite data, finding a solution, and developing the necessary computational tools. The deliverables will include a final project report that details these steps and presentation of the project. Prerequisites: STAT 4355 and CS 4375. (Same as MATH 4475 and STAT 4475) (4-0) Y
+
+
+
+

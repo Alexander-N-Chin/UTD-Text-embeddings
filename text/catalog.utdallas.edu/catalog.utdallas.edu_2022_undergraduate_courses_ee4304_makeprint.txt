@@ -1,0 +1,18 @@
+
+
+
+Computer Architecture (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogEE4304 - Computer ArchitectureEE 4304 Computer Architecture (3 semester credit hours) Introduction to computer organization and design, including the following topics: CPU performance analysis. Instruction set design, illustrated by the MIPS instruction set architecture. Systems-level view of computer arithmetic. Design of the datapath and control for a simple processor. Pipelining. Hierarchical memory. I/O systems. I/O performance analysis. Multiprocessing. Credit cannot be received for both courses, (CS 2340 or SE 2340) and (CE 4304 or EE 4304). Prerequisite: CE 3320 or EE 3320. (Same as CE 4304) (3-0) S
+
+
+
+

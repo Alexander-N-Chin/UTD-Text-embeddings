@@ -1,0 +1,219 @@
+
+
+
+
+
+
+Home - William B. Hanson Center for Space Sciences | The University of Texas at Dallas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+ 
+              William B. Hanson Center for Space Sciences               
+
+
+
+Search
+
+ 
+
+MENU
+
+
+
+
+
+Home
+Research
+People
+History
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+Home
+Research
+People
+History
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The William B. Hanson Center for Space Sciences at The University of Texas at Dallas conducts a vigorous research program in Space Plasma Physics. Our goal is to advance our understanding of the evolution of Solar System bodies and their interaction with the Sun.
+
+
+
+
+
+
+Our research includes:
+
+the design, construction, and flight of space plasma sensors for space-borne experiments.the use of remote sensing and autonomous aerial vehicles to investigate Earth’s surface properties.the development and use of radio remote sensing instruments and techniques for studies of the upper atmosphere. the development of software and analysis tools for data interpretation.the advancement of numerical models of the solar terrestrial environment.
+The Center for Space Sciences (CSS) is composed of faculty, researchers, and graduate students affiliated with the University’s Department of Physics. The Center also provides challenging research projects for students with the opportunity to work with internationally renowned scientists.
+Below are some of our missions and research posters.
+
+
+Missions
+
+CINDI is an investigation to study the dynamics of the equatorial ionosphere, which is influenced by the collisions between the charged and neutral gases in the upper
+atmosphere. The NASA-sponsored investigation carried ion and neutral sensors designed and built at UT Dallas as part of a more extensive payload for the Communications
+Navigation Outage Forecast System (C/NOFS). The C/NOFS satellite was launched from a Pegasus vehicle in April 2008 and continued to provide data until the satellite reentered
+the atmosphere in 2015. The operation of the payload was supported by the US Air Force and provided an unprecedented view of the formation and evolution of
+ionospheric structures that are detrimental to space-based communication and navigation systems.
+Through collaboration with and funding by the US Air Force,
+UTD developed and provided the COSMIC-2 Ion Velocity
+Meter instruments that measure properties of the local
+plasma, including plasma motion, temperature, density
+and composition. The COSMIC-2 constellation provides an
+unprecedented low-latitude global dataset of these plasma
+properties, enabling new investigations of the physics of this
+region of space.
+The Defense Meteorological Satellite Program (DMSP) is a US Department of Defense spacecraft constellation that provides Earth weather and environmental data. DMSP
+instruments provide information in the visual and infrared spectra about the motion and characteristics of Earth’s clouds, land, ice and water. The DMSP satellites have included
+plasma sensors provided by UT Dallas since the eighth satellite (DMSP-F8) was launched in 1987. The UT Dallas plasma program has spanned more than three decades with
+operational instruments on 12 DMSP spacecrafts, three of which are still operational in 2022.
+The SPORT mission seeks to understand the conditions under which ionospheric variability develops that lead to scintillation and disruption of communications signals
+carried through the upper atmosphere. To investigate these conditions, SPORT developed a CubeSat observatory instrumented with special sensors provided by The
+University of Texas at Dallas, NASA Goddard Space Flight Center, Utah State University and the Aerospace Corporation. SPORT is a unique partnership between NASA’s
+Marshall Space Flight Center which leads the project, the Instituto Tecnológico de Aeronáutica (ITA) which developed, built and integrated the satellite, and Instituto Nacional
+de Pesquisas Espaciais (INPE) which provides operations, communications and data processing support for the mission.
+The SORTIE mIVM is the first CubeSat compatible sensor developed
+and provided by the UTD Center for Space Sciences.
+ROCSAT-1, later renamed FORMOSAT-1, was the first satellite mission carried out by Taiwan’s National Space Organization (NSPO). Taiwan partnered with several US
+organizations to develop the capability to produce and operate high-reliability satellite systems. Through a collaboration with TRW (later Northrop Grumman), UTD provided
+the Ionospheric Plasma and Electrodynamics Instrument (IPIE) and partnered with NSPO to develop and carry out the mission science investigation. ROCSAT-1 operated
+successfully on-orbit from 1999 to 2004, starting at an altitude of 600 km and an orbit inclination of 35°.
+The Ionospheric Connection Explorer (ICON) is a NASA Small Explorer mission lead by Dr. Thomas Immel at The University of California, Berkeley. UTD is a mission science
+partner, led by Dr. Rod Heelis and supported by Dr. Russell Stoneback and Dr. Yun-Ju Chen. With support from the UTD Space Sciences engineering staff, UTD provided the
+ICON Ion Velocity Meter payloads.
+Mission Gallery
+Research
+
+Ground-based radar systems can be used to measure height profiles of ionospheric parameters above a certain location with high temporal resolution.
+It is well-recognized that small, low-cost sensors can help advance our understanding of ionospheric
+behavior and impact on radio systems such as those used for communication and navigation.
+Physics-based models of the ionosphere, as well as analytical techniques, are used to assess
+the validity of our current physical description of the ionosphere. These tools can be combined
+with measurements from science instruments to explain ionospheric trends and behavior.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

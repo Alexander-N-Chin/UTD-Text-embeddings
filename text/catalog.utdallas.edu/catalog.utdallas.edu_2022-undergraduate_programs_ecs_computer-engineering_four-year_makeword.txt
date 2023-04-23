@@ -1,0 +1,198 @@
+
+
+
+Computer Engineering (BS) - Four-Year Degree Plan (Example) (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Computer Engineering (BS)
+Degree Requirements (126 semester credit hours)
+Four-Year Degree Plan (Example)
+
+This is an example only. Please see advisor to develop an individual four-year plan.
+
+
+
+
+
+Freshman Year
+
+Semester 1 - Fall Notes Preferred Core SCH
+
+Semester 2 - Spring Notes Preferred Core SCH
+
+
+Core Course    3
+ENGR 2300 9   3
+
+
+CE 1100 7   1
+CE 1202 7   2
+
+
+MATH 2417 2, 4  2090 4
+MATH 2419 2, 4, 9   4
+
+
+RHET 1302 2, 10  1090 3
+CE 2310    3
+
+
+CS 1336 8   4
+PHYS 2325 2, 5, 9   3
+
+
+and CS 1136 8  
+PHYS 2125 2, 5, 9   1
+
+
+ECS 1100 1, 7   1
+CS 1337 8   3
+
+
+UNIV 1010 1   0
+    
+
+
+Total  16
+Total  19
+
+ 
+Sophomore Year
+
+Semester 3 - Fall Notes Preferred Core SCH
+
+Semester 4 - Spring Notes Preferred Core SCH
+
+
+CE 2305    3
+Core Course    3
+
+
+CE 2336    3
+CE 3320    3
+
+
+ENGR 3341 9   3
+CE 3301 9   3
+
+
+MATH 2420 9   4
+CE 3201    2
+
+
+PHYS 2326 2, 5, 9   3
+CE 3345 9   3
+
+
+PHYS 2126 9   1
+    
+
+
+Total  17
+Total  14
+
+ 
+Junior Year
+
+Semester 5 - Fall Notes Preferred Core SCH
+
+Semester 6 - Spring Notes Preferred Core SCH
+
+
+ECS 3390 2, 3, 9   3
+Core Course    3
+
+
+CE 3303    3
+CE Elective Lab (CE 4200-Level)    2
+
+
+CE 3202    2
+CE 3311 9   3
+
+
+CE 3354 9   3
+Core Course    3
+
+
+CE 3161    1
+CE 4370    3
+
+
+UNIV 2020    0
+CE 4304    3
+
+
+Total  12
+Total  17
+
+ 
+Senior Year
+
+Semester 7 - Fall Notes Preferred Core SCH
+
+Semester 8 - Spring Notes Preferred Core SCH
+
+
+CE 4348 9   3
+CE Guided Elective (4000-Level)    3
+
+
+CE Guided Elective (4000-Level)    3
+CE Guided Elective (4000-Level)    3
+
+
+CE 4388 9   3
+CE 4389 9   3
+
+
+Free Elective    2
+Free Elective    2
+
+
+Core Course    3
+Core Course    3
+
+Core Course    3
+    
+
+
+Total  17
+Total  14
+
+
+
+
+ 
+NOTES:
+1 Incoming freshmen must enroll and complete requirements of UNIV 1010 and the corresponding school-related freshman seminar course. Students, including transfer students, who complete their core curriculum at UT Dallas must take UNIV 2020.
+2Curriculum Requirements can be fulfilled by other approved courses from accredited institutions of higher education. The courses listed are recommended as the most efficient way to satisfy both Core Curriculum and Major Requirements at UT Dallas.
+3Semester credit hours fulfill the communication component of the Core Curriculum.
+4Three semester credit hours of Calculus are counted under Mathematics Core, and five semester credit hours of Calculus are counted as Component Area Option Core.
+5Six semester credit hours of Physics are counted under Science core, and one semester credit hour of Physics (PHYS 2125) is counted as Component Area Option Core.
+6Semester credit hours contribute to the Social and Behavioral Sciences component of the Core Curriculum.
+7Transfer students with sufficient background may petition to substitute upper-division semester credit hours in the major for this class.
+8Depending on placement, student may need to complete CS 1336/1136 Programming Fundamentals prior to enrolling in CE 1337 Computer Science I.
+9Earliest semester course can be taken due to pre- or co-requisite course requirements.
+10Must complete by 3rd semester of enrollment.
+
+Be sure to check prerequisites of 2000-level or higher courses.
+126 semester credit hours required for graduation
+
+This plan is a resource tool only; it does not replace your degree plan or academic advising.
+
+
+Updated: 2022-06-06 13:47:39 v6.a8332a
+
+
+
+

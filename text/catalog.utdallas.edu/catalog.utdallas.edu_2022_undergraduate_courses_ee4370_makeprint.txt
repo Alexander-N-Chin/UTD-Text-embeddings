@@ -1,0 +1,18 @@
+
+
+
+Embedded Systems (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogEE4370 - Embedded SystemsEE 4370 Embedded Systems (3 semester credit hours) An introduction to micro-controllers and their uses. Features commonly found in a micro-controller are discussed, such as: The CPU structure which includes the Program Counter, Stack, Status Register, General Purpose Registers, ALU, Instruction Set. Peripheral devices including general purpose IOs (GPIOs), serial synchronous (e.g. SPI and I2C) and asynchronous communication (UART) interfaces. Different types of Analog to Digital converters (ADC) and Memories (SRAM, DRAM, EPROM, EEPROM). ANSI-C programing language is used to create the binary machine code necessary to program a micro-controller system. Lab fee of $30 required. Prerequisite: CE 3320 or EE 3320. (Same as CE 4370) (3-3) Y
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+
+Data Structures (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS3333 - Data StructuresCS 3333 Data Structures (3 semester credit hours) Programming with basic data structures (arrays, stacks, queues, lists, and trees) and their associated algorithms. Various sorting and searching techniques. Fundamental graph algorithms. This course covers much of the same material as CS 3345 without requiring the analysis of algorithms. May not be used to satisfy degree requirements for majors in Computer Science. Credit cannot be received for both courses, (CE 2336 or CS 2336 or CS 2337) and CS 3333. Prerequisite: CS 1335 or (CE 1337 or CS 1337) or equivalent programming experience. (3-0) Y
+
+
+
+

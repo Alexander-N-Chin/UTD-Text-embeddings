@@ -1,0 +1,46 @@
+
+
+
+Graduate Certificate in Cybersecurity Systems (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2021 Graduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Naveen Jindal School of Management
+Certificate Program
+The volume and sophistication of cybersecurity threats point to a critical demand for research and education in the general area of cybersecurity, which is highly interdisciplinary by nature. Elements from computer science and information technology management form the basis for systems-related technologies to secure typical vulnerabilities. In addressing this growing critical demand, the Certificate in Cybersecurity Systems (CCSS) offered at UT Dallas provides a joint program between the Erik Jonsson School of Engineering and Computer Science and Naveen Jindal School of Management.
+ 
+Graduate Certificate in Cybersecurity Systems (CCSS)
+12 semester credit hours
+Faculty
+Faculty and lecturers for the courses in this certificate program are drawn from the Department of Computer Science in the Erik Jonsson School of Engineering and Computer Science, and from the Naveen Jindal School of Management.
+Overview
+The CCSS requires 12 semester credit hours, and may be combined with other courses and/or certificates toward an MS degree in Computer Science or Information Technology and Management provided that the student has gained admission into that particular program. To earn the certificate, students in the program must take four courses with an overall GPA of 3.0 and no course grade should be below a "C".
+Required Course:
+MIS 6330 Cybersecurity Fundamentals
+Track #1: Computer Science (CS) Emphasis (9 semester credit hours)
+Choose three courses from the following:
+CS 6324 Information Security
+CS 6348 Data and Applications Security
+CS 6349 Network Security
+Or a course from a list of existing cybersecurity systems in Computer Science courses (offered periodically, and must be approved)
+Track #2: Cybersecurity Management Emphasis (9 semester credit hours)
+MIS 6333 Digital Forensics and Incident Management
+MIS 6337 Information Technology Audit and Risk Management
+Choose one course from the following:
+MIS 6343 Advanced Cybersecurity Management
+MIS 6363 Cloud Computing Fundamentals
+MIS 6384 Preparing for Cybersecurity Threats
+
+Updated: 2021-05-27 14:33:48 v3.4faf10
+
+
+
+

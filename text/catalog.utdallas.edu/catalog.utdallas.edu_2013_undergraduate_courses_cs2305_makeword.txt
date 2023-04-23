@@ -1,0 +1,18 @@
+
+
+
+Discrete Mathematics for Computing I (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogCS2305 - Discrete Mathematics for Computing ICS 2305 (MATH 2305) Discrete Mathematics for Computing I (3 semester hours) Principles of counting. Logic and proof methods, including induction. Basic recurrence relations. Basics of algorithm complexity. Sets, relations, functions. Elementary graph theory. Elementary number theory. Students cannot get credit for both CS 2305 and (CE 3307 or TE 3307). Prerequisite: MATH 1326 or MATH 2413 or MATH 2417. (Same as CE 2305 and TE 2305) (3-0) S
+
+
+
+

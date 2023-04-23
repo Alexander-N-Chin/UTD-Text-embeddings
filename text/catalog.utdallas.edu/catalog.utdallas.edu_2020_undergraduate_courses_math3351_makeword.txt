@@ -1,0 +1,18 @@
+
+
+
+Advanced Calculus (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2020 Undergraduate CatalogMATH3351 - Advanced CalculusMATH 3351 Advanced Calculus (3 semester credit hours) The course covers the interplay of linear algebra, higher dimensional calculus, and geometry. Topics include vectors, coordinate systems, the elementary topology of Euclidean spaces and surfaces, the derivative as a linear map, the gradient, multivariate optimization, vector fields, vector differential operators, multiple integrals, General Stokes Theorem, and differential forms. Applications are given to geometry, science, and engineering. Basic topological intuition is developed. Prerequisites: (A grade of at least a C- in either MATH 2415 or MATH 2419 or equivalent) and a grade of at least a C- in MATH 2418 or equivalent. (3-0) S
+
+
+
+

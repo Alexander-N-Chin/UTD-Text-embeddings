@@ -1,0 +1,18 @@
+
+
+
+Mathematical Foundations of Software Engineering (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogSE3306 - Mathematical Foundations of Software EngineeringSE 3306 Mathematical Foundations of Software Engineering (3 semester credit hours) Boolean logic, first-order logic, models of first-order logic. Introduction to program verification, applications in software engineering. Completeness Theorem. Regular expressions, regular sets, finite-state machines, and applications in software engineering. Graph Theory, graph algorithms. Statecharts, Petri Nets and their role in software engineering. Credit cannot be received for both courses, CS 3305 and SE 3306. Double majors are required to take CS 3305. Prerequisite: (CE 2305 or CS 2305) with a grade of C or better or equivalent. (3-0) S
+
+
+
+

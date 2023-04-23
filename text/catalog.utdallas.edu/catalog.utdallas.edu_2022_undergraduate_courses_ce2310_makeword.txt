@@ -1,0 +1,18 @@
+
+
+
+Introduction to Digital Systems (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCE2310 - Introduction to Digital SystemsCE 2310 Introduction to Digital Systems (3 semester credit hours) Introduction to digital circuits, hardware structures, and assembly-language concepts that underlie the design of modern computer systems. Topics include: Internal data representation and arithmetic operations in a computer, basic logic circuits, MIPS assembly language and an overview of computer architecture. Some knowledge of a high-level language such as C++ or Java is expected. This class also has a laboratory component. Exercises will be assigned in class for completion in the laboratory. This class may be offered as either regular or honors sections (H). (Same as EE 2310) (3-1) S
+
+
+
+

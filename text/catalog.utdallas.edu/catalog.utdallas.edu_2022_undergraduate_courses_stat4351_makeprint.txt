@@ -1,0 +1,18 @@
+
+
+
+Probability (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogSTAT4351 - ProbabilitySTAT 4351 Probability (3 semester credit hours) Sample spaces, probability of events, Kolmogorov's axioms, independence and dependence, Bayesian methodology. Discrete and continuous random variables. Probability distributions, mass functions and densities of univariate and multivariate random variables. Expected values, variances, moment generating functions, covariances and related issues. Probability inequalities. Special probability distributions and special probability densities. Functions of random variables, distribution function techniques, transformation techniques for one and several variables, moment-generating techniques. The law of large numbers, the central limit theorem and classical sampling distributions. Proofs of all main results. Practical examples illustrating the theory. The course can be used as a preparation for the first (Probability) actuarial exam. Prerequisite: MATH 2451 or MATH 3351. (3-0) Y
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+
+Database Fundamentals (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogMIS4300 - Database FundamentalsMIS 4300 Database Fundamentals (3 semester hours) Introduces the basic concepts for the design and development of relational databases and database management. Topics include entity-relationship data model, logical database design, data administration, Structured Query Language, and database management issues, such as concurrency control, data security, and integrity. A database management system software package is used to implement working database systems. Prerequisites: MIS 3300 and (MATH 1325 or MATH 2413 or MATH 2417). (Same as ACCT 4300) (3-0) Y
+
+
+
+

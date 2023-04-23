@@ -1,0 +1,18 @@
+
+
+
+Enterprise Resource Planning (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogMIS4340 - Enterprise Resource PlanningMIS 4340 Enterprise Resource Planning (3 semester hours) This course provides an understanding of the practical use of enterprise resource planning systems in modern business. The course provides an understanding of integrated business processes in ERP systems, project management approaches, ERP development methodologies, and ERP architectures. ERP concepts are reinforced with hands on transaction experience in the SAP ERP system. Topics associated with creating an information systems implementation proposal for an executive team are discussed. Prerequisites: (MIS 3300 and MATH 1326) and (MATH 2333 or OPRE 3333 or MATH 2418 or MATH 2415 or CS 2305). (3-0) Y
+
+
+
+

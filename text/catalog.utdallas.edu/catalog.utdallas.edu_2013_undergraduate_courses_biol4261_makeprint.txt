@@ -1,0 +1,18 @@
+
+
+
+Biomolecular Modeling (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogBIOL4261 - Biomolecular ModelingBIOL 4261 Biomolecular Modeling (2 semester hours) Designed to provide some of the computational tools needed to study the large number of biomolecular structures now available in databanks. Molecular Simulations Insight II software will be used to visualize and manipulate protein and nucleic acid structures. Students will build examples of small 3-dimensional molecules from amino acid, nucleotide, and sugar residues. Procedures for energy minimization will be studied. Homologous protein structures will be compared, and mutated structures will be modeled. Other modeling approaches such as Monte Carlo and molecular or Brownian dynamics may be included. Prerequisites: (BIOL 3301 and BIOL 3302) and (BIOL 3361 or CHEM 3361) or their equivalents, or instructor consent required. (1-1) T
+
+
+
+

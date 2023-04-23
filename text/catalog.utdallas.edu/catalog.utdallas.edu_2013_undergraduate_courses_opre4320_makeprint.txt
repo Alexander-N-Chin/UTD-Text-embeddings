@@ -1,0 +1,18 @@
+
+
+
+Integrated SCM Information Systems (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogOPRE4320 - Integrated SCM Information SystemsOPRE 4320 Integrated SCM Information Systems (3 semester hours) An introduction to the concept of an integrated supply chain management system such as SAP's Enterprise Resource Planning System. Students will: 1) learn the elements of an ERP application, 2) understand the concepts of end-to-end supply chain management, 3) define the basic master data needed to create a supply chain plan, 4) forecast demand using several statistical methods, 5) plan inventories using MRP and re-order point techniques, 6) execute the supply chain plan through the production process, 7) view the completed inventories after production. Prerequisite: MIS 3300. (3-0) Y
+
+
+
+

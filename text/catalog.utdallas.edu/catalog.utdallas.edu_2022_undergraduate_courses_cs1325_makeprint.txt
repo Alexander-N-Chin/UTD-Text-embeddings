@@ -1,0 +1,18 @@
+
+
+
+Introduction to Programming (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS1325 - Introduction to ProgrammingCS 1325 Introduction to Programming (3 semester credit hours) Computer programming in a high-level, block structured language. Basic data types and variables, memory usage, control structures, functions/procedures and parameter passing, recursion, input/output. Programming assignments related to engineering applications, numerical methods. May not be used to satisfy degree requirements for majors in Computer Engineering, Computer Science, and Software Engineering. Prerequisite or Corequisite: MATH 2413 or MATH 2417 (3-0) S
+
+
+
+

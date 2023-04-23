@@ -1,0 +1,18 @@
+
+
+
+Predictive Analytics (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogACTS4310 - Predictive AnalyticsACTS 4310 Predictive Analytics (3 semester credit hours) This 3 semester credit hour course provides a solid introduction to the implementation of various predictive analytic methods in two major statistical /machine learning software R and Python. Each student will complete a final project using insurance data. This class covers parts of the SOA Predictive Analytics (PA) exam. Prerequisites: (STAT 3355 and ACTS 4307 with grade C- or higher) or instructor consent required. (3-0) Y
+
+
+
+

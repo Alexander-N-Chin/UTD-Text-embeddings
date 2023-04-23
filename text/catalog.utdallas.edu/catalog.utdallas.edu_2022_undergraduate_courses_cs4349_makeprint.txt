@@ -1,0 +1,18 @@
+
+
+
+Advanced Algorithm Design and Analysis (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS4349 - Advanced Algorithm Design and AnalysisCS 4349 Advanced Algorithm Design and Analysis (3 semester credit hours) Asymptomatic analysis, recurrences, and graph algorithms. Algorithm design techniques such as greedy method, dynamic programming, and divide-and-conquer. Issues from computational complexity. Course emphasizes a theoretical approach. Prerequisites: CS 3305 with a grade of C or better, and (CE 3345 or CS 3345 or SE 3345). (3-0) S
+
+
+
+

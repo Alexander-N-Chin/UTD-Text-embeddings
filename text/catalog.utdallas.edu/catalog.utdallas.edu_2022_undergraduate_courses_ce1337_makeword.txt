@@ -1,0 +1,18 @@
+
+
+
+Computer Science I (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCE1337 - Computer Science ICE 1337 (COSC 1337) Computer Science I (3 semester credit hours) Review of control structures and data types with emphasis on structured data types. Applies the object-oriented programming paradigm, focusing on the definition and use of classes along with the fundamentals of object-oriented design. Includes basic analysis of algorithms, searching and sorting techniques, and an introduction to software engineering. Programming language of choice is C/C++. Students will also be registered for an exam section. Prerequisite: CS 1336 with a grade of C or better or equivalent. (Same as CS 1337) (3-0) S
+
+
+
+

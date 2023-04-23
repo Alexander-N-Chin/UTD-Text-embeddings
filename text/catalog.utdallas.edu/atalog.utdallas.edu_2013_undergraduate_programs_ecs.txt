@@ -1,0 +1,330 @@
+
+
+
+
+Engineering and Computer Science - UT Dallas 2013 Undergraduate Catalog - The University of Texas at Dallas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+Jump to navigation
+Jump to search
+Catalog Home 
+Undergraduate Catalogs 
+
+
+2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+
+
+ 
+Graduate Catalogs 
+
+
+2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Named in honor of one of the three founders of Texas Instruments, Inc. and of The University of Texas at Dallas, the Erik Jonsson School of Engineering and Computer Science provides undergraduate degree preparation for professional practice as an engineer or computer scientist. Particular emphasis is placed on developing strong analytical and problem solving abilities as a foundation for graduate study in these fields.
+The school's curricula emphasize electronic information processing devices and technologies that are involved with the acquisition, interpretation, transmission, and utilization of information. The school offers seven degree programs: Biomedical Engineering, Computer Engineering, Computer Science, Electrical Engineering, Mechanical Engineering, Software Engineering and Telecommunications Engineering; a minor in Nanoscience and Nanotechnology is offered by the Department of Materials Science and Engineering. The Biomedical Engineering program offers students the opportunity to combine engineering with biology and physiology. The Computer Science program emphasizes the design and analysis of efficient parallel and sequential algorithms with applications in VLSI layout and routing, distributed networks and operating systems, image processing, computational geometry, automation and robotics. The Software Engineering program concentrates on all aspects of software development including requirements engineering, software architecture and design, program testing, validation, and quality assurance. The Electrical Engineering program offers students an opportunity to acquire a solid foundation in the broad areas of electrical engineering and emphasizes advanced study in digital systems, telecommunications, and microelectronics. The Mechanical Engineering program focuses on the analysis, design, manufacturing of mechanical and thermal systems with particular emphasis on energy conversion, harvesting, and utilization, micro- and nano-technology devices and processes, and robotics. The Computer Engineering and Telecommunications Engineering programs are interdisciplinary, as they require a blend of knowledge from the areas of Electrical Engineering and Computer Science.
+All programs are based on a solid foundation of science and mathematics coursework. Students in these programs are given an opportunity to learn to extend their abilities to analyze and solve complex problems and to design new uses of technology to serve today's society. The Engineering programs provide an integrated educational experience directed toward the development of the ability to apply pertinent knowledge to the identification and solution of practical problems in engineering. These programs ensure that the design experience is developed and integrated throughout the curriculum in a sequential development leading to advanced work and includes both analytical and experimental studies. Established cooperative education programs with area industry serve to further supplement design experiences.
+The University of Texas at Dallas is located at the heart of a high concentration of companies that specialize in the areas of microelectronics, telecommunications, signal processing and optics. The Erik Jonsson School of Engineering and Computer Science maintains close relationships with these companies and has established cooperative programs through which students can obtain industrial experience to complement their classroom instruction. Details of specific cooperative programs between Computer Science and Engineering students and local companies are available in the respective program offices.
+Industrial Practice Programs
+The Industrial Practice Programs (IP Programs or IPP) of the Erik Jonsson School of Engineering and Computer Science include the school's Cooperative Education, Internship, and Curricular Practical Training Programs. These programs combine classroom learning with paid work experience. Qualified students are referred to participating employers seeking candidates for career-related, pre-professional work assignments. The programs enhance a student's education and career preparation by integrating classroom theory with on-the-job performance, providing an understanding of work environments and professional requirements, testing career and professional goals, developing confidence, maturity and skills in human relations, and establishing contacts and interests.
+Students are expected to register with and follow the rules of the IP Programs when working in any position titled by the employer as an Internship or a Cooperative Education assignment. Also, the Jonsson School offers one credit hour ECSC courses (may be used towards free elective requirements), and a three-hour course (may be used towards advanced free elective requirements) that provide students the opportunity to evaluate their work experience.
+For more information about the IP programs, call (972) 883-4363. The IP Programs Office is located in the Student Services suite (ECS South 2.502).
+Department of Materials Science and Engineering
+Faculty
+Professors: Orlando Auciello, Yves J. Chabal, Kyeongjae (KJ) Cho, Massimo V. Fischetti, Bruce E. Gnade, Zygmunt Haas, Julia W. P. Hsu, Jiyoung Kim, Moon J. Kim, Robert M. Wallace
+Professor Emeritus: Don Shaw
+Associate Professors: Lev D. Gelb, Manuel Quevedo-Lopez, Amy V. Walker
+Assistant Professors: Cong Liu, Christopher L. Hinkle, Walter E. Voit, Chadwin D. Young
+Research Professor: Padmakumar Nair
+Senior Lecturers: Michael Christiansen, Chris I. Davis, Jason W. Smith, Don Vogel
+Minor in Nanoscience and Technology
+Goals for the Minor in Nanoscience and Technology
+As the field of nanotechnology develops further, particularly in the north Texas region, The University of Texas at Dallas has an important role to play in the education of knowledge workers for the industry. The Minor in Nanoscience and Technology offered by the Department of Materials Science and Technology provides a means for undergraduate students to familiarize themselves with the concepts and principles of nanotechnology.
+This minor has been designed around three core NANO designated courses, the content of which is exclusively related to Nanoscience and Nanotechnology. The remaining nine hours of courses may be chosen from the list of courses below.
+The contents of the courses BIOL 4461, CHEM 3322, and PHYS 4301 are similar enough that only one of these three courses may count toward the minor. In addition, several lower-division electives have been included to provide streamlined access to the available upper-division electives.
+Since the three core courses are all upper-division electives, only one of the remaining nine hours must be an upper-division course, although students may choose to challenge themselves by pursuing all nine hours as upper-division electives.
+In concordance with the creation of this minor, the Nanoscience (NANO) course designation would be added to the course catalog for use in designating future Nanoscience-specific courses as they are created.
+Educational Objectives for the Minor in Nanoscience and Technology
+On completion of the Minor program, students will:
+
+Have a comprehensive general education background
+Have a working knowledge of nanotechnology and nanoscience principles and industry applications
+Be able to apply key concepts in materials science, chemistry, physics, biology, and engineering to the field of nanotechnology
+Understand the societal and technology issues that may impede the adoption of nanotechnology
+Have the ability to communicate effectively and work collaboratively
+Be able to become successful professionals and, if they desire, be able to pursue graduate study
+Be able to identify career paths and requisite knowledge and skills for career change towards nanotechnology
+
+Requirements for the Minor in Nanoscience and Technology
+A total of 18 hours are required, consisting of three core classes (9 hours) and 9 additional hours of electives.
+I. Core Requirements: 9 hours
+NANO 3301 Introduction to Nanoscience and Nanotechnology
+NANO 3302 Microscopy, Spectroscopy, and Nanotech Instrumentation
+NANO 4V95 Undergraduate Research in Nanotechnology
+II. Elective Requirements: 9 hours
+Students must complete at least nine hours chosen from the following courses. At least one of the courses must be upper-division (3000 or 4000):
+Nano-designated courses:
+NANO 3310 Introduction to Materials Science
+NANO 4391 or EE 4391 Technology of Plasma
+NANO 4V95 Undergraduate Research in Nanotechnology
+Any other upper-division NANO-designated course
+Lower-division courses:
+CHEM 2323 Introductory Organic Chemistry I
+CHEM 2325 Introductory Organic Chemistry II
+MATH 2451 Multivariable Calculus with Applications
+PHYS 2303 Contemporary Physics
+MECH 2320 Strength of Materials
+Upper-division courses:
+PHYS 4352 Concepts of Modern Physics
+PHYS 4383 Plasma Physics
+MECH 4360 Introduction to Nanostructured Materials
+MECH 4370 Introduction to MEMS
+MECH 3301 Mechanics of Materials
+EE 4392 Introduction to Optical Systems
+EE 3310 Electronic Devices
+EE 3311 Electronic Circuits
+CHEM 4335 Polymer Chemistry
+CHEM 3472 Instrumental Analysis
+CHEM 4473 Physical Measurements Laboratory
+CHEM 3321 Physical Chemistry I
+CHEM 4355 Computational Modeling
+ Only one of the following courses may be used to count toward the Minor:
+BIOL 4461 Biophysical Chemistry
+CHEM 3322 Physical Chemistry II
+PHYS 4301 Quantum Mechanics I
+Updated: 2019-08-09 13:10:51 v2.aaa044bugz
+
+
+
+
+
+
+
+
+
+
+
+
+2013 Undergraduate Catalog
+
+General Information
+
+About the 2013 Catalog
+About UT Dallas
+University Officers
+UT System Regents
+Contact Information
+Faculty Roster
+Search 2013 Undergraduate Catalog
+
+Undergraduate Programs
+
+Arts and Humanities
+
+Art and Performance
+ATEC
+EMAC
+Historical Studies
+Literary Studies
+
+Behavioral and Brain Sciences
+
+Child Learning and Development
+Cognitive Science
+Neuroscience
+Psychology
+Speech-Language Pathology and Audiology
+
+Economic, Political and Policy Sciences
+
+Criminology
+Criminology and Biology
+Economics
+Economics and Finance
+Geospatial Information Sciences
+International Political Economy
+Political Science
+Public Affairs
+Sociology
+
+Engineering and Computer Science
+
+Biomedical Engineering
+Computer Engineering
+Computer Science
+Electrical Engineering
+Mechanical Engineering
+Software Engineering
+Telecommunications Engineering
+
+Interdisciplinary Studies
+
+American Studies
+Healthcare Studies
+Interdisciplinary Studies
+
+Jindal School of Management
+
+Accounting
+Business Administration
+Business Administration and Biology
+Business Administration and Molecular Biology
+Finance
+Finance and Economics
+Global Business
+Management Information Systems
+Marketing
+Supply Chain Management
+
+Natural Science and Mathematics
+
+Actuarial Science
+Biochemistry
+Biology
+Biology and Business Administration
+Biology and Criminology
+Chemistry
+Geosciences
+Mathematics
+Molecular Biology
+Molecular Biology and Business Administration
+Physics
+Biomedical Sciences (Cert)
+
+Teacher Certification
+
+Undergraduate Courses
+
+Undergraduate Courses by Subject
+Undergraduate Courses by School
+Undergraduate Interdisciplinary Courses
+Undergraduate Developmental Courses
+
+Undergraduate Admission
+
+About Admission
+Application Fees and Deadlines
+Freshman Admission
+International Student Admission
+Readmission
+Special Admissions
+Transfer Student Admissions
+
+Undergraduate Curriculum
+
+About Curriculum
+Core Curriculum
+Honors Programs
+Other Degree Requirements
+
+Tuition and Financial Aid
+
+About Tuition and Financial Aid
+Excessive Undergraduate Hours
+Refund of Tuition and Fees
+Other User Fees
+Financial Aid
+Types of Financial Aid
+
+Policies and Procedures
+
+List of Undergraduate Policies
+
+Academic
+Admission
+Change of Address
+Correspondence - Email
+Courses
+Degree Plans
+Disciplinary Actions
+FERPA
+Graduate Courses
+Graduation
+International Education
+Military Service
+Registration
+Religious Holy Days
+Student Travel
+
+
+University Resources
+
+List of Resources
+
+General Resources
+Health Resources
+Professional Resources
+Student Complaint Resources
+
+
+Catalog Appendices
+
+Appendix I - Rules, Regulations, and Statutory Requirements
+Appendix II - Transfer of Lower-Division Course Credit
+
+
+
+
+
+
+
+The University of Texas at DallasUT Dallas ProvostCourseBookContact the Provost's Technology Group
+
+
+
+
+
+
+(null clip target)
+
+
+
+
+
+
+
+
+
+
+
+
+

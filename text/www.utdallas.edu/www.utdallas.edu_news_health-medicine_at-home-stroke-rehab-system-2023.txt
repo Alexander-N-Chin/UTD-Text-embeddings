@@ -1,0 +1,413 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Researchers’ At-Home Rehab System Changes Game for Stroke Patients - News Center | The University of Texas at Dallas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+ 
+
+
+Skip to content
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+Info For
+Students
+Faculty & Staff
+Alumni
+Family & Visitors
+DFW Community
+ 
+
+Resources
+Galaxy Login
+eLearning
+CourseBook
+Email
+Map
+Events
+Academic Calendar
+News
+Directory
+Library
+EZPay
+Help Desk
+Human Resources
+Accessibility
+ 
+
+											Make a Gift										
+
+
+Search
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+About Us
+Academics
+Admissions
+Costs, Scholarships & Aid
+Campus Life
+Research
+ 
+
+Info For
+Students
+Faculty & Staff
+Alumni
+Family & Visitors
+DFW Community
+ 
+
+Resources
+Galaxy Login
+eLearning
+CourseBook
+Email
+Map
+Events
+Academic Calendar
+News
+Directory
+Library
+EZPay
+Help Desk
+Human Resources
+Accessibility
+ 
+
+								Make a Gift							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+About Us
+Academics
+Admissions
+Costs, Scholarships & Aid
+Campus Life
+Research
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+News Center  >  Health & Medicine
+
+Researchers’ At-Home Rehab System Changes Game for Stroke Patients
+
+
+By Stephen Fontenot | Feb. 17, 2023 
+SHARE: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+A stroke rehabilitation patient plays a brick-breaking game as part of the RePlay system for motor skills rehabilitation. The hand-held device uses an integrated accelerometer, gyrometer and force sensor to measure the players’ movements, recording statistics to track progress.
+Researchers in The University of Texas at Dallas’ Texas Biomedical Device Center (TxBDC) have developed an at-home physical rehabilitation system that could give stroke patients an improved ability to recover upper-limb function while removing transportation and other barriers.
+In an article published online Oct. 31, 2022, and in the February print issue of Games for Health Journal, the researchers describe a small feasibility study of RePlay, a video-game-like system that patients can use independently to complete the appropriate exercises to regain as much function as possible.
+About 800,000 Americans experience strokes each year, and many of them lose significant upper-limb function. They need rehabilitation, which can be a long, expensive and arduous process. The availability of unsupervised, at-home rehab could remove several barriers to optimal recovery, said Dr. Michael Kilgard, interim executive director and chief science officer of TxBDC, and senior author of the study.
+
+
+RePlay uses a variety of controllers to test various abilities of stroke rehab patients, including grip strength. Check out a short video demonstration on YouTube.
+
+“People don’t get enough physical therapy of any form,” said Kilgard, the Margaret Fonde Jonsson Professor of neuroscience in the School of Behavioral and Brain Sciences (BBS). “It costs too much. It takes too long. Not everyone is willing or able to go to as many sessions as are needed.”
+RePlay creates a gameplay environment for rehab exercises in which patients complete games on an Android tablet using a wireless hand-held device or keyboard, or by swiping with their fingers. The equipment measures force and movement of arms and fingers so that therapists can customize instructions and quantify work and progress. Hand movements are monitored as patients play seven different games.
+“For neurorehabilitation after stroke or spinal cord injury, the goal is to make new neural connections — you have to get people really engaged,” Kilgard said. “In rehab, patients are asked to do a small amount of targeted work every day, ramping up slowly. We wanted to find a way to make it less tedious and something people actually finish.”
+RePlay records exhaustive data on patient progress, providing clinicians with a clear perspective on a patient’s recovery compared to occasional rehab facility visits. The games become more challenging as the patient improves.
+Kilgard emphasized the importance of having measures of both physical progress and time spent on the device.
+“Clinicians can see how many minutes were spent on each game, and that matters a lot,” he said. “Physical therapy struggles with the definition of a ‘dose’ of rehab — how much therapy does a patient need? Are we counting in days or hours or sessions? This documents minutes of active engagement. Bringing that data into physical and occupational therapy is significant to us.”
+“Our participants with stroke and spinal cord injury have now played 19,000 of these games — hundreds upon hundreds of hours — demonstrating that people can use RePlay effectively with only a short learning period and little to no supervision.”
+Dr. Michael Kilgard, interim executive director and chief science officer of the Texas Biomedical Device Center
+Corresponding author David Pruitt MS’14, PhD’16, a former research biomedical engineer at TxBDC and now a senior research engineer for Vulintus, said the study demonstrated the potential benefits of RePlay in both supervised and unsupervised settings. Sixteen patients used the system during an initial one-hour office visit, and four of them took the system home.
+Participants produced on average 698 discrete movements during the in-office visit, while those who used the system at home produced 1,593 discrete movements per day. The researchers’ baseline expectation was 100 repetitive movements per day.
+
+VNS Therapy Clinical Trials
+Researchers from the Texas Biomedical Device Center and Baylor Scott & White Institute for Rehabilitation have teamed up to assess if implanted vagus nerve stimulation coupled with rehabilitation is able to improve arm function after a stroke or in people living with a spinal cord injury. Therapy will take place over six weeks, and follow-ups will occur at one, three and six months post-therapy. Participants will be compensated for their time. Please visit these links for eligibility requirements for the stroke and spinal cord injury trials.
+
+“When we sent the RePlay system home with a subset of the participants, we did not give them any extra help beyond an occasional phone or Zoom call to see how things were going,” Pruitt said. “Every day, each participant used the system consistently, following their plan without supervision.”
+Upon completion of the at-home phase, all of the participants reported that they would be willing to use the system again in the future.
+“As you get stronger, the game raises the difficulty, or you can adjust it yourself. If you can’t do the next level, it backs off next time,” Kilgard said. “Our participants with stroke and spinal cord injury have now played 19,000 of these games — hundreds upon hundreds of hours — demonstrating that people can use RePlay effectively with only a short learning period and little to no supervision.”
+In future studies, the research team plans to test RePlay in tandem with vagus nerve stimulation (VNS). The pairing of VNS with conventional stroke rehab regimens was created at UT Dallas to help rewire the circuitry of the brain and accelerate the recovery of arm function. It was approved by the Food and Drug Administration in August 2021.
+“Adding the recovery-accelerating power of VNS to RePlay’s engaging, convenient therapy could vastly improve the physical rehabilitation experience for stroke and spinal cord injury patients,” Kilgard said. “We hope RePlay makes rehabilitation much less cost-prohibitive. Along with time and travel, we believe this system addresses the biggest barriers to achieving the best possible results.”
+Development of the RePlay platform was funded by two grants (R01NS094384, R01NS103803) from the National Institute of Neurological Disorders and Stroke.
+Other UT Dallas faculty who are authors of the paper include neuroscience professor Dr. Robert Rennaker, associate director and chief technology officer of TxBDC and the Texas Instruments Distinguished Chair in Bioengineering; and Dr. Seth Hays, director of preclinical research for TxBDC, associate professor of bioengineering in the Erik Jonsson School of Engineering and Computer Science, and Fellow, Eugene McDermott Professor.
+Current and former UT Dallas students who are among the authors include Eric Meyers PhD’17, now a principal biomedical engineer at Battelle; cognition and neuroscience doctoral student Rachael Affenit Hudson; biomedical engineering doctoral student Joseph Epperson; and TxBDC biomedical engineer Joel Wright BS’20. Dr. Jane Wigginton, associate professor of emergency medicine at UT Southwestern Medical Center, also was an author of the study.
+To learn more about how UT Dallas is enhancing lives through transformative research, explore New Dimensions: The Campaign for UT Dallas.
+
+
+
+
+
+
+
+Media Contact: Stephen Fontenot, UT Dallas, 972-883-4405, stephen.fontenot@utdallas.edu, or the Office of Media Relations, UT Dallas, (972) 883-2155, newscenter@utdallas.edu.
+
+
+Tagged:
+BBS Dr. Michael Kilgard ECS New Dimensions: The Campaign for UT Dallas research Texas Biomedical Device Center 
+
+
+
+
+More  Study May Offer New Clues on Aging, Financial Trustworthiness
+Virtual Exchange Program Extending UTD Educators’ Global Reach
+UTD Ready To Get in the Spirit for 7th Annual Comets Giving Days
+UTD To Honor Newest Group of Endowed Chairs, Professors
+Alumna Helps Turn the Tables on Kids’ Communication Challenges
+ 
+
+Top Stories
+
+UTD To Honor Newest Group of Endowed Chairs, Professors
+Comedian, Designer of UTD Mascot To Deliver Commencement Address
+UTD Students’ Artistry Lights Up Dallas Skyline in Omni Display
+UTD Honors Alumni, Supporters at Star-Studded Awards Gala
+Nobel Prize Winner Aziz Sancar Gives Award Replica to UT Dallas
+Scientists Discover New Molecule That Kills Hard-to-Treat Cancers
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+ 
+
+
+
+
+
+
+ 800 W. Campbell Road
+Richardson, Texas 75080-3021
+972-883-2111
+
+
+COPYRIGHT INFORMATION © The University of Texas at Dallas
+Questions or comments about this page?
+
+
+STAY CONNECTED WITH UT DALLAS
+
+
+
+facebook
+
+
+
+
+
+twitter
+
+
+
+
+
+youtube
+
+
+
+
+
+linkedin
+
+
+
+
+
+instagram
+
+
+
+
+
+RESOURCESEmergency Preparedness
+Forms
+Campus Carry
+Campus Police
+Required Links
+Tobacco-Free Campus
+UT System
+Texas Veterans Portal
+Work at UT Dallas
+Parking
+Nondiscrimination & Title IX
+Org. Chart
+A-Z Index
+Student Achievements
+HEERF Reporting
+Counseling/Mental Health
+Safety
+Hazing Prevention
+Public Course and Syllabus Information
+Privacy Policy
+Land Acknowledgement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

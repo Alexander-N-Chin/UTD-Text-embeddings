@@ -1,0 +1,18 @@
+
+
+
+Bioengineering Signals and Systems (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogBMEN3302 - Bioengineering Signals and SystemsBMEN 3302 Bioengineering Signals and Systems (3 semester credit hours) In this course, the fundamentals of continuous and discrete-time signal processing relevant to Biomedical Engineering and biomedical devices are introduced. The main time and frequency-domain concepts covered in the course are convolution, impulse response, Fourier transform, and sampling theorem. Credit cannot be received for more than one of the following: BMEN 3302 or BMEN 3402 or CE 3303 or EE 3302. Prerequisites: BMEN 1208 and ENGR 3300. (3-0) Y
+
+
+
+

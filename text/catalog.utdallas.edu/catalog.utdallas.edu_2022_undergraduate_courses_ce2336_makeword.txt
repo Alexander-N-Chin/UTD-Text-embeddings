@@ -1,0 +1,18 @@
+
+
+
+Computer Science II (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCE2336 - Computer Science IICE 2336 (COSC 2336) Computer Science II (3 semester credit hours) Further applications of programming techniques, introducing the fundamental concepts of data structures and algorithms. Topics include recursion, fundamental data structures (including stacks, queues, linked lists, hash tables, trees, and graphs), and algorithmic analysis. Includes comprehensive programming projects. Programming language of choice is Java. Credit cannot be received for both CS 2337 and (CS 2336 or CE 2336). Prerequisite: (CE 1337 or CS 1337) with a grade of C or better. Prerequisite or Corequisite: (CE 2305 or CS 2305) with a grade of C or better or (Data Science major and MATH 3315). (Same as CS 2336) (3-0) S
+
+
+
+

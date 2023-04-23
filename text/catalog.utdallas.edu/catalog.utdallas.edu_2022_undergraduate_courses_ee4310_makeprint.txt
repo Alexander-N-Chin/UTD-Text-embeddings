@@ -1,0 +1,18 @@
+
+
+
+Systems and Controls (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogEE4310 - Systems and ControlsEE 4310 Systems and Controls (3 semester credit hours) Introduction to linear control theory. General structure of control systems. Mathematical models including differential equations, transfer functions, and state space. Control system characteristics. Transient response, external disturbance, and steady-state error. Control system analysis. Performance, stability, root-locus method, Bode diagram, and Nyquist plot. Control system design. Compensation design using phase-lead and phase-lag networks. Prerequisites: ENGR 2300, and EE 3302. (3-0) S
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+
+Programming Fundamentals for Non-Majors (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS1334 - Programming Fundamentals for Non-MajorsCS 1334 Programming Fundamentals for Non-Majors (3 semester credit hours) Introduction to computers. Primitive data types, variable declarations, variable scope, and primitive operations. Control statements. Methods/functions. Arrays and strings using primitive data arrays. Output formatting. Debugging techniques. Designed for students with no prior computer programming experience. May not be used to satisfy degree requirements for majors in the School of Engineering and Computer Science. Credit cannot be received for both courses, CS 1334 and CS 1336. Note that a grade of C or better is required in order to register for CS 1335. Corequisite: CS 1134. (3-0) S
+
+
+
+

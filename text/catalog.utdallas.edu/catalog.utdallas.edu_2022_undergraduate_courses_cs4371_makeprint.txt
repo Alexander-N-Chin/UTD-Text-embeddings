@@ -1,0 +1,18 @@
+
+
+
+Introduction to Big Data Management and Analytics (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS4371 - Introduction to Big Data Management and AnalyticsCS 4371 Introduction to Big Data Management and Analytics (3 semester credit hours) This course focuses on scalable data management and mining algorithms for analyzing very large amounts of data (i.e., Big Data). Included topics are: Mapreduce, NoSQL systems (e.g., key-value stores, column-oriented data stores, stream processing systems), association rule mining, large scale supervised and unsupervised learning, and applications including recommendation systems, web and big data security. Prerequisites: (CS 2336 or CS 2337) and CS 4347. (3-0) Y
+
+
+
+

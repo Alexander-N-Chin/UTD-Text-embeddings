@@ -1,0 +1,18 @@
+
+
+
+Molecular Evolution (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogBIOL4305 - Molecular EvolutionBIOL 4305 Molecular Evolution (3 semester credit hours) This course describes principles and models of evolutionary theory at the molecular level. It focuses primarily on the evolution of nucleotide sequences including genes, pseudogenes, and genomes as well as amino acid sequences used to study the evolution of proteins, protein complexes, and interactions. Phylogenetics and current leading quantitative models of sequence evolution are discussed in detail. Recent methods on amino acid evolution and its connections to molecular structure and function are also studied. Relevant examples of molecular evolution presented in this course include protein interactions, signaling networks, and viral evolution. Students learn computational tools and algorithms used to study evolution at the molecular level and work on a proposal-like research project applying tools and concepts learned in class to investigate new research questions in their area of specialization. Prerequisites: BIOL 3301 and BIOL 3302. (3-0) S
+
+
+
+

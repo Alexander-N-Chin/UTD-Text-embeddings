@@ -1,0 +1,18 @@
+
+
+
+Discrete-Time Signals and Systems (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCE3303 - Discrete-Time Signals and SystemsCE 3303 Discrete-Time Signals and Systems (3 semester credit hours) Students learn the fundamentals of discrete-time signals and systems. Complex numbers, sampling and analog to digital signal conversion, digital signals and discrete-time linear time-invariant systems, linear difference equations, convolution, z-transform and transfer function, discrete-time Fourier transform, discrete Fourier transform, fast Fourier transform, digital images and two-dimensional discrete Fourier transform. Credit cannot be received for more than one of the following: BMEN 3302 or BMEN 3402 or CE 3303 or EE 3302. Credit cannot be received for both CE 3303 and EE 4361. Prerequisite: MATH 2420. (3-0) S
+
+
+
+

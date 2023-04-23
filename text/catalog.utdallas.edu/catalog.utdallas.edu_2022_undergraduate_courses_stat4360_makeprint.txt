@@ -1,0 +1,18 @@
+
+
+
+Introduction to Statistical Learning (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogSTAT4360 - Introduction to Statistical LearningSTAT 4360 Introduction to Statistical Learning (3 semester credit hours) Supervised learning methods including linear regression; classification; cross-validation; bootstrap; model selection and regularization; tree-based methods; and support vector machines. Unsupervised learning methods including principal components analysis and clustering. Computer packages such as R or Python will be used for implementation of methods and data analysis. Prerequisite: STAT 3355 or instructor consent required. (3-0) Y
+
+
+
+

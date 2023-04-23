@@ -1,0 +1,431 @@
+
+
+
+Department of Mathematical Sciences (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2020 Graduate Catalog
+School of Natural Sciences and Mathematics
+Department of Mathematical Sciences
+Objectives
+The Mathematical Sciences Department at The University of Texas at Dallas offers graduate studies in seven specializations namely - Mathematics, Applied Mathematics, Decision and Engineering Sciences, Statistics, Applied Statistics, Data Science and Actuarial Science, and an interdisciplinary degree in Bioinformatics and Computational Biology. The degree programs offer students the opportunity to prepare for careers in these disciplines themselves or in any of the many other fields for which these disciplines offer such indispensable tools. As other sciences develop, problems which require the use of these tools are numerous and pressing.
+In addition to a wide range of courses in mathematics, statistics, and actuarial science, the Mathematical Sciences Department offers a unique selection of courses that consider mathematical and computational aspects of engineering, biology and other scientific problems.
+The Master of Science degree programs are designed for persons seeking specializations in Mathematics, Applied Mathematics, Decision and Engineering Sciences, Statistics, Applied Statistics, Data Science, Actuarial Science, or Bioinformatics and Computational Biology.
+The Master of Science degree is also available for those who plan to teach Mathematics or Statistics above the remedial level at a community college or at a college or university. The Master of Science degree is recommended as a minimum, since a doctorate degree is sometimes required.
+For information concerning the Master of Arts in Teaching in Mathematics Education, designed for persons who are teaching in grades 6-12, see the Science and Mathematics Education section.
+The Doctor of Philosophy degree programs cover two basic areas of concentration: Statistics and Mathematics. They are designed for those who plan to pursue academic, government, financial, actuarial, or industrial careers.
+Facilities
+The faculty, staff, and students have access to a large network of workstations and servers on campus.
+NOTE> Please be advised, the admissions section below feeds in from a separate page. Any changes made to the section below will not be retained. To update Admissions policies please take all changes to Grad Council for initial approval and then send them to Serenity King in the Provost's Office.  If you have any questions, please contact catalog@utdallas.edu.
+Admission Requirements
+The University's general admission requirements are discussed on the Graduate Admission page.
+Specific additional admission requirements for students in degree programs in the Department of Mathematical Sciences follow. Students lacking undergraduate prerequisites for graduate courses in their area must complete these prerequisites or receive approval from the graduate advisor and the course instructor before registering.
+One of the components of a student's academic history which is evaluated when the student is seeking admission to the graduate program is his/her performance on certain standardized tests. Since these tests are designed to indicate only the student's potential for graduate study, they are used in conjunction with other measures of student proficiency, such as GPA (grade point average), etc., in determining the admission status of a potential graduate student. Accordingly, there is no rigid minimum cutoff score for admission to the program. Most applicants admitted to either the MS or PhD programs have GRE scores of at least 143 verbal, 155 quantitative, and 310 combined. However, exceptions are made in some cases when other credentials are especially strong. Higher standards prevail for applicants seeking Teaching Assistantships.
+
+ 
+Master of Science in Mathematics
+36 semester credit hours minimum
+Department Faculty
+FACG> nsm-mathematics-msProfessors: Larry P. Ammann @ammann, Zalman I. Balanov @zxb105020, Swati Biswas @sxb125731, Pankaj K. Choudhary @pkc022000, Mieczyslaw K. Dabkowski @mkd034000, Vladimir Dragovic @vxd123630, Sam Efromovich @sxe062000, Yulia Gel @yxg142030, M. Ali Hooshyar @ali, Wieslaw Krawcewicz @wzk091000, Susan E. Minkoff @sem120030, L. Felipe Pereira @lfp140030, Dmitry Rachinskiy @dxr124030, Viswanath Ramakrishna @vish, Janos Turi @turi, John Zweck @jwz120030Associate Professors: Yan Cao @yxc069200, Min Chen @mxc136030Assistant Professors: Maxim Arnold @mxa149530, Carlos Arreche @cxa171230, Bhargab Chattopadhyay @bxc126030, Sy Han (Steven) Chiou @sxc172931, Qingwen Hu @qxh102020, Frank Konietschke @fxk141230, Yifei Lou @yxl145331, Oleg Makarenkov @oxm130230, Tomoki Ohsawa @txo140730, Sunyoung Shin @sxs177233, Anh Tran @att140830, Nathan Williams @nxw170830Professors Emeritus: Patrick Odell @pxo062000, John W. Van Ness @nessClinical Professors: Natalia Humphreys @nah103020, Wenyi (Roy) Lu @wxl153330Clinical Associate Professor: Mohammad Akbar @mma110020Associate Professor of Instruction: My Linh Nguyen @mln018200Senior Lecturers: Mohammad Ahsan @mka120030, Iris Alvarado @ila180000, Kelly Aman @kxa143530, Malgorzata Dabkowska @mxd066000, Rabin Dahal @rxd153030, Anatoly Eydelzon @axe031000, Manjula Foley @mxf091000, Bentley T. Garrett @btg032000, Yuly Koshevnik @yxk055000, David L. Lewis @dlewis, Changsong Li @cxl109120, Irina Martynova @ixm140930, Brady McCary @bcm052000, Derege Mussa @dxm146130, Ajaya Paudel @abp062000, Paul Stanford @phs031000, Julie Sutton @jxs158030, Tristan Whalen @tgw100020UT Dallas Affiliated Faculty: Hervé Abdi @herve, Titu Andreescu @txa051000, Alain Bensoussan @axb046100, Stefano Leonardi @sxl139330, Faruck Morcos @afg150230, Zhenyu Xuan @zxx091000, Hyuntae Yoo @hxy103120, Michael Qiwei Zhang @mqz091000
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+Students seeking a Master of Science in Mathematics must complete a total of 12 three-semester credit hour courses. In some cases, credit for 3 semester credit hours is approved for good mathematics background. The student may choose a thesis plan or a non-thesis plan. In the thesis plan, the thesis replaces two elective courses with completion of an approved thesis (six thesis semester credit hours). The thesis is directed by a Supervising Professor and must be approved by the Head of the Mathematical Sciences Department.
+Each student must earn a 3.0 minimum GPA in the courses listed for the student's program.
+To satisfy the MS degree requirements, we currently offer a choice between four specializations - Mathematics, Applied Mathematics, Decision and Engineering Sciences, and Data Science.
+Mathematics Specialization (MS)
+MATH 6301 Real Analysis
+MATH 6303 Theory of Complex Functions I
+MATH 6311 Abstract Algebra I
+MATH 6315 Ordinary Differential Equations
+Choose four courses from the following:
+MATH 6302 Functional Analysis I
+MATH 6309 Differential Geometry
+MATH 6310 Topology
+MATH 6312 Combinatorics and Graph Theory
+MATH 6325 Nonlinear Analysis I
+MATH 7313 Partial Differential Equations I
+MATH 7361 Algebraic Geometry and Non-linear Equations
+Plus four guided electives with the approval of the graduate advisor for mathematics.
+Applied Mathematics Specialization (MS)
+MATH 6313 Numerical Analysis
+MATH 6315 Ordinary Differential Equations
+MATH 6319 Principles and Techniques in Applied Mathematics I
+MATH 6321 Optimization
+MATH 5301 Elementary Analysis I and MATH 5302 Elementary Analysis II1 
+or MATH 6301 Real Analysis
+Choose three courses from the following:
+MATH 6303 Theory of Complex Functions I
+MATH 6308 Inverse Problems and Applications
+MATH 6312 Combinatorics and Graph Theory
+MATH 6318 Numerical Analysis of Differential Equations
+MATH 6320 Principles and Techniques in Applied Mathematics II
+MATH 6324 Applied Dynamical Systems I
+MATH 6336 Nonlinear Control Systems
+MATH 6340 Numerical Linear Algebra
+MATH 6342 Scientific Computing
+MATH 7313 Partial Differential Equations I
+Plus four guided electives with the approval of the graduate advisor for mathematics.
+Mathematics for Decision and Engineering Sciences (MS)
+MATH 5301 Elementary Analysis I (or equivalent)
+MATH 5302 Elementary Analysis II (or equivalent)
+MATH 6305 Mathematics of Signal Processing
+MATH 6321 Optimization
+MATH 6331 Mathematics of Signals, Systems, and Controls
+MATH 7318 or OPRE 7318 Stochastic Dynamic Programming 
+STAT 5353 Probability and Statistics for Data Science and Bioinformatics
+STAT 6329 Applied Probability and Stochastic Processes 
+or MATH 6364 Stochastic Calculus in Finance
+STAT 6340 Statistical and Machine Learning
+FIN 6381 Introductory Mathematical Finance 
+or ACTS 6308 Actuarial Financial Mathematics
+Plus two guided electives with the approval of the graduate advisor for mathematics.
+Data Science Specialization (MS)
+CS 5303 Computer Science I
+CS 5343 Algorithm Analysis and Data Structures2
+CS 6307 Introduction to Big Data Management and Analytics for non CS-Majors
+CS 6375 Machine Learning
+MATH 6312 Combinatorics and Graph Theory
+MATH 6321 Optimization
+MATH 6340 Numerical Linear Algebra
+or MATH 6319 Principles and Techniques in Applied Mathematics I
+MATH 6322 Mathematical Foundations of Data Science
+STAT 5353 Probability and Statistics for Data Science and Bioinformatics
+STAT 6340 Statistical and Machine Learning
+Plus two guided electives
+Other Requirements
+Electives must be approved by the assigned graduate advisor. Typically, electives are 6000- and 7000-level Mathematics courses. Courses from other disciplines may also be used upon approval. Substitutions for required courses may be made if approved by the assigned graduate advisor. Instructors may substitute stated prerequisites for students with equivalent experience.
+ 
+Master of Science in Statistics
+36 semester credit hours minimum
+Department Faculty
+FACG> nsm-statistics-msProfessors: Larry P. Ammann @ammann, Zalman I. Balanov @zxb105020, Swati Biswas @sxb125731, Pankaj K. Choudhary @pkc022000, Mieczyslaw K. Dabkowski @mkd034000, Vladimir Dragovic @vxd123630, Sam Efromovich @sxe062000, Yulia Gel @yxg142030, M. Ali Hooshyar @ali, Wieslaw Krawcewicz @wzk091000, Susan E. Minkoff @sem120030, L. Felipe Pereira @lfp140030, Dmitry Rachinskiy @dxr124030, Viswanath Ramakrishna @vish, Janos Turi @turi, John Zweck @jwz120030Associate Professors: Yan Cao @yxc069200, Min Chen @mxc136030Assistant Professors: Maxim Arnold @mxa149530, Carlos Arreche @cxa171230, Bhargab Chattopadhyay @bxc126030, Qingwen Hu @qxh102020, Frank Konietschke @fxk141230, Yifei Lou @yxl145331, Oleg Makarenkov @oxm130230, Tomoki Ohsawa @txo140730, Sunyoung Shin @sxs177233, Anh Tran @att140830, Nathan Williams @nxw170830Professors Emeritus: Patrick Odell @pxo062000, John W. Van Ness @nessClinical Professors: Natalia Humphreys @nah103020, Wenyi (Roy) Lu @wxl153330Clinical Associate Professor: Mohammad Akbar @mma110020Associate Professor of Instruction: My Linh Nguyen @mln018200Senior Lecturers: Mohammad Ahsan @mka120030, Kelly Aman @kxa143530, Malgorzata Dabkowska @mxd066000, Rabin Dahal @rxd153030, Anatoly Eydelzon @axe031000, Manjula Foley @mxf091000, Bentley T. Garrett @btg032000, Yuly Koshevnik @yxk055000, David L. Lewis @dlewis, Changsong Li @cxl109120, Brady McCary @bcm052000, Derege Mussa @dxm146130, Ajaya Paudel @abp062000, Paul Stanford @phs031000, Julie Sutton @jxs158030, Tristan Whalen @tgw100020UT Dallas Affiliated Faculty: Hervé Abdi @herve, Titu Andreescu @txa051000, Alain Bensoussan @axb046100, Stefano Leonardi @sxl139330, Faruck Morcos @afg150230, Zhenyu Xuan @zxx091000, Hyuntae Yoo @hxy103120, Michael Qiwei Zhang @mqz091000
+Program Objective
+The Statistics MS degree curriculum at the University of Texas at Dallas offers a balanced list of applied and theoretical graduate courses in Statistics and attractive electives. During their study, our MS students acquire the necessary skills that make them highly competitive in the modern job market. Our recent graduates are currently employed as statisticians, biostatisticians, quantitative analysts, managers, actuaries, and so on, or they continue into doctoral degree programs.
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+The MS degree in Statistics requires completion of 12 approved graduate courses, for a total of 36 semester credit hours. Among these courses, there will be at least 7 courses in Statistics, including 5 specified ones. The other 5 courses are electives, which may be in Statistics, Mathematics, or another discipline, according to the student's professional interests and career goals. All such decisions are made in consultation with the statistics graduate advisor and are subject to the advisor's approval.
+Some students choose to do research at the MS level under the supervision of one of the professors and to write a thesis. The thesis must be approved by the Head of the Mathematical Sciences Department. Once the research project is completed, the thesis requires a formal defense in front of the thesis committee. A MS thesis project can be counted as 3 or 6 semester credit hours towards the required 36 hours.
+Each student must earn a 3.0 minimum GPA in the courses listed for the student's program.
+To satisfy the MS degree requirements, we currently offer a choice between three specializations - Statistics, Applied Statistics, and Data Science.
+Statistics Specialization (MS)
+1. Five Core Courses:
+STAT 6331 Statistical Inference I
+STAT 6337 Advanced Statistical Methods I
+STAT 6338 Advanced Statistical Methods II
+STAT 6339 Linear Statistical Models
+STAT 6341 Numerical Linear Algebra and Statistical Computing
+2. Two courses selected from different specialization groups:
+Statistics Specialization Group One
+STAT 6329 Applied Probability and Stochastic Processes
+STAT 6343 Experimental Design
+STAT 7334 Nonparametric and Robust Statistical Methods
+Statistics Specialization Group Two
+STAT 6348 Applied Multivariate Analysis
+STAT 7331 Multivariate Analysis
+Statistics Specialization Group Three
+STAT 6347 Applied Time Series Analysis
+STAT 7338 Time Series Modeling and Filtering
+3. Students must choose remaining courses as electives approved by the graduate advisor for Statistics. Up to two of the following prerequisite 5000-level courses may be counted as electives:
+MATH 5301 Elementary Analysis I
+MATH 5302 Elementary Analysis II
+STAT 5351 Probability and Statistics I
+STAT 5352 Probability and Statistics II
+Applied Statistics Specialization (MS)
+1. Five core courses:
+STAT 5351 Probability and Statistics I
+STAT 5352 Probability and Statistics II
+STAT 6337 Advanced Statistical Methods I
+STAT 6338 Advanced Statistical Methods II
+STAT 6341 Numerical Linear Algebra and Statistical Computing
+2. Two or more courses are selected from the following list:
+STAT 6329 Applied Probability and Stochastic Processes
+STAT 6343 Experimental Design
+STAT 6347 Applied Time Series Analysis
+STAT 6348 Applied Multivariate Analysis
+3. The remaining elective courses can be chosen in Statistics (e.g., STAT 6326 Sampling Theory, STAT 6V99 Statistical Consulting, STAT 6390 Topics in Statistics - Level 6, etc.) or in other disciplines, and must be approved by the advisor. Many students use this option to build expertise in another subject to enhance their employment opportunities.
+Data Science Specialization (MS)
+CS 5303 Computer Science I
+CS 5343 Algorithm Analysis and Data Structures2
+CS 6307 Introduction to Big Data Management and Analytics for non CS-Majors
+CS 6375 Machine Learning
+MATH 6312 Combinatorics and Graph Theory
+STAT 5351 Probability and Statistics I
+STAT 5352 Probability and Statistics II
+STAT 6337 Advanced Statistical Methods I
+STAT 6338 Advanced Statistical Methods II
+STAT 6348 Applied Multivariate Analysis
+STAT 6340 Statistical and Machine Learning
+Plus one guided elective.
+Other Requirements
+Electives must be approved by the assigned graduate advisor. Courses from other disciplines may also be used upon approval. Substitutions for required courses may be made if approved by the assigned graduate advisor. Instructors may substitute stated prerequisites for students with equivalent experience.
+ 
+Master of Science in Actuarial Science
+36 semester credit hours minimum
+Department Faculty
+FACG> nsm-actuarial-science-msProfessors: Larry P. Ammann @ammann, Zalman I. Balanov @zxb105020, Swati Biswas @sxb125731, Pankaj K. Choudhary @pkc022000, Mieczyslaw K. Dabkowski @mkd034000, Vladimir Dragovic @vxd123630, Sam Efromovich @sxe062000, Yulia Gel @yxg142030, M. Ali Hooshyar @ali, Wieslaw Krawcewicz @wzk091000, Susan E. Minkoff @sem120030, L. Felipe Pereira @lfp140030, Dmitry Rachinskiy @dxr124030, Viswanath Ramakrishna @vish, Janos Turi @turi, John Zweck @jwz120030Associate Professors: Yan Cao @yxc069200, Min Chen @mxc136030Assistant Professors: Maxim Arnold @mxa149530, Carlos Arreche @cxa171230, Bhargab Chattopadhyay @bxc126030, Sy Han (Steven) Chiou @sxc172931, Qingwen Hu @qxh102020, Frank Konietschke @fxk141230, Yifei Lou @yxl145331, Oleg Makarenkov @oxm130230, Tomoki Ohsawa @txo140730, Sunyoung Shin @sxs177233, Anh Tran @att140830, Nathan Williams @nxw170830Professors Emeritus: Patrick Odell @pxo062000, John W. Van Ness @nessClinical Professors: Natalia Humphreys @nah103020, Wenyi (Roy) Lu @wxl153330Clinical Associate Professor: Mohammad Akbar @mma110020Associate Professor of Instruction: My Linh Nguyen @mln018200Senior Lecturers: Mohammad Ahsan @mka120030, Kelly Aman @kxa143530, Malgorzata Dabkowska @mxd066000, Rabin Dahal @rxd153030, Anatoly Eydelzon @axe031000, Manjula Foley @mxf091000, Bentley T. Garrett @btg032000, Yuly Koshevnik @yxk055000, David L. Lewis @dlewis, Changsong Li @cxl109120, Brady McCary @bcm052000, Derege Mussa @dxm146130, Paul Stanford @phs031000, Julie Sutton @jxs158030, Tristan Whalen @tgw100020UT Dallas Affiliated Faculty: Hervé Abdi @herve, Titu Andreescu @txa051000, Alain Bensoussan @axb046100, Stefano Leonardi @sxl139330, Faruck Morcos @afg150230, Zhenyu Xuan @zxx091000, Hyuntae Yoo @hxy103120, Michael Qiwei Zhang @mqz091000
+Program Objective
+The objective of the program is to educate future leaders of the actuarial industry with training in actuarial theory and methods in a wide spectrum of actuarial applications involving probabilistic and statistical models. All students will be prepared to take five actuarial preliminary exams and will take two advanced actuarial classes to prepare for professional accreditation. Furthermore, students who did not take classes required for VEE (Validation of Educational Experience) credits in statistics, finance, and economics will have such opportunity. With this combined knowledge of mathematics particularly of probability, statistics, and decision theory together with knowledge of financial mathematics and insurance, the expected passing of five actuarial exams, and the three required VEE credits, graduates of the program will be able to work as senior actuaries in insurance, consulting, finance, government, and emerging markets.
+Course Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+The minimal total required number of classes for graduation is 36 semester credit hours. Among them, 27 semester credit hours of required courses and 9 semester credit hours of electives.
+Required Courses: 27 semester credit hours
+STAT 5351 Probability and Statistics I3
+STAT 5352 Probability and Statistics II3
+ACTS 6301 Theory of Actuarial Models: Life Contingencies I4
+ACTS 6302 Theory of Actuarial Models: Financial Economics5
+ACTS 6303 Theory of Actuarial Models: Life Contingencies II6
+ACTS 6304 Construction and Evaluation of Actuarial Models I7
+ACTS 6305 Construction and Evaluation of Actuarial Models II8
+ACTS 6306 Advanced Actuarial Applications9
+ACTS 6308 Actuarial Financial Mathematics10
+Prescribed Elective Courses: 9 semester credit hours
+For the prescribed elective courses select three courses from the following:
+STAT 6337 Advanced Statistical Methods I11
+STAT 6329 Applied Probability and Stochastic Processes
+STAT 6338 Advanced Statistical Methods II
+STAT 6343 Experimental Design
+STAT 6347 Applied Time Series Analysis11
+STAT 7338 Time Series Modeling and Filtering
+STAT 6348 Applied Multivariate Analysis
+STAT 6390 Topics in Statistics - Level 6
+STAT 7334 Nonparametric and Robust Statistical Methods
+MATH 6313 Numerical Analysis
+STAT 6331 Statistical Inference I
+FIN 6301 Financial Management12
+FIN 6308 Regulation of Business and Financial Markets
+FIN 6310 Investment Theory and Practice
+FIN 6314 Fixed Income Securities
+FIN 6360 Derivatives Markets
+FIN 6382 Numerical and Statistical Methods in Finance
+OPRE 6335 Risk and Decision Analysis
+MECO 6303 Business Economics13
+ACCT 6305 Accounting for Managers
+PPPE 6321 Economics for Public Policy
+Preparation for Actuarial Exams
+These classes prepare for the three preliminary actuarial examinations jointly administered by the Society of Actuaries (SOA), Casualty Actuarial Society (CAS) and the Canadian Institute of Actuaries (CIA):
+Exam 1/P: STAT 5351 and STAT 5352
+Exam 2/FM: ACTS 6308
+Exam 3L/MLC: ACTS 6301
+Exam 3F/MFE: ACTS 6302
+Exam 4/C: ACTS 6304
+Exam 5/FAP: ACTS 6306
+Validation by Educational Experience (VEE) Credits
+Applied Statistical Methods: STAT 6337 and STAT 6347
+Corporate Finance: FIN 6301
+Economics: MECO 6303
+ 
+NOTE> The MS in Bioinformatics and Computational Biology degree program feeds in from a separate page. Any changes made to this degree program below will not be retained. Please contact catalog@utdallas.edu if you have any questions.
+NOTE> Changes made here will filter out to both the Mathematics and Biological Sciences degree program pages.
+Master of Science in Bioinformatics and Computational Biology
+36 semester credit hours minimum
+Mathematics Faculty
+FACG> nsm-bioinformatics-and-computational-biology-ms-mathProfessors: Larry P. Ammann @ammann, Zalman I. Balanov @zxb105020, Swati Biswas @sxb125731, Pankaj K. Choudhary @pkc022000, Mieczyslaw K. Dabkowski @mkd034000, Vladimir Dragovic @vxd123630, Sam Efromovich @sxe062000, Yulia Gel @yxg142030, M. Ali Hooshyar @ali, Wieslaw Krawcewicz @wzk091000, Susan E. Minkoff @sem120030, L. Felipe Pereira @lfp140030, Dmitry Rachinskiy @dxr124030, Viswanath Ramakrishna @vish, Janos Turi @turi, John Zweck @jwz120030Associate Professors: Yan Cao @yxc069200, Min Chen @mxc136030Assistant Professors: Maxim Arnold @mxa149530, Carlos Arreche @cxa171230, Bhargab Chattopadhyay @bxc126030, Sy Han (Steven) Chiou @sxc172931, Qingwen Hu @qxh102020, Frank Konietschke @fxk141230, Yifei Lou @yxl145331, Oleg Makarenkov @oxm130230, Tomoki Ohsawa @txo140730, Sunyoung Shin @sxs177233, Anh Tran @att140830, Nathan Williams @nxw170830Professors Emeritus: Patrick Odell @pxo062000, John W. Van Ness @nessClinical Professors: Natalia Humphreys @nah103020, Wenyi (Roy) Lu @wxl153330Clinical Associate Professor: Mohammad Akbar @mma110020Associate Professor of Instruction: My Linh Nguyen @mln018200Senior Lecturers: Mohammad Ahsan @mka120030, Kelly Aman @kxa143530, Malgorzata Dabkowska @mxd066000, Rabin Dahal @rxd153030, Anatoly Eydelzon @axe031000, Manjula Foley @mxf091000, Bentley T. Garrett @btg032000, Yuly Koshevnik @yxk055000, David L. Lewis @dlewis, Changsong Li @cxl109120, Brady McCary @bcm052000, Derege Mussa @dxm146130, Paul Stanford @phs031000, Julie Sutton @jxs158030, Tristan Whalen @tgw100020UT Dallas Affiliated Faculty: Hervé Abdi @herve, Titu Andreescu @txa051000, Alain Bensoussan @axb046100, Stefano Leonardi @sxl139330, Faruck Morcos @afg150230, Zhenyu Xuan @zxx091000, Hyuntae Yoo @hxy103120, Michael Qiwei Zhang @mqz091000
+Mathematics Faculty With Research Interests in Bioinformatics and Computational Biology: Swati Biswas, Yan Cao, and Min Chen
+Biology Faculty
+FACG> nsm-bioinformatics-and-computational-biology-ms-biolProfessors: Rockford K. Draper @draper, Juan E. González @jgonzal, Lawrence J. Reitzer @reitzer, Stephen Spiro @sxs067400, Li Zhang @lxz075000, Michael Qiwei Zhang @mqz091000Associate Professors: John G. Burr @burr, Jeff L. DeJong @dejong, Heng Du @hxd131030, Tae Hoon Kim @txk142630, Kelli Palmer @klp120030, Duane D. Winkler @ddw130330, Zhenyu Xuan @zxx091000Assistant Professors: Zachary Campbell @zxc153030, Nicole De Nisco @njd160330, Nikki Delk @nad140230, Jyoti Misra @jrm190003, Faruck Morcos @afg150230Professors Emeritus: Hans Bremer @hxb068000, Lee A. Bulla @bulla, Donald M. Gray @dongrayAssociate Professors Emeritius: Gail A. M. Breen @breen, Dennis L. Miller @dmillerClinical Professor: David Murchison @dfm100020Research Assistant Professors: Lan Guo @lxg132130, Li Liu @lliuAssistant Professors of Instruction: Caitlin Braitsch @cmb170830, Ida Klang @ixk190014, Eva Sadat @exs190014, Zhuoru Wu @zxw190014Senior Lecturers: Mehmet Candas @candas, Wen-Ju Lin @wenju, Meenakshi Maitra @mxm172731, Robert C. Marsh @rmarsh, Iti Mehta @ixm121430, Jing Pan @jxp134330, Elizabeth Pickett @eaw016100, Ruben D. Ramirez @rdr092000, Scott A. Rippel @rippel, Ilya Sapozhnikov @isapoz, Subha Sarcar @sns064000, Uma Srikanth @ukrish, Michelle Wilson @mxw084000, Wen-Ho Yu @why061000UT Dallas Affiliated Faculty: Leonidas Bleris @lxb092000, Sheena D'Arcy @sxd156730, Stephen D. Levene @sdlevene, Jonathan E. Ploski @jep101000, Lucien (Tres) Thompson @tres
+Biological Sciences Faculty With Research Interests in Bioinformatics and Computational Biology: Faruck Morcos, Zhenyu Xuan, Hyuntae Yoo, and Michael Q. Zhang
+Program Objective
+The Master of Science program in Bioinformatics and Computational Biology is an interdisciplinary program offered jointly by the Departments of Mathematical Sciences and Biological Sciences, with the former serving as the administrative unit. By combining coursework from the disciplines of Biology, Computer Science, Mathematics, and Statistics, it caters to the growing demand of a new breed of scientists who have expertise in all these disciplines. In addition to coursework, the program also provides opportunities to gain practical experience by getting involved in research with faculty members.
+A successful applicant to the program is expected to have a Bachelor's degree in Biology, Mathematics, Statistics, or in another science/engineering discipline, and must have completed Differential and Integral Calculus courses. Additional coursework in one or more of the disciplines of Biology, Computer Science, Mathematics, and Statistics is desirable but is not required.
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+The MS program in Bioinformatics and Computational Biology requires completion of at least 36 semester credit hours. The program offers a choice between two tracks. Track 1 is designed for students with a general background in science/engineering, whereas Track 2 is designed for students with a strong background in biology. To build further expertise, both tracks offer a choice of three elective groups, namely, Computer Science oriented, Statistics oriented, and Biology oriented elective groups. Both also offer opportunities for research. Students are expected to choose a track and an elective group based on their backgrounds and interests in consultation with the Graduate Advisor for the program.
+Track 1 (MS)
+I. Core: 15 semester credit hours
+BMEN 6374 Genes, Proteins and Cell Biology for Engineers
+BIOL 6V00 Topics in Biological Sciences (Computational Molecular Evolution)
+CS 5303 Computer Science I
+MATH 5303 Advanced Calculus and Linear Algebra 
+STAT 5351 Probability and Statistics I (for Elective Group 2)
+or STAT 5353 Probability and Statistics for Data Science and Bioinformatics (for Elective Groups 1 and 3)
+II. Elective Groups (Choose one elective group)
+Elective Group 1 (Computer Science Oriented):  15 semester credit hours 
+CS 5343 Algorithm Analysis and Data Structures1
+MATH 6312 Combinatorics and Graph Theory
+MATH 6341 Bioinformatics 
+or BIOL 5376 Applied Bioinformatics
+MATH 6346 Medical Image Analysis
+AND one of the following:
+CS 6307 Introduction to Big Data Management and Analytics for non CS-Majors
+CS 6314 Web Programming Languages
+CS 6360 Database Design
+CS 6375 Machine Learning
+Elective Group 2 (Statistics Oriented):  18 semester credit hours
+STAT 5352 Probability and Statistics II
+STAT 6337 Advanced Statistical Methods I
+STAT 6338 Advanced Statistical Methods II
+STAT 6340 Statistical and Machine Learning
+MATH 6341 Bioinformatics 
+or BIOL 5376 Applied Bioinformatics
+MATH 6346 Medical Image Analysis
+Elective Group 3 (Biology oriented):  15 semester credit hours
+MATH 6341 Bioinformatics 
+or BIOL 5376 Applied Bioinformatics
+MATH 6345 Mathematical Methods in Medicine and Biology
+MATH 6346 Medical Image Analysis
+AND two of the following:
+BIOL 5375 Genes to Genomes
+BIOL 5381 Genomics
+BIOL 6315 Epigenetics
+BIOL 6373 Proteomics
+BIOL 6385 Computational Biology
+or BMEN 6389 Computational Biology
+or MATH 6343 Computational Biology
+III. Research or Elective(s) or a Combination Thereof
+
+Elective Group 1:  6 semester credit hours
+Elective Group 2:  3 semester credit hours
+Elective Group 3:  6 semester credit hours
+
+Track 2 (MS)
+I. Core: 14 semester credit hours
+BIOL 5410 Biochemistry
+BIOL 5420 Molecular Biology
+STAT 5351 Probability and Statistics I (for Elective Group 2)
+or STAT 5353 Probability and Statistics for Data Science and Bioinformatics (for Elective Groups 1 and 3)
+MATH 5303 Advanced Calculus and Linear Algebra 
+II. Elective Groups (Choose one elective group)
+Elective Group 1 (Computer Science oriented):  18 semester credit hours
+CS 5303 Computer Science I
+CS 5343 Algorithm Analysis and Data Structures1
+MATH 6312 Combinatorics and Graph Theory
+MATH 6341 Bioinformatics 
+or BIOL 5376 Applied Bioinformatics
+MATH 6346 Medical Image Analysis
+AND one of the following:
+CS 6307 Introduction to Big Data Management and Analytics for non CS-Majors
+CS 6314 Web Programming Languages
+CS 6360 Database Design
+CS 6375 Machine Learning
+Elective Group 2 (Statistics oriented):  18 semester credit hours
+STAT 5352 Probability and Statistics II
+STAT 6337 Advanced Statistical Methods I
+STAT 6338 Advanced Statistical Methods II
+STAT 6340 Statistical and Machine Learning
+MATH 6341 Bioinformatics 
+or BIOL 5376 Applied Bioinformatics
+MATH 6346 Medical Image Analysis
+Elective Group 3 (Biology oriented):  At least 18 semester credit hours
+MATH 6341 Bioinformatics
+or BIOL 5376 Applied Bioinformatics
+MATH 6346 Medical Image Analysis
+MATH 6345 Mathematical Methods in Medicine and Biology
+AND two of the following:
+BIOL 5375 Genes to Genomes
+BIOL 5381 Genomics
+BIOL 6315 Epigenetics
+BIOL 6373 Proteomics
+BIOL 6385 Computational Biology
+or BMEN 6389 Computational Biology
+or MATH 6343 Computational Biology
+BIOL 6V00 Topics in Biological Sciences (Computational Molecular Evolution)
+BIOL 6V00 Topics in Biological Sciences (Introduction to Programming for Biological Sciences)
+III. Research or Elective(s) or a Combination Thereof
+All Elective Groups:  4 semester credit hours
+Other Requirements
+
+For a PhD bound student in the Department of Biological Sciences, BIOL 5440 Cell Biology and BIOL 5460 Quantitative Biology (or an equivalent) are required. This requirement can be fulfilled by taking these courses as 'electives' in the Bioinformatics and Computational Biology program.
+Electives must be approved by the Graduate Advisor of the program.
+Substitutions for required courses may be made if approved by the Graduate Advisor of the program and the Head of the Mathematical Sciences Department.
+A student may choose to write an MS thesis under the supervision of a faculty member. The thesis project can count for 3 to 6 semester credit hours of electives towards the required 36 hours, in accordance with University policies. The thesis must be approved by the Head of the Mathematical Sciences Department. Once the thesis project is completed, the student must successfully defend it before his/her thesis committee.
+1. Students who have not taken the CS 5333 Discrete Structures prerequisite for CS 5343 Algorithm Analysis and Data Structures should consult with their Graduate Advisor from the Mathematical Sciences Department to determine eligibility.
+
+ 
+Doctor of Philosophy in Mathematics
+75 semester credit hours minimum beyond the baccalaureate degree
+Department Faculty
+FACG> nsm-mathematics-phdProfessors: Larry P. Ammann @ammann, Zalman I. Balanov @zxb105020, Swati Biswas @sxb125731, Pankaj K. Choudhary @pkc022000, Mieczyslaw K. Dabkowski @mkd034000, Vladimir Dragovic @vxd123630, Sam Efromovich @sxe062000, Yulia Gel @yxg142030, M. Ali Hooshyar @ali, Wieslaw Krawcewicz @wzk091000, Susan E. Minkoff @sem120030, L. Felipe Pereira @lfp140030, Dmitry Rachinskiy @dxr124030, Viswanath Ramakrishna @vish, Janos Turi @turi, John Zweck @jwz120030Associate Professors: Yan Cao @yxc069200, Min Chen @mxc136030Assistant Professors: Maxim Arnold @mxa149530, Carlos Arreche @cxa171230, Bhargab Chattopadhyay @bxc126030, Sy Han (Steven) Chiou @sxc172931, Qingwen Hu @qxh102020, Frank Konietschke @fxk141230, Yifei Lou @yxl145331, Oleg Makarenkov @oxm130230, Tomoki Ohsawa @txo140730, Sunyoung Shin @sxs177233, Anh Tran @att140830, Nathan Williams @nxw170830Professors Emeritus: Patrick Odell @pxo062000, John W. Van Ness @nessClinical Professors: Natalia Humphreys @nah103020, Wenyi (Roy) Lu @wxl153330Clinical Associate Professor: Mohammad Akbar @mma110020UT Dallas Affiliated Faculty: Hervé Abdi @herve, Titu Andreescu @txa051000, Alain Bensoussan @axb046100, Stefano Leonardi @sxl139330, Faruck Morcos @afg150230, Zhenyu Xuan @zxx091000, Hyuntae Yoo @hxy103120, Michael Qiwei Zhang @mqz091000
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+The student must arrange a course program with the guidance and approval of the graduate advisor. A minimum of 75 semester credit hours beyond the bachelor's degree is required.
+The following five courses have to be taken by each student:
+MATH 6301 Real Analysis
+MATH 6302 Functional Analysis I
+MATH 6303 Theory of Complex Functions I
+MATH 6311 Abstract Algebra I
+MATH 6315 Ordinary Differential Equations
+Each student should take at least six courses from the following list:
+MATH 6309 Differential Geometry
+MATH 6310 Topology
+MATH 6312 Combinatorics and Graph Theory
+MATH 6313 Numerical Analysis
+MATH 6316 Differential Equations
+MATH 6318 Numerical Analysis of Differential Equations
+MATH 6319 Principles and Techniques in Applied Mathematics I
+MATH 6320 Principles and Techniques in Applied Mathematics II
+MATH 6321 Optimization
+MATH 6325 Nonlinear Analysis I
+MATH 6340 Numerical Linear Algebra
+MATH 6342 Scientific Computing
+MATH 7313 Partial Differential Equations I
+MATH 7319 Functional Analysis II
+MATH 7361 Algebraic Geometry and Non-linear Equations
+Electives and Dissertation
+At least an additional four courses designed for the student's area of specialization are taken as electives in a degree plan designed by the student and the graduate advisor (or the student's PhD advisor). This plan is subject to approval by the Department Head. The student must pass a PhD Qualifying Examination and the oral examination in accordance with departmental policies in order to continue in the PhD program. Finally, a dissertation is required and must be approved by the graduate program.
+There must be available a dissertation research advisor or group of dissertation advisors willing to supervise and guide the student. A dissertation Supervising Committee should be formed in accordance with the UT Dallas policy memorandum (UTDPP1052).
+ 
+Doctor of Philosophy in Statistics
+75 semester credit hours minimum beyond the baccalaureate degree
+Department Faculty
+FACG> nsm-statistics-phdProfessors: Larry P. Ammann @ammann, Zalman I. Balanov @zxb105020, Swati Biswas @sxb125731, Pankaj K. Choudhary @pkc022000, Mieczyslaw K. Dabkowski @mkd034000, Vladimir Dragovic @vxd123630, Sam Efromovich @sxe062000, Yulia Gel @yxg142030, M. Ali Hooshyar @ali, Wieslaw Krawcewicz @wzk091000, Susan E. Minkoff @sem120030, L. Felipe Pereira @lfp140030, Dmitry Rachinskiy @dxr124030, Viswanath Ramakrishna @vish, Janos Turi @turi, John Zweck @jwz120030Associate Professors: Yan Cao @yxc069200, Min Chen @mxc136030Assistant Professors: Maxim Arnold @mxa149530, Carlos Arreche @cxa171230, Bhargab Chattopadhyay @bxc126030, Qingwen Hu @qxh102020, Frank Konietschke @fxk141230, Yifei Lou @yxl145331, Oleg Makarenkov @oxm130230, Tomoki Ohsawa @txo140730, Sunyoung Shin @sxs177233, Anh Tran @att140830, Nathan Williams @nxw170830Professors Emeritus: Patrick Odell @pxo062000, John W. Van Ness @nessClinical Professors: Natalia Humphreys @nah103020, Wenyi (Roy) Lu @wxl153330Clinical Associate Professor: Mohammad Akbar @mma110020UT Dallas Affiliated Faculty: Hervé Abdi @herve, Titu Andreescu @txa051000, Alain Bensoussan @axb046100, Stefano Leonardi @sxl139330, Faruck Morcos @afg150230, Zhenyu Xuan @zxx091000, Hyuntae Yoo @hxy103120, Michael Qiwei Zhang @mqz091000
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+The student must arrange a course program with the guidance and approval of the graduate advisor. A minimum of 75 semester credit hours beyond the bachelor's degree is required.
+The following six courses have to be taken by each student:
+STAT 6331 Statistical Inference I
+STAT 6332 Statistical Inference II
+STAT 6337 Advanced Statistical Methods I
+STAT 6338 Advanced Statistical Methods II
+STAT 6339 Linear Statistical Models
+STAT 6344 Probability Theory I
+Each student should take at least three courses approved by the advisor from the following list:
+STAT 7330 Decision Theory and Bayesian Inference
+STAT 7331 Multivariate Analysis
+STAT 7334 Nonparametric and Robust Statistical Methods
+STAT 7338 Time Series Modeling and Filtering
+STAT 7345 Advanced Probability and Stochastic Processes
+Electives and Dissertation
+An additional 18-24 semester credit hours designed for the student's area of specialization are taken as electives in a degree plan designed by the student and the graduate advisor. (or the student's PhD advisor). This plan is subject to approval by the Department Head. The student must pass a PhD Qualifying Examination and the oral examination in accordance with departmental policies in order to continue in the PhD program. Finally, a dissertation is required and must be approved by the graduate program. There must be available a dissertation research advisor or group of dissertation advisors willing to supervise and guide the student. A dissertation Supervising Committee should be formed in accordance with the UT Dallas policy memorandum (UTDPP1052).
+Research
+Within the Mathematical Sciences Department opportunities exist for work and/or research in Applied Mathematics, Decision and Engineering Sciences, Mathematics, and Statistics. The opportunity to take coursework in several of the other University programs also allows the student to prepare for interdisciplinary work. Such coursework must be approved by the assigned graduate advisor.
+Some of the broad research areas represented in Mathematics are as follows: Algebraic and Complex Geometry, Analysis and its Applications, Control Theory and Optimization, Dynamical Systems and Ordinary Differential Equations, Differential Geometry, Mathematical Physics, Mathematical Methods in Medicine and Biology, Geosciences, and Mechanics, Numerical Analysis and Scientific Computing, Partial Differential Equations, and Topology.
+Some of the broad research areas represented in Statistics are as follows: probability theory, stochastic processes, statistical inference, asymptotic theory, statistical methodology, time series analysis, Bayesian analysis, robust multivariate statistical methods, nonparametric methods, nonparametric curve estimation, sequential analysis, biostatistics, statistical genetics, and bioinformatics.
+For a complete list of faculty and their areas of research, visit www.utdallas.edu/math/people/faculty
+ 
+Graduate Certificate in Data Science: 12 semester credit hours
+The Department of Mathematical Sciences, in cooperation with the Department of Computer Science, offers a graduate certificate in Data Science.
+NOTE> Please be advised, the admissions section below feeds in from a separate page. Any changes made to the section below will not be retained. To update Admissions policies please take all changes to Grad Council for initial approval and then send them to Serenity King in the Provost's Office.  If you have any questions, please contact catalog@utdallas.edu.
+Admission Requirements
+Students must gain admission to a graduate program at UT Dallas and have the pre-requisites needed to take the certificate courses.
+
+Certificate Requirements
+Students must complete the following four courses with a GPA of 3.0 or better.
+CS 6307 Introduction to Big Data Management and Analytics for non CS-Majors
+CS 6375 Machine Learning
+MATH 6312 Combinatorics and Graph Theory
+STAT 6340 Statistical and Machine Learning
+1. If a student takes both MATH 5301 (or equivalent) and MATH 5302 (or equivalent), then one of these classes can be counted towards the guided elective requirement. Therefore, such a student will need to take only three guided electives with the approval of the graduate advisor for mathematics.
+2. Students who have not taken the CS 5333 Discrete Structures prerequisite for CS 5343 Algorithm Analysis and Data Structures should consult with their Graduate Advisor from the Mathematical Sciences Department to determine eligibility.
+3. Exam 1/P
+4. Exam 3L/MLC, Part I
+5. Exam 3F/MFE
+6. Exam 3L/MLC, Part II
+7. Exam 4/C, Part I
+8. Exam 4/C, Part II
+9. Exam 5/FAP
+10. Exam 2/FM
+11. VEE, Applied Statistical Methods
+12. VEE, Corporate Finance
+13. VEE, Economics
+Updated: 2020-12-01 12:12:24 v4.65bde4
+
+
+
+

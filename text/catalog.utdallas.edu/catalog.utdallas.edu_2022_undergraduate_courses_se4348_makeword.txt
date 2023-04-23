@@ -1,0 +1,18 @@
+
+
+
+Operating Systems Concepts (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogSE4348 - Operating Systems ConceptsSE 4348 Operating Systems Concepts (3 semester credit hours) An introduction to fundamental concepts in operating systems: their design, implementation, and usage. Topics include process management, main memory management, virtual memory, I/O and device drivers, file systems, secondary storage management, and an introduction to critical sections and deadlocks. Prerequisites: (CS 2340 or SE 2340) or equivalent and (CS 3377 or SE 3377) and (CE 3345 or CS 3345 or SE 3345). (Same as CS 4348) (3-0) S
+
+
+
+

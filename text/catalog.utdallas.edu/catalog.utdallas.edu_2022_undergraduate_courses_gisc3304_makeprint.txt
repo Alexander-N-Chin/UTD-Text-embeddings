@@ -1,0 +1,18 @@
+
+
+
+Principles of Geospatial Information Sciences (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogGISC3304 - Principles of Geospatial Information SciencesGISC 3304 Principles of Geospatial Information Sciences (3 semester credit hours) An introduction to the primary Geospatial Information Sciences (GIS) methods for manipulating, querying, analyzing, and visualizing spatial-based data. Topics include spatial data models, data acquisition and editing, cartography, and spatial analysis. This course is designed to provide a foundation for all other upper level GISC courses. (Same as GEOG 3304 and GEOS 3304) (3-0) Y
+
+
+
+

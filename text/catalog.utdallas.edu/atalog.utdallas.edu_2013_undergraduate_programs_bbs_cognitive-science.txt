@@ -1,0 +1,348 @@
+
+
+
+
+Cognitive Science - UT Dallas 2013 Undergraduate Catalog - The University of Texas at Dallas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+Jump to navigation
+Jump to search
+Catalog Home 
+Undergraduate Catalogs 
+
+
+2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+
+
+ 
+Graduate Catalogs 
+
+
+2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate Catalog
+School of Behavioral and Brain Sciences
+Cognitive Science (BS)
+Cognitive Science is the study of complex information processing in humans and machines and includes the multidisciplinary study of biological and artificial systems. Important components of cognitive science include areas of research such as: cognitive-neuroscience, brain-imaging studies of perceptual and cognitive processing, situated cognition, Human-Computer-Interactions (HCI), computational modeling, and Artificial Intelligence (AI). The field of cognitive science draws from diverse approaches to understanding complex information processing, including research from experimental psychology, neuroscience, linguistics, philosophy, computer science, mathematics, and engineering.
+The Cognitive Science program in the School of Behavioral and Brain Sciences at UT Dallas consists of three concentration areas: (1) Psychology/HCI, (2) Cognitive-Neuroscience, and (3) AI/Computational Modeling. Cognitive Science Majors select the majority of their upper-division coursework from 2 of these 3 concentration areas in order to generate multidisciplinary areas of focus. In addition to providing a sound preparation for graduate work in Cognitive Science and related areas, the Cognitive Science major is an ideal choice for students pursuing careers that combine interests in neuroscience, cognition, mathematics, and computer science. There are exciting career prospects in both industry and academics for the Cognitive Science major.
+Cognitive-Neuroscience Careers. Students whose focus area is cognitive-neuroscience will be well prepared for the pursuit of graduate degrees and careers associated with: medicine, clinical neuropsychology, brain-imaging technology, intraoperative neurophysiological monitoring, and evaluation of bionic/prosthetic technology (e.g., cochlear implants and artificial limbs). Students interested in Cognitive-Neuroscience career opportunities typically choose their core coursework from both the specialization areas of Psychology/HCI and Neuroscience.
+Human-Computer-Interaction Careers. Students whose focus area is Human-Computer-Interactions (HCI), are prepared for the pursuit of careers in the areas of usability engineering and user-experience (UX) design and development that involve the evaluation and design of human-computer interfaces such as website and software graphical user interfaces (GUIs), smartphone interfaces, and voice-user interfaces (VUIs). Students interested in HCI career opportunities should choose their core coursework from the Psychology/HCI specialization area and include one or more HCI courses.
+AI/Computational Modeling Careers. Students whose focus area is AI/computational modeling are prepared for the pursuit of careers associated with the development and evaluation of Artificial Intelligence (AI) technology (e.g., web search engines, speech recognition, robotics, computer vision, and computer games), bionic and prosthetic technology development and evaluation (such as cochlear implant technology), computer-based natural language understanding, data mining, and machine learning as well as the development of computational models to support theory development in the behavioral and brain sciences. Students interested in career opportunities in this area should choose their core coursework from the AI/Computational Modeling specialization area.
+Bachelor of Science in Cognitive Science
+Degree Requirements (120 hours)
+I. Core Curriculum Requirements: 42 hours1
+Communication (6 hours)
+3 hours Communication (RHET 1302)
+3 hours Communication Elective (CGS 3340 or PSY 3393)2
+Social and Behavioral Sciences (15 hours)
+6 semester credit hours Government (GOVT 2301 and GOVT 2302)
+6 hours American History
+3 hours Social and Behavioral Science Elective (PSY 2301)2
+Humanities and Fine Arts (6 hours)
+3 hours Fine Arts (ARTS 1301)
+3 hours Humanities (HUMA 1301)
+Mathematics and Quantitative Reasoning (6 hours)
+6 hours Calculus (MATH 2417 and MATH 2419)3
+Science (9 hours)
+6 hours Science (NSC 3361 and CGS 2301)2
+3 hours Science Electives (including at least one course with a substantial laboratory component)
+II. Major Requirements: 60 hours (15 hours beyond Core Curriculum)4
+Major Preparatory Courses
+The following are required for all concentration areas: (24 hours)
+CGS 2301 Cognitive Science4
+CS 1337 Computer Science I
+MATH 2417 Calculus I3
+MATH 2419 Calculus II3 (prerequisite: MATH 2417)
+MATH 2418 Linear Algebra (prerequisite: MATH 2419)
+PSY 2301 Introduction to Psychology4
+PSY 2317 Statistics for Psychology  or CS 3341 or SE 3341 or STAT 3341 Probability and Statistics in Computer Science and Software Engineering (prerequisite: MATH 2419 and CS 2305)  or STAT 4351 Probability (prerequisite: MATH 2451)
+Additional Preparatory Courses for AI/Computational Modeling Area (10 hours)
+CS 2305 Discrete Mathematics for Computing I (prerequisite: MATH 2417)
+CS 2336 Computer Science II (prerequisite: CS 1337)
+MATH 2451 Multivariable Calculus with Applications (prerequisite: MATH 2419)
+Major Core Courses required for all concentration areas (12 hours)
+CGS 3361 Cognitive Psychology
+NSC 3361 Behavioral Neuroscience4
+PSY 3392 Research Design and Analysis
+CGS 3340 Experimental Projects in Cognitive Science4  or PSY 3393 Experimental Projects in Psychology4
+Major Related Courses (24 hours)
+Select 4 courses each from 2 of the following 3 Concentration Areas
+Core Courses for Psychology/HCI Concentration Area (select 12 hours from list of courses below)
+CGS 3325 Historical Perspectives on Psychology: Mind and Machines since 1600
+CGS 4359 Cognitive Neuroscience (prerequisite: PSY 2301)
+CGS 4362 Perception (prerequisite: CGS 2301 or PSY 2301)
+CGS 4352 Human Computer Interactions I
+CGS 4353 Human Computer Interactions II (prerequisite: CGS 4342)
+CGS 4355 Human Computer Interactions Lab (prerequisite: CGS 4352 or CGS 4353)
+PSY 4374 Judgment and Decision Making
+PSY 3331 Social Psychology
+PSY 4343 Abnormal Psychology
+PSY 4334 Lifespan Development
+PSY 3310 Child Development
+PSY 3362 Cognitive Development (prerequisite: PSY 4334 or PSY 3310)
+Core Courses required for Cognitive-Neuroscience Concentration Area (select 12 hours from list of courses below)
+NSC 4352 Cellular Neuroscience (prerequisite: NSC 3361)
+NSC 4354 Integrative Neuroscience (prerequisite or corequisite: NSC 3361)
+NSC 4356 Neurophysiology (prerequisite: NSC 4352)
+NSC 4366 Neuroanatomy (prerequisite: NSC 3361 or BIOL 2311)
+NSC 4363 Neuropharmacology (prerequisite: NSC 4352 or NSC 4354)
+NSC 4367 Developmental Neurobiology (prerequisite: NSC 4352 or NSC 4354)
+NSC 4359 Cognitive Neuroscience (prerequisite PSY 2301)
+NSC 4353 Neuroscience Laboratory Methods4 (prerequisites: NSC 3361 and either NSC 4352 or NSC 4354)
+Core Courses required for AI/Computational Modeling Concentration Area (select 12 hours from list of courses below)
+CGS 3342 Cognitive and Neural Modeling Laboratory (prerequisite: MATH 2418)
+CGS 4312 Computational Modeling Methods for Language Understanding
+CGS 4313 Neural Net Mathematics (prerequisites: MATH 2451 and MATH 2418 or instructor consent required)
+CGS 4314 Intelligent Systems Analysis (prerequisite: CGS 4313 or instructor consent required)
+CGS 4315 Intelligent Systems Design (prerequisite: CGS 4314 or instructor consent required)
+CS 3305 Discrete Mathematics for Computing II (prerequisites: CS 2305 and (MATH 2414 or MATH 2419))
+CS 3345 Data Structures and Introduction to Algorithmic Analysis (prerequisites: CS 2336 and CS 2305)
+CS 4365 Artificial Intelligence (prerequisite: CS 3345)
+CS 4375 Introduction to Machine Learning (prerequisites: CS 3345 and CS 3341)
+CS 4391 Introduction to Computer Vision (prerequisite: CS 3345)
+III. Elective Requirements: 19 hours
+Free Electives (3-19 hours)
+Students are encouraged to explore areas of concentration in Cognitive Science, Psychology, and Neuroscience as well as explore interests outside the field. Be aware that at least 51 hours of upper-division courses are required for graduation. In addition, advanced CGS students in good academic standing may request permission from the Cognitive Science Program Head to take graduate Applied Cognition and Neuroscience coursework (ACN prefix) to fulfill some of the elective course requirements.
+Minor in Cognitive Science
+Students who are not majoring in Cognitive Science may minor in Cognitive Science by completing 18 semester credit hours. At least 12 of the 18 semester credit hours required by the minor in Cognitive Science must be upper-division courses from either the Psychology/HCI, Neuroscience, or Computational Modeling/AI specialization areas. In addition, 9 of the 18 semester credit hours required for the minor in Cognitive Science must have a Cognitive Science (CGS), Psychology (PSY), or Neuroscience (NSC) prefix and be upper-division courses. No credit hours may be used to satisfy both major and minor requirements; however, free elective hours or major preparatory classes may be used to satisfy the minor. At least one-third of the hours for a minor must be taken at UT Dallas.
+Fast Track Baccalaureate/Master's Degrees
+UT Dallas undergraduate students with strong academic records who intend to pursue a master's degree in Applied Cognition and Neuroscience at UT Dallas may consider an accelerated undergraduate-graduate plan of study. When accepted into the program, students may take up to 15 hours of graduate courses that may be used to complete the bachelor's degree and also to satisfy requirements for the Master's degree. Students must maintain a 3.000 grade point average and earn grades of B or better in the graduate courses taken. The Fast Track makes it possible for students to complete upper-division undergraduate education and graduate training in three years. Students must have completed at least 90 semester credit hours toward a baccalaureate degree before beginning Fast Track coursework. Students should apply to admissions one semester before they reach 90 hours. To qualify for application, undergraduate students must have completed at least 18-semester credit hours in major core courses at UT Dallas. Apply to the Fast Track program through the Cognitive Science Program Office. Students should consult with a graduate advisor regarding admissions criteria and plans of study at the beginning of their junior year.
+1. Curriculum Requirements can be fulfilled by other approved courses from accredited institutions of higher education. The courses listed in parentheses are recommended as the most efficient way to satisfy both Core Curriculum and Major Requirements at UT Dallas.
+2. A required Major course that also fulfills a Core Curriculum requirement. Hours are counted in Core Curriculum.
+3. Six hours of Calculus are counted to fulfill the Mathematics Core Requirement. MATH 2413, MATH 2414, and MATH 2415 can substitute for MATH 2417 and MATH 2419.
+4. This course is a Major requirement that also fulfills a Core Curriculum requirement. Fifteen hours (15) are counted in Core Curriculum.
+Updated: 2019-08-09 13:10:52 v2.903a99bugz
+
+
+
+
+
+
+
+
+
+
+
+
+2013 Undergraduate Catalog
+
+General Information
+
+About the 2013 Catalog
+About UT Dallas
+University Officers
+UT System Regents
+Contact Information
+Faculty Roster
+Search 2013 Undergraduate Catalog
+
+Undergraduate Programs
+
+Arts and Humanities
+
+Art and Performance
+ATEC
+EMAC
+Historical Studies
+Literary Studies
+
+Behavioral and Brain Sciences
+
+Child Learning and Development
+Cognitive Science
+Neuroscience
+Psychology
+Speech-Language Pathology and Audiology
+
+Economic, Political and Policy Sciences
+
+Criminology
+Criminology and Biology
+Economics
+Economics and Finance
+Geospatial Information Sciences
+International Political Economy
+Political Science
+Public Affairs
+Sociology
+
+Engineering and Computer Science
+
+Biomedical Engineering
+Computer Engineering
+Computer Science
+Electrical Engineering
+Mechanical Engineering
+Software Engineering
+Telecommunications Engineering
+
+Interdisciplinary Studies
+
+American Studies
+Healthcare Studies
+Interdisciplinary Studies
+
+Jindal School of Management
+
+Accounting
+Business Administration
+Business Administration and Biology
+Business Administration and Molecular Biology
+Finance
+Finance and Economics
+Global Business
+Management Information Systems
+Marketing
+Supply Chain Management
+
+Natural Science and Mathematics
+
+Actuarial Science
+Biochemistry
+Biology
+Biology and Business Administration
+Biology and Criminology
+Chemistry
+Geosciences
+Mathematics
+Molecular Biology
+Molecular Biology and Business Administration
+Physics
+Biomedical Sciences (Cert)
+
+Teacher Certification
+
+Undergraduate Courses
+
+Undergraduate Courses by Subject
+Undergraduate Courses by School
+Undergraduate Interdisciplinary Courses
+Undergraduate Developmental Courses
+
+Undergraduate Admission
+
+About Admission
+Application Fees and Deadlines
+Freshman Admission
+International Student Admission
+Readmission
+Special Admissions
+Transfer Student Admissions
+
+Undergraduate Curriculum
+
+About Curriculum
+Core Curriculum
+Honors Programs
+Other Degree Requirements
+
+Tuition and Financial Aid
+
+About Tuition and Financial Aid
+Excessive Undergraduate Hours
+Refund of Tuition and Fees
+Other User Fees
+Financial Aid
+Types of Financial Aid
+
+Policies and Procedures
+
+List of Undergraduate Policies
+
+Academic
+Admission
+Change of Address
+Correspondence - Email
+Courses
+Degree Plans
+Disciplinary Actions
+FERPA
+Graduate Courses
+Graduation
+International Education
+Military Service
+Registration
+Religious Holy Days
+Student Travel
+
+
+University Resources
+
+List of Resources
+
+General Resources
+Health Resources
+Professional Resources
+Student Complaint Resources
+
+
+Catalog Appendices
+
+Appendix I - Rules, Regulations, and Statutory Requirements
+Appendix II - Transfer of Lower-Division Course Credit
+
+
+
+
+
+
+
+The University of Texas at DallasUT Dallas ProvostCourseBookContact the Provost's Technology Group
+
+
+
+
+
+
+(null clip target)
+
+
+
+
+
+
+
+
+
+
+
+
+

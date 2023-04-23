@@ -1,0 +1,18 @@
+
+
+
+Computer Science I for Non-majors (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS1335 - Computer Science I for Non-majorsCS 1335 Computer Science I for Non-majors (3 semester credit hours) Introduction to object-oriented software analysis, design, and development. Classes and objects. Object composition and polymorphism. Sorting and searching. Strings using core classes. Inheritance and interfaces. Graphical User Interfaces. May not be used to satisfy degree requirements for majors in the School of Engineering and Computer Science, especially majors in Computer Science and Engineering. Credit cannot be received for both courses, CS 1335 and (CE 1337 or CS 1337). Prerequisite: CS 1334 with a grade of C or better or equivalent. (3-0) S
+
+
+
+

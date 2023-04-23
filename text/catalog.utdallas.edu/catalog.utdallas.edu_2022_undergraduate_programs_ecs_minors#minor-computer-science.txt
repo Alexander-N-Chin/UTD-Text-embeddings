@@ -1,0 +1,639 @@
+
+
+
+
+Minors - Erik Jonsson School of Engineering and Computer Science - UT Dallas 2022 Undergraduate Catalog - The University of Texas at Dallas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jump to content
+Jump to navigation
+Jump to search
+Catalog Home 
+Undergraduate Catalogs 
+
+
+2022 Undergraduate Catalog2021 Undergraduate Catalog2020 Undergraduate Catalog2019 Undergraduate Catalog2018 Undergraduate Catalog2017 Undergraduate Catalog2016 Undergraduate Catalog
+
+
+ 
+Graduate Catalogs 
+
+
+2022 Graduate Catalog2021 Graduate Catalog2020 Graduate Catalog2019 Graduate Catalog2018 Graduate Catalog2017 Graduate Catalog2016 Graduate Catalog
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Minors
+Students must take a minimum of 18 semester credit hours for the minor, 12 of which must be upper-division semester credit hours. Students who take a minor will be expected to meet the normal prerequisites in courses making up the minor, and should maintain a minimum GPA of 2.000 on a 4.00 scale (C average). Semester credit hours may not be used to satisfy both the major and minor requirements; however, free elective semester credit hours or major preparatory classes may be used to satisfy the minor. Core courses offered by the school may count as lower-division semester credit hours toward the minor. Topics courses must be approved by the school.
+The undergraduate minors in the Erik Jonsson School of Engineering and Computer Science are the following:
+Department of Computer Science
+
+Computer Science
+Information Assurance
+Software Engineering
+
+Department of Materials Science and Engineering
+
+Nanoscience and Technology
+
+ 
+Department of Computer Science
+Faculty
+FACG> ecs-computer-science-bsProfessors: Farokh B. Bastani @bastani, Sergey Bereg @sxb027100, Ovidiu Daescu @daescu, Yvo G. Desmedt @ygd120030, Ding-Zhu Du @dxd056000, András Faragó @farago, Paul Fishwick @pxf130430, Xiaohu Guo @xxg061000, Gopal Gupta @gupta, Zygmunt Haas @zjh130030, Kevin Hamlen @kxh060100, Sanda M. Harabagiu @sanda, Dung T. Huynh @huynh, Jason Jue @jjue, Murat Kantarcioglu @mxk055100, Latifur Khan @lkhan, Andrian Marcus @axm141731, Neeraj Mittal @nxm020100, Dan I. Moldovan @moldovan, Sriraam Natarajan @sxn177430, Yu-Chung (Vincent) Ng @ycn041000, Tien Nguyen @tnn160630, Simeon C. Ntafos @ntafos, Balakrishnan Prabhakaran @praba, Ravi Prakash @ravip, Kamil Sarac @kxs028100, Haim Schweitzer @haim, Bhavani Thuraisingham @bxt043000, Subbarayan Venkatesan @venky, W. Eric Wong @wew021000, Weili Wu @wxw020100, I-Ling Yen @ilyenAssociate Professors: Feng Chen @fxc190007, Lawrence Chung @chung, Jorge A. Cobb @jcobb, Vibhav Gogate @vxg112130, Benjamin Raichel @bar150630, Nicholas Ruozzi @nrr150130, Rym Zalila-Wenkstern @rmiliAssistant Professors: Kyle Fox @kjf170230, Shuang Hao @sxh178730, Rishabh Iyer @rki190000, Kangkook Jee @kxj190011, Chung Hwan Kim @cxk200010, Jin Kim @jrk200002, Jessica Ouyang @jjo190001, Shiyi Wei @sxw174630, Yu Xiang @yxx210005, Wei Yang @wxy180002Professors Emeriti: R. Chandrasekaran @chandra, Ivor P. Page @ivor, William J. Pervin @pervin, Balaji Raghavachari @rbk, Ivan Hal Sudborough @hal, Klaus Truemper @klaus, Kang Zhang @kzhangProfessors of Instruction: Ebru Cankaya @exc067000, John Cole @jxc064000, Doug DeGroot @dxd180020, Timothy (Tim) Farage @tfarage, Shyam Karrah @skarrah, Pushpa Kumar @pkumar, Nhut Nguyen @nhutnn, Greg Ozbirn @ozbirn, Miguel Razo-Razo @mrazoraAssociate Professors of Instruction: Sridhar Alagar @sxa173731, Gordon Arnold @gxa120930, Anjum Chida @axc157030, Wei Pang Chin @wxc180013, Bhadrachalam Chitturi @chalam, Michael Christiansen @mgc013000, Chris I. Davis @cid021000, Karen Doore @kld054000, Neeraj Gupta @nkg140130, Khiem Le @kvl140030, Mehra Nouroz Borazjany @mxn143230, Jalal Omer @jso016000, Mark Paulk @mcp130030, Jason W. Smith @jws130830, Laurie Thompson @lthomp, Jeyakesavan (Jey) Veerasamy @veerasam, James Willson @jkw053000, Nurcan Yuruk @nxy140530Assistant Professors of Instruction: Eric Becker @ewb160130, Scott Dollinger @smd013000, Serdar Erbatur @sxe190003, Ranran Feng @rxf090020, Omar Hamdy @oxh210004, Gity Karami @gxk180009, Kamran Khan @kkhan, Karen Mazidi @kjm160430, Richard K. Min @rkm010300, Anarag Nagar @axn112530, Priya Narayanasami @pxn173330, Elmer Salazar @ees101020, Meghana Satpute @mns086000, Klyne Smith @kxs180052, Nidhiben Solanki @nxs121130, Srimathi Srinivasan @sxs180206, Yi Zhao @zhao
+ 
+Minor in Computer Science
+21 semester credit hours
+Students majoring in Computer Engineering, Computer Science or Software Engineering cannot add a minor in Computer Science.
+A minor in Computer Science requires 21 semester credit hours earned through the following courses:
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+CS 3305 Discrete Mathematics for Computing II
+CS 3345 Data Structures and Introduction to Algorithmic Analysis
+CS 3354 Software Engineering
+CS Elective (any 4000-level organized CS class or CS 4390)
+
+ 
+Minor in Information Assurance
+30 semester credit hours
+A minor in Information Assurance requires 30 semester credit hours earned through the following courses:
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+CS 3305 Discrete Mathematics for Computing II
+CS 3345 Data Structures and Introduction to Algorithmic Analysis
+CS 4347 Database Systems
+CS 4348 Operating Systems Concepts
+CS 4389 Data and Applications Security
+CS 4393 Computer and Network Security
+CS 4398 Digital Forensics
+
+ 
+Minor in Software Engineering
+21 semester credit hours
+Students majoring in Computer Engineering, Computer Science or Software Engineering cannot add a minor in Software Engineering.
+A minor in Software Engineering requires 21 semester credit hours earned through the following courses:
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+SE 3306 Mathematical Foundations of Software Engineering
+SE 3345 Data Structures and Introduction to Algorithmic Analysis
+SE 3354 Software Engineering
+SE Elective (any 4000-level organized SE class)
+
+ 
+Department of Materials Science and Engineering
+Faculty
+FACG> ecs-materials-science-and-engineering-msProfessors: Orlando Auciello @oha120030, Kyeongjae (KJ) Cho @kxc067000, Massimo V. Fischetti @mvf100020, Larry Hornbeck @ljh160330, Julia W. P. Hsu @jxh101000, Jiyoung Kim @jxk041000, Moon J. Kim @mjk034000, Manuel Quevedo-Lopez @mxq071000, Amy V. Walker @axw092000, Robert M. Wallace @rmw031000Associate Professors: Lev D. Gelb @ldg102020, William Vandenberghe @wxv101020, Walter E. Voit @wev012000, Chadwin D. Young @cdy120030Assistant Professors: Kyle McCall @kxm210050, Cormac Toher @cxt210037Professors Emeriti: Yves J. Chabal @yjc072000, Bruce E. Gnade @beg031000, Don Shaw @dshawAssistant Professor of Instruction: Rebecca McClain @rxm220007UT Dallas Affiliated Faculty: Kenneth J. Balkus Jr. @balkus, Ray H. Baughman @rbaughmn, Stuart Cogan @sxc149830, John P. Ferraris @ferraris, Matthew J. Goeckner @goeckner, Fatemeh Hassanipour @fxh091000, Mark Lee @mxl101000, Hongbing Lu @hxl101000, Bing Lv @bxl152230, Anton V. Malko @avm074000, Kenneth K. O @kxo091000, Lawrence J. Overzet @overzet, Shalini Prasad @sxp118230, Jason D. Slinker @jds107020, Mihaela C. Stefan @mci071000, Anvar A. Zakhidov @zakhidov
+Minor in Nanoscience and Technology
+18 semester credit hours
+Goals for the Minor in Nanoscience and Technology
+As the field of nanotechnology develops further, particularly in the north Texas region, The University of Texas at Dallas has an important role to play in the education of knowledge workers for the industry. The Minor in Nanoscience and Technology offered by the Department of Materials Science and Technology provides a means for undergraduate students to familiarize themselves with the concepts and principles of nanotechnology.
+This minor has been designed around three core MSEN designated courses, the content of which is exclusively related to Nanoscience and Nanotechnology. The remaining nine semester credit hours of courses may be chosen from the list of courses below.
+The contents of the courses BIOL 4461, CHEM 3322, and PHYS 4301 are similar enough that only one of these three courses may count toward the minor. In addition, several lower-division electives have been included to provide streamlined access to the available upper-division electives.
+Since the three core courses are all upper-division electives, only one of the remaining nine semester credit hours must be an upper-division course, although students may choose to challenge themselves by pursuing all nine semester credit hours as upper-division electives.
+Educational Objectives for the Minor in Nanoscience and Technology On completion of the Minor program, students will:
+
+Have a comprehensive general education background
+Have a working knowledge of nanotechnology and nanoscience principles and industry applications
+Be able to apply key concepts in materials science, chemistry, physics, biology, and engineering to the field of nanotechnology
+Understand the societal and technology issues that may impede the adoption of nanotechnology
+Have the ability to communicate effectively and work collaboratively
+Be able to become successful professionals and, if they desire, be able to pursue graduate study
+Be able to identify career paths and requisite knowledge and skills for career change towards nanotechnology
+
+Requirements for the Minor in Nanoscience and Technology
+A total of 18 semester credit hours are required, consisting of three core classes (9 semester credit hours) and 9 additional semester credit hours of electives.
+I. Core Requirements: 9 semester credit hours
+MSEN 3301 Introduction to Nanoscience and Nanotechnology
+MSEN 3302 Microscopy, Spectroscopy, and Nanotech Instrumentation
+MSEN 4V95 Undergraduate Research (in Nanotechnology)
+II. Elective Requirements: 9 semester credit hours
+Students must complete at least nine semester credit hours chosen from the following courses. At least one of the courses must be upper-division (3000 or 4000):
+MSEN-designated courses:
+MSEN 3310 Introduction to Materials Science
+MSEN 4391 or EE 4391 Technology of Plasma
+MSEN 4V95 Undergraduate Research (in Nanotechnology)
+Lower-division courses:
+CHEM 2323 Introductory Organic Chemistry I
+CHEM 2325 Introductory Organic Chemistry II
+PHYS 2303 Contemporary Physics
+MECH 2320 Mechanics of Materials
+Upper-division courses:
+PHYS 4352 Concepts of Modern Physics
+MECH 4360 Introduction to Nanostructured Materials
+MECH 4370 Introduction to MEMS
+EE 3310 Electronic Devices
+EE 3311 Electronic Circuits
+CHEM 4335 Polymer Chemistry
+CHEM 3472 Instrumental Analysis
+CHEM 4473 Physical Measurements Laboratory
+CHEM 3321 Physical Chemistry I
+CHEM 4355 Computational Modeling
+Only one of the following courses may be used to count toward the Minor:
+BIOL 4461 Biophysical Chemistry
+CHEM 3322 Physical Chemistry II
+PHYS 4301 Quantum Mechanics I
+
+Updated: 2022-02-11 11:04:34 v3.65d9fcbugz
+
+
+
+
+
+
+
+
+
+
+
+
+2022 Undergraduate Catalog
+
+General Information
+
+About the 2022 Catalog
+About UT Dallas
+University Officers
+
+President
+President's Cabinet
+Administrative Officers/Deans
+
+UT System Regents
+Contact Information
+Faculty Roster
+Search 2022 Undergraduate Catalog
+
+Undergraduate Programs
+
+Arts and Humanities
+
+About Arts and Humanities
+History
+Latin American Studies
+Literature
+
+Literature
+Literature with Creative Writing
+Literature with Rhetoric and Communication
+Literature with Spanish
+
+Philosophy
+Visual and Performing Arts
+
+VPA with Art History
+VPA with Communication
+VPA with Dance
+VPA with Film
+VPA with Interdisciplinary Arts
+VPA with Music
+VPA with Photo-Video-Digital
+VPA with Theatre
+VPA with Visual Arts
+
+Minors
+
+Arts, Technology, and Emerging Communication
+
+About Arts, Technology, and Emerging Communication
+Arts, Technology, and Emerging Communication
+ATEC with Animation and Games
+ATEC with Critical Media Studies
+ATEC with Emerging Media Arts
+Minors
+
+Behavioral and Brain Sciences
+
+About Behavioral and Brain Sciences
+Child Learning and Development
+Cognitive Science
+Neuroscience
+Psychology
+Speech, Language, and Hearing Sciences
+Minors
+
+Economic, Political and Policy Sciences
+
+About Economic, Political and Policy Sciences
+Criminology
+
+Criminology
+Criminology and Biology
+
+Economics
+
+Economics
+Economics and Finance
+
+Geospatial Information Sciences
+International Political Economy
+
+International Political Economy
+International Political Economy and Global Business
+
+Political Science
+Public Affairs
+Public Policy
+Sociology
+Minors
+
+Engineering and Computer Science
+
+About Engineering and Computer Science
+Biomedical Engineering
+Computer Engineering
+Computer Science
+
+Computer Science
+Data Science
+
+Electrical Engineering
+Mechanical Engineering
+Software Engineering
+Certificates
+Minors
+
+Interdisciplinary Studies
+
+About Interdisciplinary Studies
+American Studies
+Healthcare Studies
+Education
+Interdisciplinary Studies
+Minors
+
+Jindal School of Management
+
+About Jindal School of Management
+Accounting
+Business Administration
+
+Business Administration
+Certificate in Innovation and Entrepreneurship
+
+Business Analytics
+Finance
+
+Finance
+Finance and Economics
+
+Global Business
+
+Global Business
+Global Business and Human Resource Management
+Global Business and International Political Economy
+Global Business and Marketing
+Global Business and Supply Chain Management
+
+Healthcare Management
+
+Healthcare Management
+Healthcare Management and Biology
+Healthcare Management and Molecular Biology
+
+Human Resource Management
+
+Human Resource Management
+Human Resource Management and Global Business
+
+Information Technology and Systems
+Marketing
+
+Marketing
+Marketing and Global Business
+
+Supply Chain Management
+
+Supply Chain Management
+Supply Chain Management and Global Business
+
+Minors
+
+Natural Science and Mathematics
+
+About Natural Science and Mathematics
+Biology
+
+Biology
+Biology and Criminology
+Biology and Healthcare Management
+Molecular Biology
+Molecular Biology and Healthcare Management
+
+Chemistry and Biochemistry
+
+Biochemistry
+Chemistry
+
+Geosciences
+Mathematical Sciences
+
+Actuarial Science
+Data Science
+Mathematics
+
+Physics
+Biomedical Sciences (Cert)
+Minors
+UTeach Options
+
+Teacher Certification
+Honors College
+Undergraduate Minors
+
+Undergraduate Courses
+
+Undergraduate Courses by Subject
+Undergraduate Courses by School
+
+Undergraduate Admission
+
+About Undergrad Admission
+Admission Criteria for First-Time in College Freshmen
+
+Automatic Admission
+Reviewed Admission
+
+Admission Criteria for Transfer Students
+
+Automatic Admission
+Application of Transfer Credit
+Transfer Admission Criteria
+
+International Student Admission
+Admission Policies
+
+Credit by Examination
+Criminal Background Check
+Texas Success Initiative (TSI)
+
+Registration Requirements
+Legislative Requirements
+TSI Provisions
+TSI Exemptions
+
+Developmental Education
+
+Developmental Education at UT Dallas
+Placement into Developmental Education Courses
+Participation and Attendance in Developmental Education
+
+
+Readmission
+Special Admissions
+Application Fees and Deadlines
+
+Undergraduate Curriculum
+
+About Curriculum
+Core Curriculum
+Honors Programs
+Other Degree Requirements
+
+Tuition and Financial Aid
+
+About Tuition and Financial Aid
+Excessive Undergraduate Hours
+Refund of Tuition and Fees
+Other User Fees
+Financial Aid
+Types of Financial Aid
+
+Policies and Procedures
+
+List of Undergraduate Policies
+Academic Policies
+
+Academic Advising
+Academic Grievances
+Academic Progress
+Academic Record and Official Transcription
+Dean's List
+Final Examinations
+Grade Changes
+Grade Point Average
+Grading Scale
+Incomplete Grades
+Mid-Term Grades
+Scholastic Status
+Transcripts
+Transfer Credit
+Transfer Disputes for Lower-Division Courses
+Reverse Transfer Transcripts
+
+Admission Policies
+
+Admission Criteria for First-Time in College Freshmen
+
+Automatic Admission
+Reviewed Admission
+
+Admission Criteria for Transfer Students
+
+Automatic Admission
+Application of Transfer Credit
+Transfer Admission Criteria
+
+Credit by Examination
+Criminal Background Check
+Texas Success Initiative (TSI)
+
+Registration Requirements
+Legislative Requirements
+TSI Provisions
+TSI Exemptions
+
+Developmental Education
+
+Developmental Education at UT Dallas
+Placement into Developmental Education Courses
+Participation and Attendance in Developmental Education
+
+
+Course Policies
+
+Course Offerings
+Auditing Courses
+Course Load
+Guidelines for Course Numbering
+Course Numbering System
+Credit/No Credit Classes
+Independent Study
+Internship Program
+Repeating Coursework
+
+Degree Plans
+
+Degree Plans
+Change of Major
+Deadlines and Fees
+Declaring a Major
+Double Major and Double Degree
+
+Disciplinary Actions Associated with Academic Standing
+
+Academic Good Standing
+Disciplinary Status Overview
+Academic Probation
+Academic Warning
+Academic Departure
+Academic Suspension
+Readmission
+Changing Majors
+
+Fast Track
+
+Fast Track Option
+Program Requirements
+Choice of Graduate Degree and Cross-Tracking
+Choice of Graduate Courses
+Transition to Master’s Program after Bachelor’s Degree
+Official Transcription
+
+Graduate Courses
+
+Graduate Courses
+Applied Toward an Undergraduate Degree
+Possible Future Use as Graduate Credit
+
+Graduation Policies
+
+Timely Graduation
+Application for Graduation
+Commencement Ceremonies
+Graduation with Honors
+Graduation Under a Particular Catalog
+Graduation Requirements
+
+Registration Policies
+
+Classification of Students
+Registration
+Registration Dates
+In Absentia Registration
+Concurrent Enrollment at Other Public Institutions of Higher Education
+Cooperative Agreements
+Visiting UT System Students Program
+Deadlines for Adding or Dropping a Class
+Dropping and Withdrawing
+Administrative Drop
+Drop Appeal Procedures
+Non-Academic Withdrawals
+Appeal of a Denied Petition for Non-Academic Withdrawal
+Repeated Non-Academic Withdrawal
+Withdrawal/Resignation from the University
+Refunds Following Withdrawal
+
+Military
+
+Military Training Awarded as Academic Course Credit
+Military Service Activation Interruption of Education
+
+Remain Enrolled and Complete Coursework Following Brief Military Service
+Withdraw, Receive Incomplete Grade, or Receive Final Grade
+Automatic Readmission Following Military Service
+
+Delayed Disbursements From the VA Under Chapter 31 or 33
+
+Student Travel
+
+Student Travel Policy
+Education Abroad
+
+Policies
+Options
+Eligibility and Conditions
+Financial Information
+Transfer Credit and Graduation
+International Travel, Policies and Services
+
+
+Other Policies
+
+Change of Address, Email, or Name
+Copyrighted Material
+Correspondence - Email
+Emergency Response, Fire Safety, and Security
+FERPA
+Hazing
+Making a False Alarm or Report
+Religious Holy Days
+Student-Right-To-Know and Campus Security Act (Clery Act)
+Use of Facilities
+
+Addendum
+
+University Resources
+
+List of Resources
+General Resources
+Health Resources
+International Resources
+Professional Resources
+Student Complaint Resources
+
+
+
+
+
+
+
+The University of Texas at DallasUT Dallas ProvostCourseBookContact the Provost's Technology Group
+
+
+
+
+
+
+(null clip target)
+
+
+
+
+
+
+
+
+
+
+
+
+

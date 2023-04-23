@@ -1,0 +1,121 @@
+
+
+
+Graduate Program in Software Engineering (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2020 Graduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Graduate Program in Software Engineering
+Objectives
+The Graduate Program in Computer Science provides intensive preparation in the design, programming, theory, and applications of computers. The Department of Computer Science offers courses of study leading to the MS in Computer Science, the MS in Software Engineering, the PhD degree in Computer Science, and the PhD degree in Software Engineering. Training is provided for both academically oriented students and students with professional goals in the many business, industrial, or governmental occupations requiring advanced knowledge of computer theory and technology. Courses and research are offered in a variety of subfields of computer science, including operating systems, computer architecture, computer graphics, pattern recognition, automata theory, combinatorics, artificial intelligence, data and network security, natural language processing, database design, computer networks, programming languages, software systems, analysis of algorithms, computational complexity, software engineering, software testing, software reliability, scheduling, visualization, fault-tolerant computing, parallel processing, telecommunications networks, telecommunications software, performance of systems, VLSI, computational geometry, and design automation.
+A comprehensive program of evening courses is offered which enables part-time students to earn the master's degree or to select individual courses of interest.
+Facilities
+The Department of Computer Science systems are comprised of a private virtualization cloud, several individual computer servers, computer workstations, and desktop computers. Research laboratories are available for parallel processing, distributed systems, software engineering, high-performance computing, graphics, programming languages and systems, telecommunications, CAD and graph visualization, image understanding and processing, artificial intelligence, big data, natural language processing, speech processing, and web technologies. The Department of Computer Science network connects through Internet 2 with other research universities, gigabit ethernet intranet, and pervasive wireless connectivity.
+Master of Science in Software Engineering
+33 semester credit hours minimum
+NOTE> Please be advised, the faculty section below feeds in from a separate database. Please contact Rosa Thompson - rthompso@utdallas.edu - in the Provost's Technology Group to request any changes.
+Program Faculty
+FACG> ecs-software-engineering-msProfessors: Farokh B. Bastani @bastani, Ovidiu Daescu @daescu, Gopal Gupta @gupta, Kevin Hamlen @kxh060100, Dung T. Huynh @huynh, Andrian Marcus @axm141731, Yu-Chung (Vincent) Ng @ycn041000, Simeon C. Ntafos @ntafos, Balaji Raghavachari @rbk, Kamil Sarac @kxs028100, Bhavani Thuraisingham @bxt043000, W. Eric Wong @wew021000, Weili Wu @wxw020100, I-Ling Yen @ilyen, Kang Zhang @kzhang, Si Qing Zheng @sizhengAssociate Professors: Alvaro Cárdenas @axc127431, Lawrence Chung @chung, Ryan McMahan @rpm120130, Tien Nguyen @tnn160630, Rym Zalila-Wenkstern @rmiliAssistant Professors: Shuang Hao @sxh178730, Cong Liu @cxl137330, Benjamin Raichel @bar150630, Shiyi Wei @sxw174630, Lingming Zhang @lxz144130Senior Lecturers: Sridhar Alagar @sxa173731, Gordon Arnold @gxa120930, Eric Becker @ewb160130, Jonathan Brandenburg @jcb011200, Ebru Cankaya @exc067000, Anjum Chida @axc157030, Michael Christiansen @mgc013000, John Cole @jxc064000, Chris I. Davis @cid021000, Karen Doore @kld054000, Timothy (Tim) Farage @tfarage, Ranran Feng @rxf090020, Richard Goodrum @rag150330, Neeraj Gupta @nkg140130, Shyam Karrah @skarrah, Kamran Khan @kkhan, Pushpa Kumar @pkumar, Khiem Le @kvl140030, Karen Mazidi @kjm160430, Richard K. Min @rkm010300, Linda Morales @lxm014000, Anarag Nagar @axn112530, Nhut Nguyen @nhutnn, Mehra Nouroz Borazjany @mxn143230, Greg Ozbirn @ozbirn, Mark Paulk @mcp130030, Stephen Perkins @sxp127930, Miguel Razo-Razo @mrazora, William (Bill) Semper @wjs130130, Charles Shields Jr. @cshields, Jason W. Smith @jws130830, Janell Straach @jxs017800, Laurie Thompson @lthomp, Jeyakesavan (Jey) Veerasamy @veerasam, Don G. Vogel @dgv130030, James Willson @jkw053000, Nurcan Yuruk @nxy140530
+NOTE> Please be advised, the admissions section below feeds in from a separate page. Any changes made to the admissions section below will not be retained. Please contact catalog@utdallas.edu with any questions.
+Admission Requirements
+The University's general admission requirements are discussed on the Graduate Admission page.
+The student entering the Computer Science MS program should have an undergraduate preparation equivalent to a baccalaureate in a quantitative science, including calculus and linear algebra. However, special arrangements (requiring more than the minimal number of semester credit hours) can be made for students with good undergraduate preparation in other fields. Minimum requirements are:
+
+Bachelor's degree which includes 2 semesters of calculus and 1 semester of linear algebra.
+Strong foundation in programming.
+A GPA (grade point average) of at least 3.0 (last 60 semester credit hours). GPA in quantitative courses of at least 3.3.
+GRE revised scores of 308, 153, 155, and 4 for the combined, verbal, quantitative, and analytical writing components, respectively, are advisable based on our experience with student success in the program.
+
+Applicants are admitted on a competitive basis.
+
+Core Requirements
+Course Requirements
+Track Required Courses
+SE 6329 Object-Oriented Software Engineering
+SE 6361 (CS 6361) Advanced Requirements Engineering
+SE 6362 Advanced Software Architecture and Design
+SE 6367 (CS 6367) Software Testing, Validation and Verification
+SE 6387 Advanced Software Engineering Project
+Credit will be given for only one of the following courses if students take them together to satisfy Computer Science and Software Engineering degree plan requirements:
+SE 6329 Object-Oriented Software Engineering, and
+CS 6359 Object-Oriented Analysis and Design
+Students must satisfy the core requirements by either earning a 3.19 minimum grade point average OR by earning a 3.0 minimum grade point average in the five core courses and taking an extra approved elective (beyond the minimum degree requirements of 33 semester credit hours) and maintain the required GPA.
+Electives (minimum of 18 semester credit hours)
+Five (15 semester credit hours) 6000/7000 level elective CS courses, or six semester credit hours of thesis or project courses plus three elective courses (6 + 9 = 15 semester credit hours), with approval of a graduate advisor; a minimum grade point average of 3.0 is required. Courses that are prerequisites to the student's core requirements are especially recommended. Approved electives must be taken to make a minimum of 33 semester credit hours.
+While the Department of Computer Science offers both the Master of Science in Computer Science and the Master of Science in Software Engineering degrees, students are not permitted to pursue both degrees.
+NOTE: Students changing program from MS_CS/PhD_CS to MS_SE/PhD_SE or MS_SE/PhD_SE to MS_CS/PhD_CS must submit a new online graduate application. The admissions committee in the department will review the application and make a decision.
+ 
+Executive Masters of Science in Software Engineering
+33 semester credit hours minimum
+The Executive Masters in Software Engineering (EMSE) at the University of Texas at Dallas is the premier program for software professionals in the Dallas/Fort Worth Metroplex and nearby areas. It is designed to help transform the careers and effectiveness of full time software employees. The program has a convenient schedule with classes that meet only one Friday and two Saturdays each month allowing a professional to manage work responsibilities and get a Master's Degree in 20 months.
+Eligibility Requirements
+
+Three years or more of full-time employment as software professional.
+An acceptable four year BS degree and a sound knowledge of C++ or Java programming and Data Structures & Algorithm Analysis.
+A complete application including a resume and a written Personal Statement.
+Three letters of recommendation.
+
+The EMSE program course work cannot be transferred to regular MSCS/SE program and vice versa.
+Degree Requirements
+The degree plan requires completion of 33 semester credit hours of coursework. This includes program selected 15 semester credit hours of 6000 level core and 12 semester credit hours of 6000 level electives. The remaining 6 semester credit hours of 6000 level electives are cohort selected.
+SE 6329 Object-Oriented Software Engineering
+SE 6361 Advanced Requirements Engineering
+SE 6362 Advanced Software Architecture and Design
+SE 6367 Software Testing, Validation and Verification
+SE 6387 Advanced Software Engineering Project
+CS 6360 Database Design
+SE 6356 Software Maintenance, Evolution, and Re-Engineering
+SE 6388 Software Project Planning and Management
+CS 6396 Real-Time Systems
+NOTE: Students changing program from MS_CS/PhD_CS to MS_SE/PhD_SE or MS_SE/PhD_SE to MS_CS/PhD_CS must submit a new online graduate application. The admissions committee in the department will review the application and make a decision.
+ 
+Doctor of Philosophy in Software Engineering
+75 semester credit hours minimum beyond the baccalaureate degree
+Program Faculty
+FACG> ecs-software-engineering-phdProfessors: Farokh B. Bastani @bastani, Ovidiu Daescu @daescu, Gopal Gupta @gupta, Kevin Hamlen @kxh060100, Dung T. Huynh @huynh, Andrian Marcus @axm141731, Yu-Chung (Vincent) Ng @ycn041000, Simeon C. Ntafos @ntafos, Balaji Raghavachari @rbk, Kamil Sarac @kxs028100, Bhavani Thuraisingham @bxt043000, W. Eric Wong @wew021000, Weili Wu @wxw020100, I-Ling Yen @ilyen, Kang Zhang @kzhang, Si Qing Zheng @sizhengAssociate Professors: Alvaro Cárdenas @axc127431, Lawrence Chung @chung, Ryan McMahan @rpm120130, Tien Nguyen @tnn160630, Rym Zalila-Wenkstern @rmiliAssistant Professors: Shuang Hao @sxh178730, Cong Liu @cxl137330, Benjamin Raichel @bar150630, Shiyi Wei @sxw174630, Lingming Zhang @lxz144130
+Objectives
+The Department of Computer Science offers a Doctor of Philosophy in Software Engineering.
+The doctoral program is tailored to the student. The student must arrange a course program with the guidance and approval of a faculty member chosen as his/her graduate advisor. Adjustments can be made as the student's interests develop and a specific dissertation topic is chosen.
+NOTE> Please be advised, the admissions section below feeds in from a separate page. Any changes made to the admissions section below will not be retained. Please contact catalog@utdallas.edu with any questions.
+Admission Requirements
+The University's general admission requirements are discussed on the Graduate Admission page.
+A student may be admitted under one of two possible options:
+Admission Option One
+
+A master's degree in computer science or its equivalent, and
+A GPA (grade point average) of at least 3.5 and
+GRE revised scores of at least 308, 153, 155, and 4 for the combined, verbal, quantitative, and analytical writing components, respectively, are advisable based on our experience with student success in the program.
+
+Admission Option Two
+
+A BS in related area that includes two semesters of calculus and linear algebra with,
+GPA of at least 3.5 in the last 60 semester credit hours, and
+GRE revised scores of at least 315, 156, 159, and 4 for the combined, verbal, quantitative, and analytical writing components, respectively, are advisable based on our experience with student success in the program.
+
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+Core requirements:
+The core requirements for the PhD degree in Software Engineering are the same as those listed on the Master of Science in Software Engineering page.
+Also required are:
+
+Pass a qualifying examination.
+CS 6382 Theory of Computation with a grade of B or better
+Two CS or SE 7000 and above level courses
+Sufficient CS electives for a total of at least 75 semester credit hours beyond the baccalaureate degree. At least 9 semester credit hours of organized advanced Computer Science electives must be taken at UT Dallas. The student is encouraged to consult with an advisor in choosing electives.
+
+Dissertation
+A dissertation is required and must be approved by the graduate program. A student must arrange for a dissertation advisor willing to guide this dissertation. The student must have a dissertation supervising committee that consists of no less than four members of whom at least three must be from the Computer Science faculty. Students must enroll in a minimum 3 dissertation semester credit hours in the degree plan. The dissertation may be in computer science exclusively or it may involve considerable work in an area of application.
+NOTE: Students changing program from MS_CS/PhD_CS to MS_SE/PhD_SE or MS_SE/PhD_SE to MS_CS/PhD_CS must submit a new online graduate application. The admissions committee in the department will review the application and make a decision.
+Updated: 2020-05-18 16:33:04 v3.d2c57c
+
+
+
+

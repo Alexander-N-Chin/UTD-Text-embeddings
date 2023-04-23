@@ -1,0 +1,18 @@
+
+
+
+Introduction to Programming with MATLAB (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogMATH2370 - Introduction to Programming with MATLABMATH 2370 Introduction to Programming with MATLAB (3 semester credit hours) Introduces the basic concepts of programming and problem solving using MATLAB. Topics include data types, data input/output, control structures, functions, scripts, debugging, data visualization techniques, symbolic computation, and basic algorithms. Programming projects related to mathematical and statistical applications and elementary numerical methods. Prerequisite: ALEKS score required or a grade of at least a C- in MATH 2312 or equivalent (3-0) S
+
+
+
+

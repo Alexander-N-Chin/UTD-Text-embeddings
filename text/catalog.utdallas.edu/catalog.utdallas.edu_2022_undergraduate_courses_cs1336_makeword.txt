@@ -1,0 +1,18 @@
+
+
+
+Programming Fundamentals (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS1336 - Programming FundamentalsCS 1336 (COSC 1336) Programming Fundamentals (3 semester credit hours) Introduces the fundamental concepts of structured programming. Topics include software development methodology, data types, control structures, functions, arrays, and the mechanics of running, testing, and debugging. Programming language of choice is C. The class is open to students in the School of Engineering and Computer Science only. Note that a grade of C- or better in this class is required in order to register for (CS 1324 or CS 1325); a grade of C or better in this class is required to register for (CE 1337 or CS 1337). Corequisite: CS 1136. (3-0) S
+
+
+
+

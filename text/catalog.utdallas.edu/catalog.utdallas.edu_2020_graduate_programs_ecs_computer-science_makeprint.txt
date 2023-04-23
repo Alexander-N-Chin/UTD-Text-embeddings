@@ -1,0 +1,211 @@
+
+
+
+Department of Computer Science (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2020 Graduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Graduate Program in Computer Science
+Objectives
+The Graduate Program in Computer Science provides intensive preparation in the design, programming, theory, and applications of computers. The Department of Computer Science offers courses of study leading to the MS in Computer Science, the MS in Software Engineering, the PhD degree in Computer Science, and the PhD degree in Software Engineering. Training is provided for both academically oriented students and students with professional goals in the many business, industrial, or governmental occupations requiring advanced knowledge of computer theory and technology. Courses and research are offered in a variety of subfields of computer science, including operating systems, computer architecture, computer graphics, pattern recognition, automata theory, combinatorics, artificial intelligence, data and network security, natural language processing, database design, computer networks, programming languages, software systems, analysis of algorithms, computational complexity, software engineering, software testing, software reliability, scheduling, visualization, fault-tolerant computing, parallel processing, telecommunications networks, telecommunications software, performance of systems, VLSI, computational geometry, and design automation.
+A comprehensive program of evening courses is offered which enables part-time students to earn the master's degree or to select individual courses of interest.
+Facilities
+The Department of Computer Science systems are comprised of a private virtualization cloud, several individual computer servers, computer workstations, and desktop computers. Research laboratories are available for parallel processing, distributed systems, software engineering, high-performance computing, graphics, programming languages and systems, telecommunications, CAD and graph visualization, image understanding and processing, artificial intelligence, big data, natural language processing, speech processing, and web technologies. The Department of Computer Science network connects through Internet 2 with other research universities, gigabit ethernet intranet, and pervasive wireless connectivity.
+ 
+Master of Science in Computer Science
+33 semester credit hours minimum
+Program Faculty
+FACG> ecs-computer-science-msProfessors: Farokh B. Bastani @bastani, Sergey Bereg @sxb027100, R. Chandrasekaran @chandra, Ovidiu Daescu @daescu, Yvo G. Desmedt @ygd120030, Ding-Zhu Du @dxd056000, András Faragó @farago, Paul Fishwick @pxf130430, Xiaohu Guo @xxg061000, Gopal Gupta @gupta, Zygmunt Haas @zjh130030, Kevin Hamlen @kxh060100, Sanda M. Harabagiu @sanda, Dung T. Huynh @huynh, Jason Jue @jjue, Murat Kantarcioglu @mxk055100, Latifur Khan @lkhan, Andrian Marcus @axm141731, Dan I. Moldovan @moldovan, Yu-Chung (Vincent) Ng @ycn041000, Simeon C. Ntafos @ntafos, Ivor P. Page @ivor, Balakrishnan Prabhakaran @praba, Ravi Prakash @ravip, Balaji Raghavachari @rbk, Kamil Sarac @kxs028100, Bhavani Thuraisingham @bxt043000, Subbarayan Venkatesan @venky, W. Eric Wong @wew021000, Weili Wu @wxw020100, I-Ling Yen @ilyen, Kang Zhang @kzhang, Si Qing Zheng @sizhengAssociate Professors: Alvaro Cárdenas @axc127431, Lawrence Chung @chung, Jorge A. Cobb @jcobb, Vibhav Gogate @vxg112130, Yang Liu @yxl053200, Ryan McMahan @rpm120130, Neeraj Mittal @nxm020100, Sriraam Natarajan @sxn177430, Tien Nguyen @tnn160630, Haim Schweitzer @haim, Rym Zalila-Wenkstern @rmiliAssistant Professors: Kyle Fox @kjf170230, Shuang Hao @sxh178730, Cong Liu @cxl137330, Benjamin Raichel @bar150630, Nicholas Ruozzi @nrr150130, Shiyi Wei @sxw174630, Lingming Zhang @lxz144130Professors Emeritus: William J. Pervin @pervin, Ivan Hal Sudborough @hal, Klaus Truemper @klausSenior Lecturers: Sridhar Alagar @sxa173731, Gordon Arnold @gxa120930, Eric Becker @ewb160130, Jonathan Brandenburg @jcb011200, Ebru Cankaya @exc067000, Anjum Chida @axc157030, Michael Christiansen @mgc013000, John Cole @jxc064000, Chris I. Davis @cid021000, Karen Doore @kld054000, Timothy (Tim) Farage @tfarage, Ranran Feng @rxf090020, Richard Goodrum @rag150330, Neeraj Gupta @nkg140130, Shyam Karrah @skarrah, Kamran Khan @kkhan, Pushpa Kumar @pkumar, Khiem Le @kvl140030, Karen Mazidi @kjm160430, Timothy McMahan @txm173230, Richard K. Min @rkm010300, Linda Morales @lxm014000, Anarag Nagar @axn112530, Nhut Nguyen @nhutnn, Mehra Nouroz Borazjany @mxn143230, Greg Ozbirn @ozbirn, Mark Paulk @mcp130030, Stephen Perkins @sxp127930, Miguel Razo-Razo @mrazora, William (Bill) Semper @wjs130130, Charles Shields Jr. @cshields, Jason W. Smith @jws130830, Janell Straach @jxs017800, Laurie Thompson @lthomp, Jeyakesavan (Jey) Veerasamy @veerasam, Don G. Vogel @dgv130030, James Willson @jkw053000, Nurcan Yuruk @nxy140530
+NOTE> Please be advised, the admissions section below feeds in from a separate page. Any changes made to the admissions section below will not be retained. Please contact catalog@utdallas.edu with any questions.
+Admission Requirements
+The University's general admission requirements are discussed on the Graduate Admission page.
+The student entering the Computer Science MS program should have an undergraduate preparation equivalent to a baccalaureate in a quantitative science, including calculus and linear algebra. However, special arrangements (requiring more than the minimal number of semester credit hours) can be made for students with good undergraduate preparation in other fields. 
+Minimum requirements are:
+
+Bachelor's degree which includes 2 semesters of calculus and 1 semester of linear algebra.
+A strong foundation in programming.
+A GPA (grade point average) of at least 3.0 (last 60 semester credit hours). GPA in quantitative courses of at least 3.3.
+GRE revised scores of 308, 153, 155, and 4 for the combined, verbal, quantitative, and analytical writing components, respectively, are advisable based on our experience with student success in the program.
+Applicants are admitted on a competitive basis.
+
+Students lacking undergraduate preparation in computer science must complete the courses listed below. At the discretion of the graduate advisor, a diagnostic exam may be required. The required prerequisite courses common to all master's students are:
+Required Prerequisite Courses
+CS 5303 Computer Science I
+CS 5330 Computer Science II
+CS 5333 Discrete Structures
+CS 5343 Algorithm Analysis and Data Structures
+CS 5348 Operating Systems Concepts
+Substitution of CS 5303 and/or CS 5330 by professional experience will be considered.
+Additional prerequisite courses required for the various degree plans are:
+For the Data Sciences Track:
+CS 3341 (SE 3341) Probability and Statistics in Computer Science and Software Engineering
+For the Information Assurance Track:
+CS 5390 Computer Networks
+For the MS in Software Engineering:
+CS 3354 (SE 3354) Software Engineering or SE 5354 Software Engineering
+For the Networks and Telecommunications Track:
+CS 3341 (SE 3341) Probability and Statistics in Computer Science and Software Engineering
+CS 5390 Computer Networks
+For the Traditional Computer Science:
+CS 5349 Automata Theory
+CS 5390 Computer Networks
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+The student may choose a thesis plan or a non-thesis plan. The thesis plan requires a minimum of 27 semester credit hours of courses, plus completion of an approved thesis (six thesis semester credit hours). This thesis is directed by a supervising professor and must be approved by the head of the Department of Computer Science. The non-thesis plan also requires a minimum of 33 semester credit hours of courses.
+By a judicious planning of courses chosen from the computer science curriculum, supervised and approved by the graduate advisor, students may pursue the MS degree in Computer Science while emphasizing specific areas of the discipline. Students may also choose to receive the MS degree in Software Engineering. Because of the rapidly changing nature of the computer science discipline, the specific courses required may change by the time of the student's admission. A listing of the required courses will be specified by the student's advisor. Specific degree requirements follow.
+Core Requirements (15 semester credit hours)
+Data Sciences Track
+CS 6313 Statistical Methods for Data Science
+CS 6350 Big Data Management and Analytics
+CS 6363 Design and Analysis of Computer Algorithms
+CS 6375 Machine Learning
+Choose one course from the following five courses:
+CS 6301 Special Topics in Computer Science [when topic is Social Network Analytics]
+CS 6320 Natural Language Processing
+CS 6327 Video Analytics
+CS 6347 Statistical Methods in AI and Machine Learning
+CS 6360 Database Design
+Information Assurance Track
+CS 6324 Information Security
+CS 6363 Design and Analysis of Computer Algorithms
+CS 6378 Advanced Operating Systems
+Choose two courses from the following four courses:
+CS 6332 Systems Security and Malicious Code Analysis
+CS 6348 Data and Applications Security
+CS 6349 Network Security
+CS 6377 Introduction to Cryptography
+Intelligent Systems Track
+CS 6320 Natural Language Processing
+CS 6363 Design and Analysis of Computer Algorithms
+CS 6364 Artificial Intelligence
+CS 6375 Machine Learning
+Choose one course from the following two courses:
+CS 6360 Database Design
+CS 6378 Advanced Operating Systems
+Interactive Computing Track
+CS 6326 Human Computer Interactions
+CS 6363 Design and Analysis of Computer Algorithms
+Choose three of the following five courses:
+CS 6323 Computer Animation and Gaming
+CS 6328 Modeling and Simulation
+CS 6331 Multimedia Systems
+CS 6334 Virtual Reality
+CS 6366 Computer Graphics
+Networks and Telecommunications Track
+CS 6352 Performance of Computer Systems and Networks
+CS 6363 Design and Analysis of Computer Algorithms
+CS 6378 Advanced Operating Systems
+CS 6385 Algorithmic Aspects of Telecommunication Networks
+CS 6390 Advanced Computer Networks
+Systems Track
+CS 6304 Computer Architecture
+CS 6363 Design and Analysis of Computer Algorithms
+CS 6378 Advanced Operating Systems
+CS 6396 Real-Time Systems
+Choose one course from the following four courses:
+CS 6349 Network Security
+CS 6376 Parallel Processing
+CS 6380 Distributed Computing
+CS 6397 Synthesis and Optimization of High-Performance Systems
+Traditional Computer Science Track
+CS 6363 Design and Analysis of Computer Algorithms
+CS 6378 Advanced Operating Systems
+CS 6390 Advanced Computer Networks
+Choose two courses of the following three courses:
+CS 6353 Compiler Construction
+CS 6360 Database Design
+CS 6371 Advanced Programming Languages
+Students must satisfy the core requirements by either earning a 3.19 minimum grade point average OR by earning a 3.0 minimum grade point average in the five core courses and taking an extra approved elective (beyond the minimum degree requirements of 33 semester credit hours) and maintain the required GPA.
+NOTE: Students changing program from MS_CS/PhD_CS to MS_SE/PhD_SE or MS_SE/PhD_SE to MS_CS/PhD_CS must submit a new online graduate application. The admissions committee in the department will review the application and make a decision.
+ 
+Doctor of Philosophy in Computer Science
+75 semester credit hours minimum beyond the baccalaureate degree
+Program Faculty
+FACG> ecs-computer-science-phdProfessors: Farokh B. Bastani @bastani, Sergey Bereg @sxb027100, R. Chandrasekaran @chandra, Ovidiu Daescu @daescu, Yvo G. Desmedt @ygd120030, Ding-Zhu Du @dxd056000, András Faragó @farago, Paul Fishwick @pxf130430, Xiaohu Guo @xxg061000, Gopal Gupta @gupta, Zygmunt Haas @zjh130030, Kevin Hamlen @kxh060100, Sanda M. Harabagiu @sanda, Dung T. Huynh @huynh, Jason Jue @jjue, Murat Kantarcioglu @mxk055100, Latifur Khan @lkhan, Andrian Marcus @axm141731, Dan I. Moldovan @moldovan, Yu-Chung (Vincent) Ng @ycn041000, Simeon C. Ntafos @ntafos, Ivor P. Page @ivor, Siavash Pourkamali @sxp124631, Balakrishnan Prabhakaran @praba, Ravi Prakash @ravip, Balaji Raghavachari @rbk, Kamil Sarac @kxs028100, Bhavani Thuraisingham @bxt043000, Subbarayan Venkatesan @venky, W. Eric Wong @wew021000, Weili Wu @wxw020100, I-Ling Yen @ilyen, Kang Zhang @kzhang, Si Qing Zheng @sizhengAssociate Professors: Alvaro Cárdenas @axc127431, Lawrence Chung @chung, Jorge A. Cobb @jcobb, Vibhav Gogate @vxg112130, Yang Liu @yxl053200, Ryan McMahan @rpm120130, Neeraj Mittal @nxm020100, Sriraam Natarajan @sxn177430, Tien Nguyen @tnn160630, Haim Schweitzer @haim, Rym Zalila-Wenkstern @rmiliAssistant Professors: Kyle Fox @kjf170230, Shuang Hao @sxh178730, Cong Liu @cxl137330, Benjamin Raichel @bar150630, Nicholas Ruozzi @nrr150130, Shiyi Wei @sxw174630, Lingming Zhang @lxz144130Professors Emeritus: William J. Pervin @pervin, Ivan Hal Sudborough @hal, Klaus Truemper @klaus
+Objectives
+The Department of Computer Science offers a Doctor of Philosophy in Computer Science.
+The doctoral program is tailored to the student. The student must arrange a course program with the guidance and approval of a faculty member chosen as his/her graduate advisor. Adjustments can be made as the student's interests develop and a specific dissertation topic is chosen.
+NOTE> Please be advised, the admissions section below feeds in from a separate page. Any changes made to the admissions section below will not be retained. Please contact catalog@utdallas.edu with any questions.
+Admission Requirements
+The University's general admission requirements are discussed on the Graduate Admission page.
+A student may be admitted under one of two possible options. The student must have:
+Admission Option One
+
+A master's degree in computer science or its equivalent, and
+A GPA (grade point average) of at least 3.5, and
+GRE revised scores of at least 315, 156, 159, and 4 for the combined, verbal, quantitative, and analytical writing components, respectively, are advisable based on our experience with student success in the program.
+
+Admission Option Two
+
+A BS in related area that includes two semesters of calculus and linear algebra with
+GPA of at least 3.5 in the last 60 semester credit hours, and
+GRE revised scores of at least 315, 156, 159, and 4 for the combined, verbal, quantitative, and analytical writing components, respectively, are advisable based on our experience with student success in the program.
+
+Degree Requirements
+The University's general degree requirements are discussed on the Graduate Policies and Procedures page.
+Core requirements:
+The core requirements for the PhD degree in Computer Science are the same as the ones listed on the Master of Science in Computer Science page or on the Master of Science in Software Engineering page.
+Also required are:
+
+Pass a qualifying examination.
+Pass CS 6382 Theory of Computation with a grade of B or better
+Two CS or SE 7000 and above level courses
+Sufficient CS electives for a total of at least 75 semester credit hours beyond the baccalaureate degree. At least 9 semester credit hours of organized advanced Computer Science electives must be taken at UT Dallas. The student is encouraged to consult with an advisor in choosing electives.
+
+Dissertation
+A dissertation is required and must be approved by the graduate program. A student must arrange for a dissertation advisor willing to guide this dissertation. The student must have a dissertation supervising committee that consists of no less than four members of whom at least three must be from the Computer Science faculty. Students must enroll in a minimum 3 dissertation semester credit hours in the degree plan. The dissertation may be in computer science exclusively or it may involve considerable work in an area of application.
+NOTE: Students changing program from MS_CS/PhD_CS to MS_SE/PhD_SE or MS_SE/PhD_SE to MS_CS/PhD_CS must submit a new online graduate application. The admissions committee in the department will review the application and make a decision.
+ 
+Graduate Level Designation in Cyber Operations
+The Department of Computer Science has been designated as a National Security Agency (NSA) Center of Academic Excellence in Cyber Operations (CAE in CyberOps). This designation endorses that the below listed courses cover cyber operations related knowledge units identified by NSA CAE in CyberOps program. Based on this designation a student completing eight courses (that include six core courses and two elective courses) from the list below will have the following notation recorded on their transcript.
+"Completed Curriculum Requirements for National Security Agency's Graduate Level Designation in Cyber Operations at UT Dallas"
+Students meeting the requirements of this program can have the designation clause recorded on their transcripts by applying prior to their graduation. For the application process, please visit the Education web page under Computer Science Department web site.
+Core Courses:
+CS 6301 Special Topics in Computer Science [when topic is Wireless Networks]
+CS 6324 Information Security
+CS 6332 Systems Security and Malicious Code Analysis
+CS 6349 Network Security
+CS 6363 Design and Analysis of Computer Algorithms
+CS 6390 Advanced Computer Networks
+Elective Courses:
+Two electives among the below courses:
+ACCT 6336 Information Technology Audit and Risk Management1
+CE 6301 Advanced Digital Logic
+CS 6301 Special Topics in Computer Science [when topic is Secure Cloud Computing]
+CS 6377 Introduction to Cryptography
+CS 6396 Real-Time Systems
+CS 7301 Recent Advances in Computing [when topic is Cyber-physical Systems Security]
+CS 6378 Advanced Operating Systems
+CE 6302 Microprocessor and Embedded Systems
+CS 4397 Embedded Computer Systems1
+CS 4398 Digital Forensics1
+1. ACCT 6336, CS 4397, and CS 4398 do not count as an elective in the CS/SE graduate degree plan.
+ 
+Graduate Certificate in Information Assurance
+15 semester credit hours
+The Department of Computer Science has been designated as a National Security Agency (NSA) Center of Academic Excellence in Cyber Defense Education (CAE in CDE). This designation endorses that the below listed courses cover cyber defense related knowledge units identified by NSA CAE in CDE program. Based on this designation a student completing the below courses will qualify to obtain a certificate in information assurance. Students meeting the requirements of this program can obtain their certificate by applying prior to their graduation. For the application process, please visit the Education web page under Computer Science Department web site.
+Program Faculty
+FACG> ecs-information-assurance-certProfessors: Yvo G. Desmedt @ygd120030, Kevin Hamlen @kxh060100, Murat Kantarcioglu @mxk055100, Latifur Khan @lkhan, Kamil Sarac @kxs028100, Bhavani Thuraisingham @bxt043000, I-Ling Yen @ilyenAssociate Professors: Alvaro Cárdenas @axc127431, Jorge A. Cobb @jcobb, Neeraj Mittal @nxm020100Assistant Professors: Shuang Hao @sxh178730, Cong Liu @cxl137330, Shiyi Wei @sxw174630Senior Lecturers: Ebru Cankaya @exc067000, Neeraj Gupta @nkg140130, Richard K. Min @rkm010300, Stephen Perkins @sxp127930
+Admission Requirements
+Students must gain admission to the MS CS program or be eligible to take graduate courses in CS as a non-degree seeking student
+Certificate Requirements
+Students must complete the following five courses with a GPA of 3.2 or better.
+CS 6324 Information Security
+CS 6348 Data and Applications Security
+CS 6349 Network Security
+CS 6363 Design and Analysis of Computer Algorithms
+CS 6378 Advanced Operating Systems
+ 
+Updated: 2020-10-14 10:12:39 v6.b8aa48
+
+
+
+

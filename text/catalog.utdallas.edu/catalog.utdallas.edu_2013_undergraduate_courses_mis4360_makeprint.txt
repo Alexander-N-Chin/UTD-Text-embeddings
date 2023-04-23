@@ -1,0 +1,18 @@
+
+
+
+Network and Information Security (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogMIS4360 - Network and Information SecurityMIS 4360 Network and Information Security (3 semester hours) With the advances in information technology, security of information assets has become a keenly debated issue for organizations. While much focus has been paid to technical aspects of the problem, managing information security requires more than technology. Effective information security management demands a clear understanding of technical as well as socio-organizational aspects of the problem. The purpose of this course is to prepare business decision makers who recognize the threats and vulnerabilities present in current information systems and who know how to design and develop secure systems. Prerequisites: (MIS 3300 and MATH 1326) and (MATH 2333 or OPRE 3333 or MATH 2418 or MATH 2415 or CS 2305). (3-0) Y
+
+
+
+

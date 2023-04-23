@@ -1,0 +1,18 @@
+
+
+
+Database Systems (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS4347 - Database SystemsCS 4347 Database Systems (3 semester credit hours) This course emphasizes the concepts and structures necessary for the design and implementation of database management systems. Topics include data models, data normalization, data description languages, query facilities, file organization, index organization, file security, data integrity, and reliability. Prerequisite: CE 3345 or CS 3345 or SE 3345. (Same as SE 4347) (3-0) Y
+
+
+
+

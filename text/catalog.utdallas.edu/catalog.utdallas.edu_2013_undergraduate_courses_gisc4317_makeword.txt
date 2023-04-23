@@ -1,0 +1,18 @@
+
+
+
+GeoComputation (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogGISC4317 - GeoComputationGISC 4317 GeoComputation (3 semester hours) Introduction to fundamental computational skills and their implementation in GIS software development. Topics covered include geoprocessing functions, geospatial modeling, visual programming, scripting and application development. Students are expected to design and implement a project. Prerequisite: (GEOS 2301 or GISC 2301) or (GEOG 3304 or GEOS 3304 or GISC 3304). (3-0) Y
+
+
+
+

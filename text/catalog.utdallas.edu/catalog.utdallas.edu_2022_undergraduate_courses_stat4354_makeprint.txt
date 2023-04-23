@@ -1,0 +1,18 @@
+
+
+
+Numerical and Statistical Computing (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogSTAT4354 - Numerical and Statistical ComputingSTAT 4354 Numerical and Statistical Computing (3 semester credit hours) Solving linear and nonlinear equations; numerical differentiation and integration; optimization; Newton-Raphson and EM algorithms; QR, Cholesky, eigenvalue, and singular value decompositions; random number generation; Monte Carlo methods; Markov chain Monte Carlo methods; bootstrap and jackknife; power analysis and sample size determination; and use of a statistical software package such as R. Prerequisites: (MATH 2451 or MATH 3351) and STAT 4351, or instructor consent required. (3-0) Y
+
+
+
+

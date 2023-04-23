@@ -1,0 +1,18 @@
+
+
+
+Bioinformatics (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogBIOL4375 - BioinformaticsBIOL 4375 Bioinformatics (3 semester hours) A practical approach to quantitative and statistical analysis of biological sequence and structural information. Classroom lectures are accompanied by practical demonstrations and computer lab exercises. Topics include genomic information content, data searches and sequence alignment, mutations and distance-based phylogenetic analysis, genomics and gene recognition, polymorphisms and forensic applications, nucleic-acid and protein array analysis, and structure prediction of biological macromolecules. Prerequisites: BIOL 3301 and (BIOL 3361 or CHEM 3361) and two semesters of calculus. Suggested additional preparation: one semester of introductory statistics. (3-0) T
+
+
+
+

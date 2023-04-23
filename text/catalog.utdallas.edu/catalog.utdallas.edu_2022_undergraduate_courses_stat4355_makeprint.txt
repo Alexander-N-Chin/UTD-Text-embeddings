@@ -1,0 +1,18 @@
+
+
+
+Applied Linear Models (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogSTAT4355 - Applied Linear ModelsSTAT 4355 Applied Linear Models (3 semester credit hours) Introduction to linear statistical models and their application to empirical data. Topics include linear and logistic regression; multiple regression; diagnostic measures; detection of outliers and influential observations; variable selection; one- and two-way ANOVA; analysis of covariance; model fitting and validation using the statistical programming language R. Prerequisite: STAT 3355 or instructor consent required. (3-0) Y
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+
+Theory of Options (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogACTS4309 - Theory of OptionsACTS 4309 Theory of Options (3 semester credit hours) This 3 semester course develops the student's knowledge of the theory of options. The topics discussed include general properties of options, binomial pricing models, Black-Scholes option pricing model, option Greeks, exotic options and risk management. This class covers parts of CAS exam 3F, topics on the SOA FAP capstones and exam ALTAM. Prerequisite: ACTS 4302 with grade C- or higher. (3-0) Y
+
+
+
+

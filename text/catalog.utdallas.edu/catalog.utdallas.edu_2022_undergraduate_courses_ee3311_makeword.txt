@@ -1,0 +1,18 @@
+
+
+
+Electronic Circuits (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogEE3311 - Electronic CircuitsEE 3311 Electronic Circuits (3 semester credit hours) Large-signal and small-signal characteristics of diodes, BJT and MOSFET transistors. Analysis of circuits containing diodes. Analysis of the DC and small-signal characteristics of single-stage BJT and MOSFET amplifiers. Analysis of circuits with an operational amplifier as a black box. Introduction of high-frequency models of BJT and MOSFET transistors and methods to analyze amplifier frequency response. Prerequisite: CE 3301 or EE 3301. (Same as CE 3311) (3-0) S
+
+
+
+

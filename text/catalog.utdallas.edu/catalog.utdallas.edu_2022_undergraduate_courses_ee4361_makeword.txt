@@ -1,0 +1,18 @@
+
+
+
+Introduction to Digital Signal Processing (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogEE4361 - Introduction to Digital Signal ProcessingEE 4361 Introduction to Digital Signal Processing (3 semester credit hours) An introduction to the analysis and design of discrete linear systems, and to the processing of digital signals. Topics include time and frequency domain approaches to discrete signals and systems, the Discrete Fourier Transform and its computation, and the design of digital filters. Prerequisite: EE 3302. (3-0) T
+
+
+
+

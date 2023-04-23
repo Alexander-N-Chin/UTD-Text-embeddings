@@ -1,0 +1,18 @@
+
+
+
+Linear Algebra for Engineers (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogENGR2300 - Linear Algebra for EngineersENGR 2300 Linear Algebra for Engineers (3 semester credit hours) Matrices, vectors, linear systems of equations, Gauss-Jordan elimination, LU factorization and rank. Vector spaces, linear dependence/independence, basis, and change of basis. Linear transformations and matrix representation; similarity, scalar products, orthogonality, Gram-Schmidt procedures, and QR factorization. Determinants: eigenvalues, eigenvectors, and diagonalization. Introduction to problem solving using MATLAB. This course includes a required laboratory. Prerequisite or Corequisite: MATH 2414 or MATH 2419. (2-1) S
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+
+Introduction to Machine Learning (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS4375 - Introduction to Machine LearningCS 4375 Introduction to Machine Learning (3 semester credit hours) Algorithms for creating computer programs that can improve their performance through learning. Topics include: cross-validation, decision trees, neural nets, statistical tests, Bayesian learning, computational learning theory, instance-based learning, reinforcement learning, bagging, boosting, support vector machines, Hidden Markov Models, clustering, and semi-supervised and unsupervised learning techniques. Prerequisites: (CS 3341 or SE 3341 or (Data Science major and STAT 3355)) and (CE 3345 or CS 3345 or SE 3345) or equivalent. (3-0) Y
+
+
+
+

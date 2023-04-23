@@ -1,0 +1,18 @@
+
+
+
+Introduction to Data Analysis (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogSTAT3355 - Introduction to Data AnalysisSTAT 3355 Introduction to Data Analysis (3 semester credit hours) Graphical and numerical summaries of data; univariate and bivariate probability models; point estimation; sampling distributions; confidence intervals and hypothesis testing; comparison of populations; linear regression; analysis of variance; and implementation of methods using R programming language. Prerequisite: MATH 2414 or MATH 2419 or equivalent. (3-0) Y
+
+
+
+

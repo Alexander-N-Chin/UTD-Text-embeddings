@@ -1,0 +1,18 @@
+
+
+
+Computer Architecture (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCS2340 - Computer ArchitectureCS 2340 Computer Architecture (3 semester credit hours) This course introduces the concepts of computer architecture by going through multiple levels of abstraction, and the numbering systems and their basic computations. It focuses on the instruction-set architecture of the MIPS machine, including MIPS assembly programming, translation between MIPS and C, and between MIPS and machine code. General topics include performance calculation, processor datapath, pipelining, and memory hierarchy. Credit cannot be received for both courses, (CS 2340 or SE 2340) and (CE 4304 or EE 4304). Prerequisites: (CE 1337 or CS 1337) with a grade of C or better or equivalent and (CE 2305 or CS 2305) with a grade of C or better. (Same as SE 2340) (3-0) S
+
+
+
+

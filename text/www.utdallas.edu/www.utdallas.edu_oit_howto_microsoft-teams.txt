@@ -1,0 +1,603 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	Service - Microsoft Teams
+
+
+
+
+
+
+
+
+
+
+
+
+Updating...
+
+
+
+
+
+
+
+
+
+
+
+
+ QUICK LINKS
+
+
+Chat with OIT
+
+OIT Homepage
+ATEC Homepage
+Research Homepage
+
+Galaxy
+eLearning
+Directory
+Maps
+
+Technician Login
+
+
+
+                    •
+                
+SITE MAP
+
+
+
+
+
+
+Skip to main content
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        Filter your search by category. Current category:
+        All
+
+
+
+
+
+
+          All
+        
+
+
+
+
+
+            Knowledge Base
+          
+
+
+
+
+            Service Catalog
+          
+
+
+
+Search the client portal
+
+
+
+
+Search
+
+
+
+
+
+
+
+              Sign In
+            
+
+
+
+
+
+
+
+
+
+
+
+Show Applications Menu
+
+
+
+          Atlas Portal
+        
+
+
+
+
+Sign In
+
+
+Search
+
+
+Home
+
+
+IT Support
+
+
+Services
+
+
+Knowledge Base
+
+
+
+More Applications
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Skip to Services content
+
+
+
+Services A-Z
+
+
+Search Services
+
+
+
+
+
+
+
+
+Service CatalogCommunication and CollaborationMicrosoft 365 ApplicationsMicrosoft Teams
+
+
+
+
+    Microsoft Teams
+  
+What Is It?
+Microsoft Teams is a powerful team-based collaboration tool that provides group chat, channeled conversations, instant messaging, live document collaboration, audio or video calls, and meetings (from one-on-ones to fully-featured audio/video conferences).
+Who Is Eligible to Use It?
+Students, Faculty, Staff, Guests
+Where Can I Get It?
+Access Teams by downloading the application (https://teams.microsoft.com/download) or using the web version at https://teams.microsoft.com.
+How Much Does It Cost?
+There is no cost for this service at this time.
+Selected Resources
+Getting Started with Teams
+
+Installing Microsoft Teams
+Switching Views in Teams
+Teams Notification Settings
+Handout – Using Teams Guide
+
+Teams for Meetings
+
+Scheduling Teams Meetings in Outlook
+Scheduling Teams Meetings in Teams
+Scheduling Teams Meetings in a Channel
+Teams Meeting Options & Roles
+
+Teams Meeting Options Page Not Displaying
+
+
+Breakout Rooms
+	
+Teams Meeting Breakout Rooms
+Teams Meeting Breakout Rooms – Video Overview
+
+
+Teams Meeting Custom Backgrounds
+Recording a Meeting or Group Call
+Scheduling a Teams Meeting with No Invitees – OnPrem User/Mac
+Handout – Secure Online Meetings
+
+Teams for Instruction
+
+FAQ/Overview – Auto Provisioned Course Teams (Summer 2021)
+FAQ/Overview – Auto Provisioned Course Teams (Fall 2021)
+FAQ/Overview – Auto Provisioned Course Teams (Spring 2022)
+Teams Meeting Breakout Rooms in Classes
+
+(all tutorials are provided by Educational Technology Services)
+
+How to Use Teams in your Fall 2021 Course
+How to Use Teams in your Merged Course
+How to Upload a Collaborate Recording to Classic Stream
+How to Upload an MP4 Video to Classic Stream
+How to Pre-Record a Lecture for Asynchronous Delivery Using Teams
+How to Conduct Office Hours Using Teams
+Creating ADA compliant lectures using MS Teams and Stream
+
+Teams for Chat
+
+Using Teams for Chat
+Screen Sharing in Teams
+Changing your Teams Status
+
+Teams for Collaboration
+
+How to Request a Team
+Teams, Channels, Membership, Roles, and Settings
+Pinning a Channel
+Sharing and Co-authoring on Documents, Spreadsheets, and PowerPoints
+Teams Expiration Policy and Renewing your Team
+Adding Guest Users to Teams
+
+
+  
+
+   
+
+
+
+
+ 
+Report an Issue
+
+
+ 
+Report a Specific Bug
+
+
+ 
+Request New Team
+
+
+ 
+Request Training
+
+
+ 
+General Request / Help
+
+Blank
+
+
+Related Articles (15)
+
+
+
+
+
+Can External Users Participate in a UTD Teams Meeting?
+
+
+
+    This guide is only needed if an external user needs to participate in a Microsoft Teams meeting. This can be done by simply inviting them to the meeting with their full email address.
+  
+
+
+
+
+Change your Microsoft Teams Status (Presence)
+
+
+
+    This article provides information on how to change your Microsoft Teams status.
+  
+
+
+
+
+How to Request a Microsoft Team
+
+
+
+    This article describes the process to request a Microsoft Team.
+  
+
+
+
+
+Installing Teams on Your Device - Desktop and Mobile
+
+
+
+    This article is helpful for installing teams on your Mac/ PC/ Android/ iOS/ other mobile devices.
+  
+
+
+
+
+Key Features of Microsoft Teams
+
+
+
+    The article will explain the minute differences between the Microsoft Teams features such as Teams, Channel, Membership, Roles, and Settings.
+  
+
+
+
+
+Key features while using Microsoft Teams for Chat
+
+
+
+
+
+
+Pinning Apps on Microsoft Teams Client
+
+
+
+    The article will help you pin applications to the sidebar of Teams.
+  
+
+
+
+
+Record a Meeting or a Group Call in Microsoft Teams
+
+
+
+    This article has instructions that can help you record a meeting or a group call in Teams.
+  
+
+
+
+
+Scheduling a Microsoft Teams Meeting
+
+
+
+    This article provides instructions on scheduling a meeting in Microsoft Teams.
+  
+
+
+
+
+Scheduling a Teams Meeting in Outlook
+
+
+
+
+
+
+Standard Teams Meetings vs Channel Teams Meetings
+
+
+
+    This article draws the difference between Standard Teams meeting and Channel Teams meeting.
+  
+
+
+
+
+Switching Microsft Teams Viewing Options
+
+
+
+    This article provides the steps for switching Teams viewing options.
+  
+
+
+
+
+Teams / Channels Missing from Meeting Scheduler in Teams
+
+
+
+    This article provides troubleshooting steps when scheduling a meeting, the user does not see all of their Teams/Channels/Courses in the dropdown box after selecting "Add Channels".
+  
+
+
+
+
+Teams Meeting Options and Roles
+
+
+
+    This article provides information about what options are available for meeting organizers to control meetings in Microsoft Teams.
+  
+
+
+
+
+Update your Microsoft Teams Notifications
+
+
+
+
+
+
+
+Details
+
+
+
+Service ID: 
+        38
+      
+
+
+          Created
+        
+
+Tue 11/9/21 2:41 PM
+
+
+
+
+          Modified
+        
+
+Fri 3/10/23 10:30 AM
+
+
+
+
+
+
+
+
+Service Offerings (5)
+
+
+
+
+Report an Issue
+
+
+
+
+
+Report a Specific Bug
+
+
+
+
+
+Request New Team
+
+
+
+
+
+Request Training - MS Teams
+
+
+
+
+
+General Request / Help
+
+
+
+
+
+
+
+
+
+
+
+
+
+×
+
+
+Share
+        
+
+
+
+Recipient(s) - separate email addresses with a comma
+
+
+
+Message
+
+
+Press Alt + 0 within the editor to access accessibility instructions, or press Alt + F10 to access the menu.
+
+Check out this service I found in the Atlas Portal service catalog.<br /><br /><a href="https://atlas.utdallas.edu/TDClient/30/Portal/Requests/ServiceDet?ID=38">https://atlas.utdallas.edu/TDClient/30/Portal/Requests/ServiceDet?ID=38</a><br /><br />Microsoft Teams<br /><br />Microsoft Teams is a powerful team-based collaboration tool that provides group chat, channeled conversations, instant messaging, live document collaboration, audio or video calls, and meetings (from one-on-ones to fully-featured audio/video conferences).
+
+
+
+
+Send
+
+Close
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+800 W. Campbell RoadRichardson, Texas 75080-3021
+972-883-2111
+
+
+COPYRIGHT INFORMATION
+
+© The University of Texas at Dallas
+
+Questions or comments about this page?
+
+
+
+STAY CONNECTED WITH UT DALLAS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

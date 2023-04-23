@@ -1,0 +1,202 @@
+
+
+
+Electrical Engineering (BSEE) - Four-Year Degree Plan (Example) (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Electrical Engineering (BSEE)
+Degree Requirements (128 semester credit hours)
+Four-Year Degree Plan (Example)
+
+This is an example only. Please see advisor to develop an individual four-year plan.
+
+
+
+
+
+Freshman Year
+
+Semester 1 - Fall Notes Preferred Core SCH
+
+Semester 2 - Spring Notes Preferred Core SCH
+
+
+Core Course    3
+ENGR 2300 7, 10   3
+
+
+EE 1100 7, 8   1
+EE 1202 7, 8   2
+
+
+MATH 2417 2, 4, 7  2090 4
+MATH 2419 2, 4, 7, 10  090 4
+
+
+RHET 1302 2, 11  1090 3
+EE 2310 7, 8   3
+
+
+CS 1325 7, 9   3
+PHYS 2325 2, 5, 7, 10  3090 4
+
+
+ECS 1100 1, 7   1
+and PHYS 2125 2, 5, 7, 10  3090
+
+
+UNIV 10101   0
+    
+
+
+Total  15
+Total  16
+
+ 
+Sophomore Year
+
+Semester 3 - Fall Notes Preferred Core SCH
+
+Semester 4 - Spring Notes Preferred Core SCH
+
+
+Core Course    3
+EE 3301 7, 10   3
+
+
+Core Course    3
+Core Course    3
+
+
+ENGR 3341 7, 10   3
+ENGR 3300 7   3
+
+
+MATH 2420 7, 10   4
+Core Course    3
+
+
+PHYS 2326 2, 5, 7, 10  3090 3
+EE 3320    3
+
+
+PHYS 2126 7, 10   1
+EE 3201    2
+
+
+Total  17
+Total  17
+
+ 
+Junior Year
+
+Semester 5 - Fall Notes Preferred Core SCH
+
+Semester 6 - Spring Notes Preferred Core SCH
+
+
+EE 3161    1
+Core Course    3
+
+
+ECS 3390 2, 3, 7, 10  010 3
+EE Elective Lab (EE 4200-Level)    2
+
+
+EE 3302 7, 10   3
+EE 3311 7, 10   3
+
+
+CHEM 1311 2, 7  3090 4
+EE 4310 7, 10   3
+
+
+and CHEM 1111 2, 7  090
+EE 4370    3
+
+
+EE 3310 7, 10   3
+    
+
+
+EE 3202    2
+    
+
+
+UNIV 2020    0
+    
+
+
+Total  16
+Total  14
+
+ 
+Senior Year
+
+Semester 7 - Fall Notes Preferred Core SCH
+
+Semester 8 - Spring Notes Preferred Core SCH
+
+
+EE 4301 7   3
+EE Guided Elective    6
+
+
+EE 4388 7, 10   3
+EE 4389 7, 10   3
+
+
+Core Course    3
+Free Elective    9
+
+
+EE Guided Elective    3
+    
+
+
+EE Guided Elective    3
+    
+
+
+Total  15
+Total  18
+
+
+
+
+ 
+NOTES:
+1 Incoming freshmen must enroll and complete requirements of UNIV 1010 and the corresponding school-related freshman seminar course. Students, including transfer students, who complete their core curriculum at UT Dallas must take UNIV 2020.
+2Curriculum Requirements can be fulfilled by other approved courses from accredited institutions of higher education. The courses listed are recommended as the most efficient way to satisfy both Core Curriculum and Major Requirements at UT Dallas.
+3Semester credit hours fulfill the communication component of the Core Curriculum.
+4Three semester credit hours of Calculus are counted under Mathematics Core, and five semester credit hours of Calculus are counted as Component Area Option Core.
+5Six semester credit hours of Physics (PHYS 2325 and PHYS 2326) are counted under Science Core and one semester credit hour (PHYS 2125) is counted under the Component Area Option Core.
+6Semester credit hours contribute to the Social and Behavioral Sciences component of the Core Curriculum.
+7Students must pass each of the EE, CS, Math and Science courses listed in this degree plan and each of their prerequisites, with a grade of C- or better.
+8Transfer students with sufficient background may petition to substitute upper-division semester credit hours in the major for this class.
+9Depending on placement, student may need to complete CS 1336/1136 Programming Fundamentals prior to enrolling in CS 1325 Introduction to Programming.
+10Earliest semester course can be taken due to pre- or co-requisite course requirements.
+11Must complete by 3rd semester of enrollment.
+
+Students wishing to fast track into the graduate program in Accounting may take up to six (6) semester credit hours of graduate ACCT electives - see the Undergraduate Accounting Program Director or the Associate Area Coordinator, for specific fast-track courses. Cumulative GPA of 3.4 minimum required for Fast-Track Program. See Academic Advisor for other requirements.
+
+Be sure to check prerequisites of 2000-level or higher courses.
+128 semester credit hours required for graduation
+
+This plan is a resource tool only; it does not replace your degree plan or academic advising.
+
+
+Updated: 2022-06-06 14:17:17 v4.eba771
+
+
+
+

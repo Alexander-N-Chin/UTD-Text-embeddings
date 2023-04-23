@@ -1,0 +1,18 @@
+
+
+
+Probability and Statistics in Computer Science and Software Engineering (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogSTAT3341 - Probability and Statistics in Computer Science and Software EngineeringSTAT 3341 Probability and Statistics in Computer Science and Software Engineering (3 semester hours) Axiomatic probability theory, independence, conditional probability. Discrete and continuous random variables, special distributions of importance to CS/SE, and expectation. Simulation of random variables and Monte Carlo methods. Central limit theorem. Basic statistical inference, parameter estimation, hypothesis testing, and linear regression. Introduction to stochastic processes. Illustrative examples and simulation exercises from queuing, reliability, and other CS/SE applications. Students cannot get credit for both (CS 3341 or SE 3341 or STAT 3341) and ENGR 3341. Prerequisites: (MATH 1326 or MATH 2414 or MATH 2419), and (CE 2305 or CS 2305 or TE 2305). (Same as CS 3341 and SE 3341) (3-0) S
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+
+Linear Algebra (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogMATH2418 - Linear AlgebraMATH 2418 (MATH 2418) Linear Algebra (4 semester credit hours) Introduces and provides models for application of the concepts of vector algebra. Topics include finite dimensional vector spaces and their geometric significance; representing and solving systems of linear equations using multiple methods, including Gaussian elimination and matrix inversion; matrices; determinants; linear transformations; quadratic forms; eigenvalues and eigenvectors; and applications in science and engineering. Three lecture hours and two discussion hours a week; problem section required with MATH 2418, and will also be registered for exam section. Not all MATH/STAT courses may be counted toward various degree plans. Please consult your degree plan to determine the appropriate MATH/STAT course requirements. Prerequisite: A grade of at least a C- in either MATH 2306 or MATH 2413 or MATH 2417. (3-2) S
+
+
+
+

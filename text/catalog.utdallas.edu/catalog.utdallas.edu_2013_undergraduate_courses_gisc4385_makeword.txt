@@ -1,0 +1,18 @@
+
+
+
+Advances in GIS (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogGISC4385 - Advances in GISGISC 4385 Advances in GIS (3 semester hours) This course introduces advances in contemporary geographic information system and sciences. Topics covered may include advanced GIS applications in social and natural environments, algorithms and their implementations in GIS, computational aspects of GIS such as uncertainty and data quality assessment. Prerequisite: (GEOS 2301 or GISC 2301) or (GEOG 3304 or GISC 3304 or GEOS 3304). May be repeated for credit (6 hours maximum). (3-0) Y
+
+
+
+

@@ -1,0 +1,18 @@
+
+
+
+Cartography and GeoVisualization (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogGISC4326 - Cartography and GeoVisualizationGISC 4326 Cartography and GeoVisualization (3 semester hours) Examines the theoretical concepts and practical applications of cartographic and geographic visualization. Topics covered include concepts for geographic data representation, symbolization and map design, and methods for geographic visualization and display. 3D visualization, cartographic animation, and web-based mapping may also be included. Lab sessions explore the implementation of cartographic and geographic visualization with industry standard GIS software. Prerequisite: (GEOS 2301 or GISC 2301) or (GEOG 3304 or GEOS 3304 or GISC 3304). (3-0) Y
+
+
+
+

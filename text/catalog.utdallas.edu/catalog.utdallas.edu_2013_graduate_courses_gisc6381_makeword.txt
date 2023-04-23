@@ -1,0 +1,18 @@
+
+
+
+Geographic Information Systems Fundamentals (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Graduate CatalogGISC6381 - Geographic Information Systems FundamentalsGISC 6381 (GEOS 6381) Geographic Information Systems Fundamentals (3 semester hours) Examines the fundamentals of Geographic Information Systems and their applications. Emphasizes the concepts needed to use GIS effectively for manipulating, querying, analyzing, and visualizing spatial-based data. Industry-standard GIS software is used to analyze spatial patterns in social, economic and environmental data, and to generate cartographic output from the analysis. (3-0) Y
+
+
+
+

@@ -1,0 +1,272 @@
+
+
+
+Computer Science (BS) - Four-Year Degree Plan (Example) (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Computer Science (BS)
+Degree Requirements (124 semester credit hours)
+Four-Year Degree Plan (Example)
+
+This is an example only. Please see advisor to develop an individual four-year plan.
+
+
+
+
+
+Freshman Year
+
+Semester 1 - Fall Notes Preferred Core SCH
+
+Semester 2 - Spring Notes Preferred Core SCH
+
+
+060 Core   060 3
+060 Core   060 3
+
+
+MATH 2413 2, 4  2090
+4
+MATH 2414 2, 4, 9  2090
+4
+
+
+CS 1200   
+2
+CS 2305   
+3
+
+
+CS 1336 8  
+3
+CS 1337 8  
+3
+
+
+RHET 1302 2, 10  1090
+3
+PHYS 2325 2, 5, 9  3090
+3
+
+
+ECS 1100 1, 7   1
+PHYS 2125 2, 5, 9  3090
+1
+
+
+CS 1136 8  
+1
+    
+
+
+UNIV 1010 1  
+0
+    
+
+
+Total  17
+Total  17
+
+ 
+Sophomore Year
+
+Semester 3 - Fall Notes Preferred Core SCH
+
+Semester 4 - Spring Notes Preferred Core SCH
+
+
+040 Core   040 3
+MATH 2418   
+4
+
+
+070 Core   070 3
+070 Core   070 3
+
+
+CS 3305 9  
+3
+CS 3341   
+3
+
+
+CS 2340 9  
+3
+CS 3345   
+3
+
+
+PHYS 2326 2, 5, 9  3090
+3
+CS 3377   
+3
+
+
+PHYS 2126 9  
+1
+    
+
+
+CS 2336 9  
+3
+    
+
+
+Total  19
+Total  16
+
+ 
+Junior Year
+
+Semester 5 - Fall Notes Preferred Core SCH
+
+Semester 6 - Spring Notes Preferred Core SCH
+
+
+050 Core   050 3
+030 Core   030 3
+
+
+ECS 3390 2 3, 9  010
+3
+080 Core   080 3
+
+
+CS 3354 9  
+3
+CS 3162 9  
+1
+
+
+CS 4337   
+3
+CS 4348   
+3
+
+
+CS 4341   
+3
+CS 4349   
+3
+
+
+CS 4141   
+1
+    
+
+
+UNIV 2020   
+0
+    
+
+
+Total  16
+Total  13
+
+ 
+Senior Year
+
+Semester 7 - Fall Notes Preferred Core SCH
+
+Semester 8 - Spring Notes Preferred Core SCH
+
+
+CS 4347   
+3
+CS 4485    4
+
+
+CS 4384   
+3
+Free Elective    2
+
+
+Free Elective    2
+Free Elective    3
+
+
+CS Guided Elective    3
+CS Guided Elective    3
+
+
+CS Guided Elective    3
+    
+
+
+Total  14
+Total  12
+
+
+
+
+ 
+NOTES:
+
+1
+ Incoming freshmen must enroll and complete requirements of UNIV 1010 and the corresponding school-related freshman seminar course. Students, including transfer students, who complete their core curriculum at UT Dallas must take UNIV 2020.
+
+
+2
+Curriculum Requirements can be fulfilled by other approved courses from accredited institutions of higher education. The courses listed are recommended as the most efficient way to satisfy both Core Curriculum and Major Requirements at UT Dallas.
+
+
+3
+Semester credit hours fulfill the communication component of the Core Curriculum.
+
+
+4
+Three semester credit hours of Calculus are counted under Mathematics Core, and five semester credit hours of Calculus are counted as Component Area Option Core.
+
+
+5
+Six semester credit hours of Physics are counted under Science core, and one semester credit hour of Physics (PHYS 2125) is counted as Component Area Option Core.
+
+
+6
+Semester credit hours contribute to the Social and Behavioral Sciences component of the Core Curriculum.
+
+
+7
+Transfer students with sufficient background may petition to substitute upper-division semester credit hours in the major for this class.
+
+
+8
+Depending on placement, student may need to complete CS 1336/1136 Programming Fundamentals prior to enrolling in CS/CE 1337 Computer Science I.
+
+
+9
+Earliest semester course can be taken due to pre- or co-requisite course requirements.
+
+
+10
+Must complete by 3rd semester of enrollment.
+
+
+
+
+
+Students wishing to fast track into the graduate program in Accounting may take up to six (6) semester credit hours of graduate ACCT electives - see the Undergraduate Accounting Program Director or the Associate Area Coordinator, for specific fast-track courses. Cumulative GPA of 3.4 minimum required for Fast-Track Program. See Academic Advisor for other requirements.
+
+
+Be sure to check prerequisites of 2000-level or higher courses.
+
+124 semester credit hours required for graduation
+
+
+This plan is a resource tool only; it does not replace your degree plan or academic advising.
+
+
+Updated: 2022-05-21 13:21:45 v5.b150ff
+
+
+
+

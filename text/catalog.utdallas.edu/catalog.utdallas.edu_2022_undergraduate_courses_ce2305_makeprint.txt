@@ -1,0 +1,18 @@
+
+
+
+Discrete Mathematics for Computing I (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCE2305 - Discrete Mathematics for Computing ICE 2305 (MATH 2305) Discrete Mathematics for Computing I (3 semester credit hours) Principles of counting. Boolean operations. Logic and proof methods. Recurrence relations. Sets, relations, functions. Elementary graph theory. Elementary number theory. Prerequisite: ALEKS score required or MATH 2312 with a grade of C or better or (Data Science major and MATH 2413). (Same as CS 2305) (3-0) S
+
+
+
+

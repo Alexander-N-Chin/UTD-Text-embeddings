@@ -1,0 +1,202 @@
+
+
+
+Computer Science (BS) (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Department of Computer Science
+Computer Science (BS)
+The Computer Science Department offers the BS degree in Computer Science and the BS degree in Software Engineering. Both are based on a solid foundation of mathematics, including calculus, and discrete mathematics. These programs of study are designed to offer students opportunities to prepare for an industrial, business, or governmental career in a rapidly changing profession and to prepare for graduate study in a field in which further education is strongly recommended. The two programs have the same basis in core computer science, including the analysis of algorithms and data structures, modern programming methodologies, and the study of operating systems. The Computer Science program continues with courses in advanced data structures, programming languages, telecommunications networks, and automata theory, while the Software Engineering program includes courses in requirements engineering, software validation and testing, and software architecture, culminating in a challenging project course in which students must demonstrate use of software engineering techniques. Both programs offer a rich choice of elective studies, including courses in artificial intelligence, computer graphics, and compiler design.
+The school offers a "fast track" BS / MS option; see Fast Track Baccalaureate/Master's Degree Program.
+The Computer Science Department and the Department of Mathematical Sciences in the School of Natural Sciences and Mathematics jointly offer a BS degree in Data Science.
+Mission of the Department of Computer Science
+The mission of the Department of Computer Science is to prepare undergraduate and graduate students for productive careers in industry, academia, and government by providing an outstanding environment for teaching, learning, and research in the theory and applications of computing. The Department places a high priority on establishing and maintaining innovative research programs to enhance its education quality and make it an important regional, national, and international resource center for discovering, integrating, and applying new knowledge and technologies.
+Goals for the Computer Science Program
+The undergraduate Computer Science program is committed to providing students with a high-quality education and preparing them for long and successful careers in industry and government.
+Our graduates, while eminently ready for immediate employment, will also be fully ready for focused training as required for specific positions in Computer Science and closely related areas. Graduates interested in highly technical careers, research, and/or academia will be fully prepared to further their education in graduate school.
+Program Educational Objectives for Computer Science
+Within a few years after graduation, graduates of the Computer Science program should:
+
+Have a successful, long-lived, computer science based career path.
+Meet the needs of industry or academia.
+Contribute to, and/or lead, computer science based teams.
+Actively pursue continuing (lifelong) learning.
+
+ABET Accreditation
+The BS program in Computer Science is accredited by the Computing Accreditation Commission of ABET, www.abet.org.
+
+Bachelor of Science in Computer Science
+Degree Requirements (124 semester credit hours)1
+View an Example of Degree Requirements by Semester
+Faculty
+FACG> ecs-computer-science-bsProfessors: Farokh B. Bastani @bastani, Sergey Bereg @sxb027100, Ovidiu Daescu @daescu, Yvo G. Desmedt @ygd120030, Ding-Zhu Du @dxd056000, András Faragó @farago, Paul Fishwick @pxf130430, Xiaohu Guo @xxg061000, Gopal Gupta @gupta, Zygmunt Haas @zjh130030, Kevin Hamlen @kxh060100, Sanda M. Harabagiu @sanda, Dung T. Huynh @huynh, Jason Jue @jjue, Murat Kantarcioglu @mxk055100, Latifur Khan @lkhan, Andrian Marcus @axm141731, Neeraj Mittal @nxm020100, Dan I. Moldovan @moldovan, Sriraam Natarajan @sxn177430, Yu-Chung (Vincent) Ng @ycn041000, Tien Nguyen @tnn160630, Simeon C. Ntafos @ntafos, Balakrishnan Prabhakaran @praba, Ravi Prakash @ravip, Kamil Sarac @kxs028100, Haim Schweitzer @haim, Bhavani Thuraisingham @bxt043000, Subbarayan Venkatesan @venky, W. Eric Wong @wew021000, Weili Wu @wxw020100, I-Ling Yen @ilyenAssociate Professors: Feng Chen @fxc190007, Lawrence Chung @chung, Jorge A. Cobb @jcobb, Vibhav Gogate @vxg112130, Benjamin Raichel @bar150630, Nicholas Ruozzi @nrr150130, Rym Zalila-Wenkstern @rmiliAssistant Professors: Kyle Fox @kjf170230, Shuang Hao @sxh178730, Rishabh Iyer @rki190000, Kangkook Jee @kxj190011, Chung Hwan Kim @cxk200010, Jin Kim @jrk200002, Jessica Ouyang @jjo190001, Shiyi Wei @sxw174630, Yu Xiang @yxx210005, Wei Yang @wxy180002Professors Emeriti: R. Chandrasekaran @chandra, Ivor P. Page @ivor, William J. Pervin @pervin, Balaji Raghavachari @rbk, Ivan Hal Sudborough @hal, Klaus Truemper @klaus, Kang Zhang @kzhangProfessors of Instruction: Ebru Cankaya @exc067000, John Cole @jxc064000, Doug DeGroot @dxd180020, Timothy (Tim) Farage @tfarage, Shyam Karrah @skarrah, Pushpa Kumar @pkumar, Nhut Nguyen @nhutnn, Greg Ozbirn @ozbirn, Miguel Razo-Razo @mrazoraAssociate Professors of Instruction: Sridhar Alagar @sxa173731, Gordon Arnold @gxa120930, Anjum Chida @axc157030, Wei Pang Chin @wxc180013, Bhadrachalam Chitturi @chalam, Michael Christiansen @mgc013000, Chris I. Davis @cid021000, Karen Doore @kld054000, Neeraj Gupta @nkg140130, Khiem Le @kvl140030, Mehra Nouroz Borazjany @mxn143230, Jalal Omer @jso016000, Mark Paulk @mcp130030, Jason W. Smith @jws130830, Laurie Thompson @lthomp, Jeyakesavan (Jey) Veerasamy @veerasam, James Willson @jkw053000, Nurcan Yuruk @nxy140530Assistant Professors of Instruction: Eric Becker @ewb160130, Scott Dollinger @smd013000, Serdar Erbatur @sxe190003, Ranran Feng @rxf090020, Omar Hamdy @oxh210004, Gity Karami @gxk180009, Kamran Khan @kkhan, Karen Mazidi @kjm160430, Richard K. Min @rkm010300, Anarag Nagar @axn112530, Priya Narayanasami @pxn173330, Elmer Salazar @ees101020, Meghana Satpute @mns086000, Klyne Smith @kxs180052, Nidhiben Solanki @nxs121130, Srimathi Srinivasan @sxs180206, Yi Zhao @zhao
+I. Core Curriculum Requirements: 42 semester credit hours2
+Communication: 6 semester credit hours
+RHET 1302 Rhetoric
+ECS 3390 Professional and Technical Communication3
+Or select any 6 semester credit hours from Communication Core courses (see advisor)
+Mathematics: 3 semester credit hours
+MATH 2413 Differential Calculus4
+or MATH 2417 Calculus I4
+Or select any 3 semester credit hours from Mathematics Core courses (see advisor)
+Life and Physical Sciences: 6 semester credit hours
+PHYS 2325 Mechanics5
+PHYS 2326 Electromagnetism and Waves5
+Or select any 6 semester credit hours from Life and Physical Sciences Core courses (see advisor)
+Language, Philosophy and Culture: 3 semester credit hours
+Select any 3 semester credit hours from Language, Philosophy and Culture Core courses (see advisor)
+Creative Arts: 3 semester credit hours
+Select any 3 semester credit hours from Creative Arts Core courses (see advisor)
+American History: 6 semester credit hours
+Select any 6 semester credit hours from American History Core courses (see advisor)
+Government/Political Science: 6 semester credit hours
+GOVT 2305 American National Government
+GOVT 2306 State and Local Government
+Or select any 6 semester credit hours from Government/Political Science Core courses (see advisor)
+Social and Behavioral Sciences: 3 semester credit hours
+Select any 3 semester credit hours from Social and Behavioral Sciences Core courses (see advisor)
+Component Area Option: 6 semester credit hours
+MATH 2413 Differential Calculus4
+or MATH 2417 Calculus I4
+MATH 2419 Calculus II4
+PHYS 2125 Physics Laboratory I5
+Or select any 6 semester credit hours from Component Area Option Core courses (see advisor)
+II. Major Requirements: 72 semester credit hours
+Major Preparatory Courses: 24 semester credit hours beyond Core Curriculum
+ECS 1100 Introduction to Engineering and Computer Science6
+CS 1200 Introduction to Computer Science and Software Engineering
+CS 1136 Computer Science Laboratory
+CS 1336 Programming Fundamentals
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I7
+CS 2336 Computer Science II
+CS 2340 Computer Architecture
+MATH Sequence - Students may choose one of the following sequences:
+I. MATH 2413 Differential Calculus4
+and MATH 2414 Integral Calculus4
+OR
+II. MATH 2417 Calculus I4
+   and MATH 2419 Calculus II4
+MATH 2418 Linear Algebra
+PHYS 2125 Physics Laboratory I5
+PHYS 2126 Physics Laboratory II
+PHYS 2325 Mechanics5
+PHYS 2326 Electromagnetism and Waves5
+Major Core Courses: 39 semester credit hours beyond Core Curriculum
+CS 3162 Professional Responsibility in Computer Science and Software Engineering
+CS 3305 Discrete Mathematics for Computing II
+CS 3341 Probability and Statistics in Computer Science and Software Engineering8
+CS 3345 Data Structures and Introduction to Algorithmic Analysis
+CS 3354 Software Engineering
+CS 3377 Systems Programming in UNIX and Other Environments
+ECS 3390 Professional and Technical Communication3
+CS 4141 Digital Systems Laboratory
+CS 4337 Programming Language Paradigms
+CS 4341 Digital Logic and Computer Design
+CS 4347 Database Systems
+CS 4348 Operating Systems Concepts
+CS 4349 Advanced Algorithm Design and Analysis
+CS 4384 Automata Theory
+CS 4485 Computer Science Project
+Major Guided Electives: 9 semester credit hours
+CS guided electives are 4000 level CS courses approved by the student's CS advisor. The following courses may be used as guided electives without the explicit approval of an advisor:
+CS 4314 Intelligent Systems Analysis
+CS 4315 Intelligent Systems Design
+CS 4334 Numerical Analysis
+CS 4336 Advanced Java
+CS 4352 Human-Computer Interaction I
+CS 4353 Human-Computer Interaction II
+CS 4361 Computer Graphics
+CS 4365 Artificial Intelligence
+CS 4375 Introduction to Machine Learning
+CS 4376 Object-Oriented Design
+CS 4386 Compiler Design
+CS 4389 Data and Applications Security
+CS 4390 Computer Networks
+CS 4391 Introduction to Computer Vision
+CS 4392 Computer Animation
+CS 4393 Computer and Network Security
+CS 4394 Implementation of Modern Operating Systems
+CS 4395 Human Language Technologies
+CS 4396 Networking Laboratory
+CS 4397 Embedded Computer Systems
+CS 4398 Digital Forensics
+CS 4399 Senior Honors in Computer Science
+EE 4325 Introduction to VLSI Design
+SE 4351 Requirements Engineering
+SE 4352 Software Architecture and Design
+SE 4367 Software Testing, Verification, Validation and Quality Assurance
+SE 4381 Software Project Planning and Management
+Any other organized CS 4300-level course
+III. Elective Requirements: 10 semester credit hours
+Free Electives: 10 semester credit hours
+Both lower- and upper-division courses may count as free electives but students must complete at least 51 semester credit hours of upper-division courses to qualify for graduation.
+Degree programs in the Erik Jonsson School of Engineering and Computer Science are governed by various accreditation boards that place restrictions on classes used to meet the curricular requirements of degrees they certify. For this reason, not all classes offered by the University can be used to meet elective requirements. Please check with your academic advisor before enrolling in classes you hope to use as free electives.
+
+Fast Track Baccalaureate/Master's Degrees
+In response to the need for post-baccalaureate education in the exciting field of computer science, a Fast Track program is available to well-qualified UT Dallas undergraduate students. Qualified seniors may take up to 15 graduate semester credit hours that may be used to complete the baccalaureate degree and also to satisfy requirements for the master's degree. Interested students should see the Associate Dean of Undergraduate Education (ADU) for specific requirements.
+Honors Programs
+The Department of Computer Science offers an Honors Program called Computer Science Computing Scholars (CS2). (CS2) is an intense Bachelor of Science in Computer Science Degree Program created for exceptionally gifted students who wish to pursue a demanding course of study enriched throughout with research experiences. The Computing Scholars Program has a specially designed curriculum. Courses integrate discussion of current research, recent discoveries, and open problems into a rich logical progression of firmly related topics. Course numbers for the Core Curriculum Requirements and Major Requirements are the same as those for the Bachelor of Science in Computer Science, but Computing Scholars take honors versions of the following courses: ECS 1100, CS 2305, CS 2340, CS 3305, CS 3341, CS 3345, CS 3354, CS 4141, CS 4337, CS 4341, CS 4348, CS 4349, CS 4384, and CS 4485.
+Admission to the program is mainly by nomination and invitation. Those invited to join the Computing Scholars Honors Program will have successfully completed a full and challenging high school curriculum, will have achieved high scores on the SAT or ACT tests, and will be about to graduate from high school, or equivalent, with high class rank.
+Successful participants will graduate with the added distinction of a Computing Scholars Honors Diploma.
+For more information about this program students should contact the Computer Science Department leadership.
+
+Minors
+Students will be expected to meet the normal prerequisites in courses making up the minor, and should maintain a minimum GPA of 2.000 on a 4.00 scale (C average).
+Minor in Computer Science
+21 semester credit hours
+Students majoring in Computer Engineering, Computer Science or Software Engineering cannot add a minor in Computer Science.
+A minor in Computer Science requires 21 semester credit hours earned through the following courses:
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+CS 3305 Discrete Mathematics for Computing II
+CS 3345 Data Structures and Introduction to Algorithmic Analysis
+CS 3354 Software Engineering
+CS Elective (any 4000-level organized CS class or CS 4390)
+ 
+Minor in Information Assurance
+30 semester credit hours
+A minor in Information Assurance requires 30 semester credit hours earned through the following courses:
+CS 1337 Computer Science I
+CS 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+CS 3305 Discrete Mathematics for Computing II
+CS 3345 Data Structures and Introduction to Algorithmic Analysis
+CS 4347 Database Systems
+CS 4348 Operating Systems Concepts
+CS 4389 Data and Applications Security
+CS 4393 Computer and Network Security
+CS 4398 Digital Forensics
+ 
+Certificates
+Certificate in Information Assurance
+9 semester credit hours
+A Certificate in Information Assurance is offered by the Department of Computer Science. It can be obtained by completing the following (as well as any required prerequisites):
+CS 4389 Data and Applications Security
+CS 4393 Computer and Network Security
+CS 4398 Digital Forensics
+Students that complete the Minor in Information Assurance will not be awarded certificates in Information Assurance.
+
+1. Incoming freshmen must enroll and complete requirements of UNIV 1010 and the corresponding school-related freshman seminar course. Students, including transfer students, who complete their core curriculum at UT Dallas must take UNIV 2020.
+2. Curriculum Requirements can be fulfilled by other approved courses. The courses listed are recommended as the most efficient way to satisfy both Core Curriculum and Major Requirements at UT Dallas.
+3. Semester credit hours fulfill the communication component of the Core Curriculum.
+4. Three semester credit hours of Calculus are counted under Mathematics Core, and five semester credit hours of Calculus are counted as Component Area Option Core.
+5. Six semester credit hours of Physics are counted under Science core, and one semester credit hour of Physics (PHYS 2125) is counted as Component Area Option Core.
+6. Transfer students with sufficient background may petition to substitute upper-division semester credit hours in the major for this class.
+7. BS in Data Science students can substitute MATH 3315 for CS 2305.
+8. BS in Data Science students can substitute STAT 3355 for CS 3341.
+Updated: 2022-03-25 15:00:19 v18.ab1d2e
+
+
+
+

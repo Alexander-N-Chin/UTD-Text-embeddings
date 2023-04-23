@@ -1,0 +1,18 @@
+
+
+
+Mathematical Statistics (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogSTAT4352 - Mathematical StatisticsSTAT 4352 Mathematical Statistics (3 semester credit hours) Sampling distributions. Order statistics. Decision theory including minimax and Bayes criterion. Point estimation including unbiased estimators, efficiency, consistency, sufficiency, robustness, the method of moments, the method of maximum likelihood, Bayesian estimation. Interval estimation including the estimation of means, differences of means, proportions, differences between proportions, variances and ratios of variances. Hypothesis testing including Neyman-Pearson lemma, power function and likelihood ratio test. Special tests involving means, variances and proportions. Nonparametric tests. Foundations of regression, correlation, design and analysis of experiments. Proofs of all main results. Practical examples illustrating the theory. The course can be used as a preparation for the statistical part of the fourth actuarial exam. Prerequisite: STAT 4351 or equivalent. (3-0) Y
+
+
+
+

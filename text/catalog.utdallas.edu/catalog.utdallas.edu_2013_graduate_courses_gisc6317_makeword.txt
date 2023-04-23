@@ -1,0 +1,18 @@
+
+
+
+Computer Programming for GIS (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Graduate CatalogGISC6317 - Computer Programming for GISGISC 6317 Computer Programming for GIS (3 semester hours) General introduction to Visual Basic and other languages with GIS related applications. Topics covered include fundamental data structures and algorithms, user-interface design, component object model, and data base management. Emphasis on rapid GIS application development with hands-on experiences. Students are expected to design and implement a project. (3-0) Y
+
+
+
+

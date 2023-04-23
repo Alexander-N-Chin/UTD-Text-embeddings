@@ -1,0 +1,18 @@
+
+
+
+Mobile Web Application Development (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate CatalogMIS4312 - Mobile Web Application DevelopmentMIS 4312 Mobile Web Application Development (3 semester hours) Provides an introduction to mobile web application development. A mobile web application is developed using a combination of CSS, HTML5, JavaScript, and PHP. Emphasis is given to hands on application of course material through development of a web application prototype under conditions simulating a business environment. Prior programming knowledge is highly recommended. (3-0) Y
+
+
+
+

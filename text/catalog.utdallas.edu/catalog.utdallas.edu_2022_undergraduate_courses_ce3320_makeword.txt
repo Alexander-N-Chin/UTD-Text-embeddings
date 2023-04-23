@@ -1,0 +1,18 @@
+
+
+
+Digital Circuits (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2022 Undergraduate CatalogCE3320 - Digital CircuitsCE 3320 Digital Circuits (3 semester credit hours) Design and analysis of combinational logic circuits using basic logic gates and other building blocks like multiplexers and ROMs. Design and analysis of latches and flip-flops. Design and analysis of synchronous state machines. State minimization and introduction to state assignment. Design of datapath components: adders, multipliers, registers, shifters, and counters. Electrical properties of logic gates. Credit cannot be received for both courses, CS 4341 and CE 3320. Prerequisite: CE 2310 or EE 2310. (Same as EE 3320) (3-0) S
+
+
+
+

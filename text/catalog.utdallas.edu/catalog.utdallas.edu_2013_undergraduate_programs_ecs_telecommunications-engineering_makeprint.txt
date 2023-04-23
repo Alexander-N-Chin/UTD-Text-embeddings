@@ -1,0 +1,121 @@
+
+
+
+Telecommunications Engineering (Print Version)
+
+
+
+
+
+
+
+
+
+UT Dallas 2013 Undergraduate Catalog
+Erik Jonsson School of Engineering and Computer Science
+Interdisciplinary Programs
+The Erik Jonsson School of Engineering and Computer Science offers Bachelor of Science programs in Computer Engineering and in Telecommunications Engineering. These programs are delivered by faculty from the Department of Computer Science and Electrical Engineering.
+Telecommunications Engineering (BSTE)
+Affiliated Faculty
+Professors: Naofal M. Al-Dhahir, Farokh B. Bastani, András Faragó, Andrea Fumagalli, John H. L. Hansen, Jason Jue, Latifur Khan, Kamran Kiasaleh, Duncan L. MacFarlane, Won Namgoong, Aria Nosratinia, Balakrishnan Prabhakaran, Ravi Prakash, Balaji Raghavachari, Mohammad Saquib, Lakshman Tamil, Subbarayan Venkatesan, W. Eric Wong, I-Ling Yen, Si Qing Zheng
+Professor Emeritus: William J. Pervin
+Associate Professors: Jorge A. Cobb, Hlaing Minn, Neeraj Mittal, Kamil Sarac, Murat Torlak, Yuke Wang
+Senior Lecturers: Charles (Pete) Bernardin, Nathan B. Dodge, P. K. Rajasekaran, Marco Tacca
+Goals for the Telecommunications Engineering Program
+The focus of the UT Dallas' Telecommunications Engineering degree is to provide excellent education in modern communications networks and systems. Our graduates shall be uniquely qualified to apply traditional engineering design and problem solving skills in modern telecommunications.
+Program Educational Objectives for Telecommunications Engineering
+Within a few years after graduation, graduates of the Telecommunications Engineering Program should:
+
+Have a successful, long-lived, engineering based career path
+Meet the needs of industry
+Contribute to, and/or lead, engineering based teams
+Actively pursue continuing (lifelong) learning
+
+High School Preparation
+Engineering education requires a strong high school preparation. Pre-engineering students should have high school preparation of at least one-half year in trigonometry and at least one year each in elementary algebra, intermediate and advanced algebra, plane geometry, chemistry, and physics, thus developing their competencies to the highest possible levels and preparing to move immediately into demanding college courses in calculus, calculus-based physics, and chemistry for science majors. It is also essential that pre-engineering students have the competence to read rapidly and with comprehension, and to write clearly and correctly.
+Lower-Division Study
+All lower-division students in either Electrical Engineering or Telecommunications Engineering concentrate on mathematics, science and introductory engineering courses, building competence in these cornerstone areas for future application in upper-division engineering courses. The following requirements apply both to students seeking to transfer to UT Dallas from other institutions as well as to those currently enrolled at UT Dallas, whether in another school or in the Erik Jonsson School of Engineering and Computer Science.
+ABET Accreditation
+The BS program in Telecommunications Engineering is accredited by the Engineering Accreditation Commission of ABET, www.abet.org.
+Academic Progress in Telecommunications Engineering
+In order to make satisfactory academic progress as a Telecommunications Engineering major, a student must meet all University requirements for academic progress, and must earn a grade of C- or better in each of the major core courses. No "Major Requirement" course (as listed under Section II of the BSTE degree requirement) may be taken until the student has obtained a grade of C- or better in each of the prerequisites (if a higher grade requirement is stated for a specific class, the higher requirement applies).
+Bachelor of Science in Telecommunications Engineering
+Degree Requirements (125 hours)
+I. Core Curriculum Requirements: 42 hours1
+Communication (6 hours)
+3 hours Communication (RHET 1302)
+3 hours Professional and Technical Communication (ECS 3390)2
+Social and Behavioral Sciences (15 hours)
+6 semester credit hours Government (GOVT 2301 and GOVT 2302)
+6 hours American History
+3 hours Social and Behavioral Science elective (ECS 3361)
+Humanities and Fine Arts (6 hours)
+3 hours Fine Arts (ARTS 1301)
+3 hours Humanities (HUMA 1301)
+Mathematics and Quantitative Reasoning (6 hours)
+6 hours Calculus (MATH 2417 and MATH 2419)3
+Science (9 hours)
+8 hours Physics (PHYS 2325, PHYS 2125, PHYS 2326 and PHYS 2126)
+4 hours Chemistry (CHEM 1311 and CHEM 1111)4
+II. Major Requirements: 74 hours5
+Major Preparatory Courses (22 hours beyond Core Curriculum)
+CHEM 1111 General Chemistry Laboratory I4
+CHEM 1311 General Chemistry I4
+ECS 1200 Introduction to Engineering and Computer Science6
+CS 1337 Computer Science I
+TE 2305 Discrete Mathematics for Computing I
+CS 2336 Computer Science II
+TE 1202 Introduction to Electrical Engineering6
+MATH 2417 Calculus I3
+MATH 2419 Calculus II3
+MATH 2420 Differential Equations with Applications
+PHYS 2125 Physics Laboratory I
+PHYS 2126 Physics Laboratory II
+PHYS 2325 Mechanics
+PHYS 2326 Electromagnetism and Waves
+Major Core Courses (52 hours beyond Core Curriculum)
+CS 3340 Computer Architecture
+CS 4141 Digital Systems Laboratory
+CS 4341 Digital Logic and Computer Design
+ECS 3361 Social Issues and Ethics in Computer Science and Engineering7
+ECS 3390 Professional and Technical Communication2
+EE 3150 Communications Systems Laboratory
+ENGR 3300 Advanced Engineering Mathematics
+EE 3350 Communications Systems
+EE 4360 Digital Communications
+EE 4361 Introduction to Digital Signal Processing
+TE 3101 Electrical Network Analysis Laboratory
+TE 3102 Signals and Systems Laboratory
+TE 3301 Electrical Network Analysis
+TE 3302 Signals and Systems
+ENGR 3341 Probability Theory and Statistics
+TE 3345 Data Structures and Introduction to Algorithmic Analysis
+TE 4348 Operating Systems Concepts
+TE 4365 Introduction to Wireless Communication
+TE 4367 Telecommunication Networks
+TE 4388 Senior Design Project I
+TE 4389 Senior Design Project II
+TE 4390 Computer Networks
+III. Elective Requirements: 9 hours
+Free Electives (9 hours)
+Both lower-and upper-division courses may count as free electives, but students must complete at least 51 hours of upper-division courses to qualify for graduation.
+Degree programs in the Erik Jonsson School of Engineering and Computer Science are governed by various accreditation boards that place restrictions on classes used to meet the curricular requirements of degrees they certify. For this reason, not all classes offered by the University can be used to meet elective requirements. Please check with your academic advisor before enrolling in classes you hope to use as free electives.
+Fast Track Baccalaureate/Master's Degrees
+In response to the need for advanced education in telecommunications engineering, a Fast Track program is available to well-qualified UT Dallas undergraduate students. The Fast Track program is designed to accelerate a student's education so that both a BSTE and an MSTE degree can be earned in five years of full-time study. This is accomplished by (1) taking courses (typically electives) during one or more summer semesters, and (2) beginning graduate coursework during the senior year. Details are available from the Associate Dean for Undergraduate Education.
+Honors Program
+The Telecommunications Engineering Program offers upper-division Honors for outstanding students in the BS Telecommunications Engineering degree program. This program offers special sections of designated classes and other activities designed to enhance the educational experience of exceptional students. Admission to the Honors programs requires a 3.500 GPA in at least 30 hours of coursework. Graduation with Honors requires a 3.500 or better GPA and completion of at least 6 honors classes. These honors classes must include either Senior Honors (CE 4399) or Undergraduate Research in Telecommunications Engineering (TE 4V98) and a Senior Honors Thesis must be completed within one of those two classes. (While the topics may be related, the Senior Thesis does not replace the need for the student to complete a regular Senior Design Project.) The other 5 honors classes can come from a mixture of Graduate level (up to a count of 4) classes and special honor sections of regular undergraduate TE classes (up to a count of 2). Current undergraduate honors courses include but are not limited to: CE 2310 or EE 2310 (H), EE 3350 or TE 3350 (H), CE 4399 and TE 4V98. Course grades in the 6 honor classes used to determine Honors status must be B- or higher to qualify.
+Departmental Honors with Distinction may be awarded to students whose Senior Honors Thesis is judged by a faculty committee to be of exemplary quality. Only students graduating with Departmental Honors are eligible. Thesis/projects must be submitted by the deadline that applies to MS Theses in the graduating semester to allow for proper evaluation. Students interested in Honors with Distinction are encouraged to start working on their thesis/project a year prior to graduation.
+Minors
+The School of Engineering and Computer Science does not offer minors in Telecommunications Engineering at this time.
+1. Curriculum Requirements can be fulfilled by other approved courses from accredited institutions of higher education. The courses listed in parentheses are recommended as the most efficient way to satisfy both Core Curriculum and Major Requirements at UT Dallas.
+2. Hours fulfill the communication component requirement of the Core Curriculum.
+3. Six hours of Calculus are counted under Mathematics Core above, and two hours of Calculus are counted as Major Preparatory Courses.
+4. One hour of General Chemistry I and General Chemistry I Laboratory is counted under Science core, and three hours are counted as Major Preparatory Courses.
+5. Students must pass each of the EE, CS, Math and Science courses listed in this degree plan and each of their prerequisites, with a grade of C- or better.
+6. Transfer students with sufficient background may petition to substitute upper-division hours in the major for this class.
+7. Hours contribute to the Social and Behavioral Sciences component of the Core Curriculum.
+Updated: 2019-08-09 13:11:05 v2.b19fa7
+
+
+
+
